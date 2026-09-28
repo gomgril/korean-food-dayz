@@ -29,3 +29,9 @@ validation/
 *.bin
 Thumbs.db
 desktop.ini
+
+# tools/models scratch, build output and PBO backups
+tools/models/work/
+tools/models/out/
+tools/models/base/
+**/__pycache__/
