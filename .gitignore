@@ -1,0 +1,31 @@
+# 서명키: 절대 올리지 않는다
+*.biprivatekey
+*.bikey
+*.bisign
+
+# 빌드 결과물 (창작마당·릴리스로 배포)
+*.pbo
+@KoreanFood/Addons/
+
+# 모델·텍스처·제품 이미지 (비공개로 로컬 보관)
+*.p3d
+*.paa
+*.png
+*.jpg
+*.jpeg
+*.tga
+*.psd
+*.blend
+*.blend1
+
+# 애니메이션·사운드 바이너리
+*.anm
+*.ogg
+
+# 이 PC의 경로·서버 정보가 들어 있는 검증·배포 기록
+validation/
+
+# 기타
+*.bin
+Thumbs.db
+desktop.ini

@@ -1,0 +1,19 @@
+0.4.8
+
+• 여러 언어를 지원합니다. 아이템 이름·설명과 행동·제작 이름이 게임 언어에 맞춰 영어·러시아어·독일어·포르투갈어·폴란드어·중국어(번체·간체)·일본어로 표시되고, 그 밖의 언어는 영어로 표시됩니다. 한글 패치(DayzTranslate_KR)를 함께 쓰면 한국어로 표시됩니다.
+• 모드가 플레이어 캐릭터의 기본 설정 상속을 끊던 문제를 고쳤습니다. (서버 로그의 SurvivorBase 경고 제거)
+• 자연 스폰 설정 파일을 모드에 포함했습니다: @KoreanFood\extras\types_koreanfood.xml
+  봉지라면·컵라면 9종과 젓가락이 새로 스폰 목록에 들어갔습니다. 적용 방법은 설명을 참고하세요.
+• 스폰 설정을 다듬었습니다. 스폰 빈도를 5배로 올리고, 제품 종류별로 수명·스폰 장소(사무실·학교·놀이공원·군부대 등)·지역 등급(Tier)을 바닐라 음식에 맞춰 지정했습니다.
+• 빈 종이컵을 최대 10개까지 겹쳐 가지고 다닐 수 있습니다.
+• 컵라면 완성품 이름의 불필요한 공백을 정리했습니다.
+• 리팩·모드팩 포함을 허락합니다. 자세한 내용은 모드 폴더의 PERMISSIONS.txt를 참고하세요.
+
+• Multi-language support: item names, descriptions, actions and crafting names follow the game language in English, Russian, German, Portuguese, Polish, Chinese (Traditional and Simplified) and Japanese, with English for other languages. With the DayzTranslate_KR Korean patch loaded they show in Korean
+• Fixed the mod breaking the player character's base config inheritance (removes the SurvivorBase warnings in the server log)
+• The loot spawn file now ships with the mod: @KoreanFood\extras\types_koreanfood.xml
+  The 9 packet/cup noodles and chopsticks are now in the spawn list. See the description for setup.
+• Reworked spawn settings: items now spawn 5 times as often, and each product type has its own lifetime, spawn locations (offices, schools, amusement parks, military, etc.) and map tiers based on vanilla food
+• Empty paper cups now stack up to 10
+• Removed stray spaces from the names of prepared cup noodles
+• Repacks and modpacks are now explicitly allowed; see PERMISSIONS.txt in the mod folder

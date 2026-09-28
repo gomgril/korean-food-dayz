@@ -1,0 +1,64 @@
+Korean Food & Drinks
+
+Bring a taste of Korea to DayZ.
+
+This mod adds Korean instant noodles, ready-to-eat rice, canned food, packaged meals, snacks, coffee, tea, and drinks. Items have distinct packaging and food contents, with opening and preparation steps such as adding water.
+
+🍜 Noodles & Meals
+
+• Packet and cup noodles, with chopsticks for eating prepared noodles
+• Craft chopsticks by combining a wooden stick with a knife (kitchen, hunting, combat knife, etc.)
+• Eat dry noodles, cook with hot water, or drain and mix sauce into bibim noodles
+• Rice, nurungji (scorched rice), porridge, canned food, curry, jjajang, soups, and combat rations
+
+🍫 Snacks & Sweets
+
+• 6 Pepero varieties, 4 Kkokkalcorn varieties, and 3 Home Run Ball packaging/flavor variants
+• Yanggaeng, Choco Pie, Diget chocolate biscuits, hardtack, dalgona, energy bars, and more
+• Open the packaging to reveal food contents specific to each product
+
+🥤 Drinks & Tea
+
+• A selection of drinks, including 3 flavored milks, 3 Oran-C varieties, and 3 Gatorade varieties
+• JuicyCool in 4 flavors and 2 sizes—450 ml and 930 ml—for 8 variants in total
+• Barley, corn, Solomon's seal, and cassia seed teas, plus coffee and misugaru (a roasted grain drink)
+• Finished cans and bottles disappear. Finishing a JuicyCool carton leaves one sheet of paper
+• Craft one empty paper cup from two sheets of paper, including paper from finished JuicyCool cartons. Empty paper cups stack up to 10
+
+The mod currently includes 227 item classes. This count includes sealed, opened, and prepared versions of the same products, as well as tools; it does not mean 227 different foods. 118 of them (sealed products, chopsticks, and paper cups) spawn in the world.
+
+🤖 About the Use of AI
+
+I don't know how to code or develop mods, but I wanted to see familiar Korean food in DayZ. I relied entirely on AI for the technical side of creating this mod.
+
+My role has been choosing the products and features, gathering reference photos, trying things in the game, and pointing out what needed fixing. AI tools handled the technical work, including writing code, creating and revising models, textures, and animation assets, and investigating errors.
+
+I want to be transparent about how this mod was made. It has grown through my ideas, reference materials, and in-game feedback, with AI carrying out the technical implementation.
+
+There may still be things that need work. If you find a problem, please let me know. I'll keep improving the mod based on your feedback.
+
+🔧 Setup & Current Status
+
+• Functionality has been tested on a standard DayZ 1.29 dedicated server
+• Install the same mod version on the server and on every connecting client
+• Item names and descriptions follow the game language in English, Russian, German, Portuguese, Polish, Chinese and Japanese, with English for other languages, and show in Korean when the DayzTranslate_KR Korean patch is also loaded. DayZ does not reload mod text when you change the language in-game, so restart the game after changing it
+• A loot spawn file is included: @KoreanFood\extras\types_koreanfood.xml
+  Option 1) Create a kf_ce folder in your mission folder, put the file there, and add this line just above </economycore> in cfgeconomycore.xml:
+  <ce folder="kf_ce"><file name="types_koreanfood.xml" type="types" /></ce>
+  Option 2) Copy all <type ...> entries from the file and paste them just above </types> in your mission's db\types.xml.
+  Use only one of the two options; using both creates duplicate entries.
+  Only sealed products, chopsticks, and paper cups spawn; opened and prepared states do not. Keep quantmin/quantmax at 100, because noodles and meals can only be prepared from a full package.
+• Food-to-mouth alignment, finger clipping, equipment-related animation differences, and noodle visuals in multiplayer are still being checked
+• Packaging and eating actions also use some base-game animations. Not every product has its own custom opening animation
+
+📦 Repacks & Modpacks
+
+Anyone may repack this mod or include it in their own modpack or server pack without asking. You may re-sign it with your own key and change its settings, spawns and translations for your server.
+Just three requests: credit the original (Korean Food & Drinks by gomgril) with a link to this page in your modpack description, do not sell this mod or put it behind a paywall, and do not present it as your own work.
+Details are in PERMISSIONS.txt in the mod folder. Product names, packaging and trademarks belong to their respective owners and are not covered by this permission.
+
+📝 Reporting Problems
+
+Please include the item name, what you were doing when the problem occurred, and whether you were in first-person or third-person view. A screenshot or short video is helpful. If an error message appears, please include its exact wording.
+
+This is a fan-made mod based on real Korean food and drink products.

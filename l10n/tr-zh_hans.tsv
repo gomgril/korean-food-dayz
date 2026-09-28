@@ -1,0 +1,276 @@
+key	text
+STR_KF_C001	用热水泡软的方便面。袋装面60秒、杯面45秒后即可食用，需携带筷子。
+STR_KF_C002	辛拉面 （生面）
+STR_KF_C003	无需筷子也能捏碎直接吃。吃过一部分的面无法再加水烹煮。请与锅·军用水壶·塑料瓶中80°C以上的水500mL组合。也可面对三脚架上的锅接水。
+STR_KF_C004	辛拉面 袋泡
+STR_KF_C005	金拉面 辣味 （生面）
+STR_KF_C006	金拉面 辣味 袋泡
+STR_KF_C007	金拉面 温和味 （生面）
+STR_KF_C008	金拉面 温和味 袋泡
+STR_KF_C009	安城汤面 （生面）
+STR_KF_C010	安城汤面 袋泡
+STR_KF_C011	Chapagetti 炸酱面 （生面）
+STR_KF_C012	Chapagetti 炸酱面 袋泡
+STR_KF_C013	辛拉面 杯面 （未调理）
+STR_KF_C014	请与锅·军用水壶·塑料瓶中80°C以上的水300mL组合。也可面对三脚架上的锅接水。
+STR_KF_C015	辛拉面 杯面
+STR_KF_C016	金拉面 辣味 杯面 （未调理）
+STR_KF_C017	金拉面 辣味 杯面
+STR_KF_C018	金拉面 温和味 杯面 （未调理）
+STR_KF_C019	金拉面 温和味 杯面
+STR_KF_C020	鲜虾汤面 杯面 （未调理）
+STR_KF_C021	鲜虾汤面 杯面
+STR_KF_C022	木筷
+STR_KF_C023	用刀将1根短树枝削成的筷子。携带时，手持泡好的面即可食用。
+STR_KF_C024	锅巴
+STR_KF_C025	加入80°C以上的水200mL，等待60秒。
+STR_KF_C026	锅巴 （加水）
+STR_KF_C027	泡软后即可食用。
+STR_KF_C028	辣椒金枪鱼罐头
+STR_KF_C029	手持并打开包装后食用。开封后的物品会放在脚边。
+STR_KF_C030	辣椒金枪鱼罐头 （已开封）
+STR_KF_C031	已开封的食物。内容量与营养数值为游戏平衡设定。
+STR_KF_C032	炒泡菜罐头
+STR_KF_C033	炒泡菜罐头 （已开封）
+STR_KF_C034	即食米饭
+STR_KF_C035	即食米饭 （已开封）
+STR_KF_C036	鱿鱼干
+STR_KF_C037	鱿鱼干 （已开封）
+STR_KF_C038	韩式调味海苔
+STR_KF_C039	韩式调味海苔 （已开封）
+STR_KF_C040	韩式谷物粉
+STR_KF_C041	与空纸杯组合放入30g，再加入200mL的水。
+STR_KF_C042	韩式谷物粉 （杯中粉末）
+STR_KF_C043	尚未加水。
+STR_KF_C044	韩式谷物粉 （完成）
+STR_KF_C045	用纸杯冲好的一杯。喝完后纸杯也会消失。
+STR_KF_C046	韩式酱牛肉罐头
+STR_KF_C047	韩式酱牛肉罐头 （已开封）
+STR_KF_C048	苏子叶罐头
+STR_KF_C049	苏子叶罐头 （已开封）
+STR_KF_C050	鲭鱼罐头
+STR_KF_C051	鲭鱼罐头 （已开封）
+STR_KF_C052	即食咖喱
+STR_KF_C053	打开纸盒后会取出密封的蒸煮袋。再打开一次蒸煮袋即可食用。
+STR_KF_C054	即食咖喱 （已开封）
+STR_KF_C055	即食炸酱
+STR_KF_C056	即食炸酱 （已开封）
+STR_KF_C057	羊羹
+STR_KF_C058	羊羹 （已开封）
+STR_KF_C059	好丽友巧克力派
+STR_KF_C060	好丽友巧克力派 （已开封）
+STR_KF_C061	韩式硬饼干
+STR_KF_C062	韩式硬饼干 （已开封）
+STR_KF_C063	Maxim 摩卡金牌速溶咖啡 20条装
+STR_KF_C064	与空纸杯组合放入12g，再加入200mL的水。
+STR_KF_C065	速溶咖啡 （杯中粉末）
+STR_KF_C066	速溶咖啡 （完成）
+STR_KF_C067	辣牛肉汤碗面 （未调理）
+STR_KF_C068	与80°C以上的水300mL组合。完成后用筷子食用。
+STR_KF_C069	辣牛肉汤碗面
+STR_KF_C070	用热水泡软期间无法食用。完成后需要筷子。
+STR_KF_C071	泡菜碗面 （未调理）
+STR_KF_C072	泡菜碗面
+STR_KF_C073	Dosirak 便当拉面 （未调理）
+STR_KF_C074	Dosirak 便当拉面
+STR_KF_C075	泡菜 Dosirak （未调理）
+STR_KF_C076	泡菜 Dosirak
+STR_KF_C077	鳀鱼米粉 （未调理）
+STR_KF_C078	鳀鱼米粉
+STR_KF_C079	午餐肉·SPAM型火腿罐头
+STR_KF_C080	午餐肉·SPAM型火腿罐头 （已开封）
+STR_KF_C081	蚕蛹罐头
+STR_KF_C082	蚕蛹罐头 （已开封）
+STR_KF_C083	海螺罐头
+STR_KF_C084	海螺罐头 （已开封）
+STR_KF_C085	血蚶罐头
+STR_KF_C086	血蚶罐头 （已开封）
+STR_KF_C087	即食参鸡汤
+STR_KF_C088	即食参鸡汤 （已开封）
+STR_KF_C089	即食辣牛肉汤
+STR_KF_C090	即食辣牛肉汤 （已开封）
+STR_KF_C091	即食牛肉海带汤
+STR_KF_C092	即食牛肉海带汤 （已开封）
+STR_KF_C093	鲍鱼粥
+STR_KF_C094	鲍鱼粥 （已开封）
+STR_KF_C095	南瓜粥
+STR_KF_C096	南瓜粥 （已开封）
+STR_KF_C097	栗子红豆粥
+STR_KF_C098	栗子红豆粥 （已开封）
+STR_KF_C099	牛肉粥
+STR_KF_C100	牛肉粥 （已开封）
+STR_KF_C101	冻干大酱汤
+STR_KF_C102	与空纸杯组合放入10g，再加入200mL的水。
+STR_KF_C103	冻干大酱汤 （杯中粉末）
+STR_KF_C104	冻干大酱汤 （完成）
+STR_KF_C105	冻干蛋花汤
+STR_KF_C106	冻干蛋花汤 （杯中粉末）
+STR_KF_C107	冻干蛋花汤 （完成）
+STR_KF_C108	八道拌面 （未调理）
+STR_KF_C109	与80°C以上的水500mL组合。完成后用筷子食用。
+STR_KF_C110	八道拌面 （未沥水）
+STR_KF_C111	泡软后沥干水分，下一步再拌入附带的酱料。
+STR_KF_C112	八道拌面 （未加酱料）
+STR_KF_C113	使用“打开包装”动作拌入附带的酱料。
+STR_KF_C114	八道拌面 （完成）
+STR_KF_C115	沥干水分并拌入酱料的拌面。需要筷子。
+STR_KF_C116	浣熊乌冬面 （未调理）
+STR_KF_C117	浣熊乌冬面
+STR_KF_C118	芝麻拉面 （未调理）
+STR_KF_C119	芝麻拉面
+STR_KF_C120	天妇罗乌冬面 （未调理）
+STR_KF_C121	天妇罗乌冬面
+STR_KF_C122	马面鱼片
+STR_KF_C123	打开袋子会得到4片马面鱼片。
+STR_KF_C124	马面鱼片 一片
+STR_KF_C125	炒黑豆
+STR_KF_C126	炒黑豆 （已开封）
+STR_KF_C127	松子 小包装
+STR_KF_C128	松子 小包装 （已开封）
+STR_KF_C129	麦芽糖油果
+STR_KF_C130	麦芽糖油果 （已开封）
+STR_KF_C131	花生糖
+STR_KF_C132	花生糖 （已开封）
+STR_KF_C133	碰糖
+STR_KF_C134	碰糖 （已开封）
+STR_KF_C135	鲜虾条
+STR_KF_C136	鲜虾条 （已开封）
+STR_KF_C137	鱿鱼花生球
+STR_KF_C138	鱿鱼花生球 （已开封）
+STR_KF_C139	Gosomi 饼干
+STR_KF_C140	Gosomi 饼干 （已开封）
+STR_KF_C141	Diget 巧克力消化饼
+STR_KF_C142	Diget 巧克力消化饼 （已开封）
+STR_KF_C143	加纳巧克力
+STR_KF_C144	加纳巧克力 （已开封）
+STR_KF_C145	Pepero 巧克力棒
+STR_KF_C146	Pepero 巧克力棒 （已开封）
+STR_KF_C147	Home Run Ball 泡芙
+STR_KF_C148	Home Run Ball 泡芙 （已开封）
+STR_KF_C149	Matdongsan 花生酥
+STR_KF_C150	Matdongsan 花生酥 （已开封）
+STR_KF_C151	Dr.You 能量棒
+STR_KF_C152	Dr.You 能量棒 （已开封）
+STR_KF_C153	甜米露 罐装
+STR_KF_C154	可饮用的饮料。喝完后容器会消失。内容量与营养数值为游戏平衡设定。
+STR_KF_C155	水正果 罐装
+STR_KF_C156	梨汁 罐装
+STR_KF_C157	大麦茶茶包盒
+STR_KF_C158	游戏设定为30次份的茶包。与空纸杯组合，每次使用一包。
+STR_KF_C159	大麦茶茶包 （杯中）
+STR_KF_C160	倒入80°C以上的水200mL，浸泡30秒。
+STR_KF_C161	大麦茶 （已冲泡）
+STR_KF_C162	用热水冲泡的茶。热量0，游戏设定水分200mL。
+STR_KF_C163	Kkokkalcorn 玉米脆角 原味
+STR_KF_C164	Kkokkalcorn 玉米脆角 原味 （已开封）
+STR_KF_C165	Ion the Fit
+STR_KF_C166	Toreta
+STR_KF_C167	宝矿力水特
+STR_KF_C168	佳得乐
+STR_KF_C169	Powerade
+STR_KF_C170	七星汽水
+STR_KF_C171	锡兰红茶
+STR_KF_C172	葡萄 Bongbong
+STR_KF_C173	香蕉牛奶
+STR_KF_C174	Bacchus
+STR_KF_C175	可饮用的饮料。内容量与营养数值为游戏平衡设定。
+STR_KF_C176	McCol
+STR_KF_C177	Oran C 菠萝
+STR_KF_C178	Ssaksak 橙子果粒
+STR_KF_C179	JuicyCool 李子 450ml
+STR_KF_C180	喝完后，脚边会放置1张纸，而非空纸盒。
+STR_KF_C181	JuicyCool 桃子 450ml
+STR_KF_C182	JuicyCool 菠萝 450ml
+STR_KF_C183	JuicyCool 青提 450ml
+STR_KF_C184	JuicyCool 李子 930ml
+STR_KF_C185	JuicyCool 桃子 930ml
+STR_KF_C186	JuicyCool 菠萝 930ml
+STR_KF_C187	JuicyCool 青提 930ml
+STR_KF_C188	玉竹茶茶包盒
+STR_KF_C189	玉竹茶茶包 （杯中）
+STR_KF_C190	玉竹茶 （已冲泡）
+STR_KF_C191	玉米茶茶包盒
+STR_KF_C192	玉米茶茶包 （杯中）
+STR_KF_C193	玉米茶 （已冲泡）
+STR_KF_C194	决明子茶茶包盒
+STR_KF_C195	决明子茶茶包 （杯中）
+STR_KF_C196	决明子茶 （已冲泡）
+STR_KF_C197	空纸杯
+STR_KF_C198	用来冲泡单份咖啡·韩式谷物粉·速食汤的一次性杯子。
+STR_KF_C199	Odongtong 乌冬面 （未调理）
+STR_KF_C200	Odongtong 乌冬面
+STR_KF_C201	辣味鲜虾条
+STR_KF_C202	辣味鲜虾条 （已开封）
+STR_KF_C203	Pepero 杏仁巧克力棒
+STR_KF_C204	Pepero 杏仁巧克力棒 （已开封）
+STR_KF_C205	Pepero 巧克力夹心
+STR_KF_C206	Pepero 巧克力夹心 （已开封）
+STR_KF_C207	Pepero Crunky
+STR_KF_C208	Pepero Crunky （已开封）
+STR_KF_C209	Pepero 白巧克力饼干
+STR_KF_C210	Pepero 白巧克力饼干 （已开封）
+STR_KF_C211	Pepero 巧克力饼干
+STR_KF_C212	Pepero 巧克力饼干 （已开封）
+STR_KF_C213	Home Run Ball 巧克力 （经典包装）
+STR_KF_C214	Home Run Ball 巧克力 （经典包装） （已开封）
+STR_KF_C215	Home Run Ball 盐味牛奶
+STR_KF_C216	Home Run Ball 盐味牛奶 （已开封）
+STR_KF_C217	Kkokkalcorn 玉米脆角 烤玉米味
+STR_KF_C218	Kkokkalcorn 玉米脆角 烤玉米味 （已开封）
+STR_KF_C219	Kkokkalcorn 玉米脆角 甜辣味
+STR_KF_C220	Kkokkalcorn 玉米脆角 甜辣味 （已开封）
+STR_KF_C221	Kkokkalcorn 玉米脆角 糯玉米味
+STR_KF_C222	Kkokkalcorn 玉米脆角 糯玉米味 （已开封）
+STR_KF_C223	Maxim 白金速溶咖啡
+STR_KF_C224	与空纸杯组合放入11.7g，再加入200mL的水。
+STR_KF_C225	Maxim 白金速溶咖啡 （杯中粉末）
+STR_KF_C226	Maxim 白金速溶咖啡 （完成）
+STR_KF_C227	Melona 哈密瓜牛奶
+STR_KF_C228	草莓牛奶
+STR_KF_C229	Oran C 青金桔
+STR_KF_C230	Oran C 橙子
+STR_KF_C231	梨汁 瓶装
+STR_KF_C232	栗子羊羹
+STR_KF_C233	栗子羊羹 （已开封）
+STR_KF_C234	佳得乐 无糖
+STR_KF_C235	佳得乐 Blue Bolt
+STR_KF_C236	Bacchus F
+STR_KF_C237	冻干牛骨海带汤
+STR_KF_C238	冻干牛骨海带汤 （杯中粉末）
+STR_KF_C239	冻干牛骨海带汤 （完成）
+STR_KF_C240	冻干辣牛肉汤
+STR_KF_C241	冻干辣牛肉汤 （杯中粉末）
+STR_KF_C242	冻干辣牛肉汤 （完成）
+STR_KF_C243	内袋 · 即食咖喱
+STR_KF_C244	内袋 · 即食炸酱
+STR_KF_C245	战斗口粮 1型
+STR_KF_C246	内含泡菜炒饭、白米饭、肉丸、调味豆腐、酱炒小鱼干共五袋。
+STR_KF_C247	战斗口粮 1型 （已开箱）
+STR_KF_C248	战斗口粮 · 泡菜炒饭
+STR_KF_C249	独立包装的组件。营养数值为游戏平衡设定。
+STR_KF_C250	战斗口粮 · 泡菜炒饭 （已开封）
+STR_KF_C251	战斗口粮 · 白米饭
+STR_KF_C252	战斗口粮 · 白米饭 （已开封）
+STR_KF_C253	战斗口粮 · 肉丸
+STR_KF_C254	战斗口粮 · 肉丸 （已开封）
+STR_KF_C255	战斗口粮 · 调味豆腐
+STR_KF_C256	战斗口粮 · 调味豆腐 （已开封）
+STR_KF_C257	战斗口粮 · 酱炒小鱼干
+STR_KF_C258	战斗口粮 · 酱炒小鱼干 （已开封）
+STR_KF_A_FILL_NOODLE	接热水泡面
+STR_KF_A_POUR_NOODLE	倒热水泡面
+STR_KF_A_EAT_DRY	捏碎生面吃
+STR_KF_A_EAT_CHOPSTICKS	用筷子吃面
+STR_KF_A_OPEN_RATION	打开战斗口粮箱
+STR_KF_A_OPEN	打开包装
+STR_KF_A_FILL_WATER	接水准备食物
+STR_KF_R_SOAK_NOODLE	倒入热水泡面
+STR_KF_R_CHOPSTICKS	削制木筷
+STR_KF_R_PAPERCUP	折纸杯 （2张纸）
+STR_KF_R_ADD_WATER	加水准备食物
+STR_KF_R_DOSE	将一份装入纸杯
+STR_KF_S_READY	 （完成）
+STR_KF_S_SOAKING	 （浸泡中）
+STR_KF_S_STEEPING	 （冲泡中）
+STR_KF_S_DRAIN	 （需沥水）
+STR_KF_N_PALDOBIBIM	八道拌面

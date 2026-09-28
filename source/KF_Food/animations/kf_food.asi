@@ -1,0 +1,15 @@
+$animsetinstance {
+ #template "DZ/anims/workspaces/player/player_main/player_main.ast"
+ #nparents 1
+ #parent "DZ/anims/workspaces/player/player_main/player_main_1h.asi"
+ $animations {
+  "ActionContinuous.EatErc.In" "KF_Food/animations/kf_eat_in.anm"
+  "ActionContinuous.EatErc.Loop" "KF_Food/animations/kf_eat_loop.anm"
+  "ActionContinuous.EatErc.Out" "KF_Food/animations/kf_eat_out.anm"
+  "ActionContinuous.EatErc.Out2" "KF_Food/animations/kf_eat_out.anm"
+  "ActionContinuous.EatCro.In" "KF_Food/animations/kf_eat_in.anm"
+  "ActionContinuous.EatCro.Loop" "KF_Food/animations/kf_eat_loop.anm"
+  "ActionContinuous.EatCro.Out" "KF_Food/animations/kf_eat_out.anm"
+  "ActionContinuous.EatCro.Out2" "KF_Food/animations/kf_eat_out.anm"
+ }
+}

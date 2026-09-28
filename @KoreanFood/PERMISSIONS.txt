@@ -1,0 +1,39 @@
+Korean Food & Drinks (한국 음식·음료) — 재배포·리팩 허락 / Repack & Redistribution Permission
+Author: gomgril
+Steam Workshop: https://steamcommunity.com/sharedfiles/filedetails/?id=3806858083
+
+[한국어]
+
+누구나 따로 허락을 받지 않고 이 모드를 다음과 같이 사용할 수 있습니다.
+
+• 리팩: 다른 모드와 합쳐 하나의 모드팩으로 만들거나, 서버용 모드팩에 넣어 창작마당 등에 올릴 수 있습니다.
+• 재서명: 자신의 서명키로 PBO를 다시 서명해도 됩니다.
+• 수정: 자신의 서버에 맞게 설정·밸런스·스폰(types)·번역을 바꿔도 됩니다.
+
+부탁드리는 것
+• 모드팩 설명에 원작 이름(Korean Food & Drinks, 제작 gomgril)과 위 창작마당 링크를 적어 주세요.
+• 이 모드 자체를 판매하거나 유료로만 받을 수 있게 하지 마세요.
+• 자신이 만든 모드라고 소개하지 마세요.
+
+알아 둘 점
+• 실제 한국 식품을 참고한 팬 제작 모드입니다. 제품 이름·포장 디자인·상표는 각 회사에 권리가 있으며, 이 허락은 그 권리를 넘겨주지 않습니다.
+• 동작 애니메이션 제작에 쓴 도구의 MIT 고지문은 THIRD_PARTY_NOTICES.txt에 있습니다. 재배포할 때 이 파일을 함께 넣어 주세요.
+• 모드는 있는 그대로 제공되며, 사용으로 생긴 문제에 대해 책임지지 않습니다.
+
+[English]
+
+Anyone may use this mod in the following ways without asking for permission.
+
+• Repack: merge it with other mods into a modpack, or include it in a server modpack, and upload that to the Steam Workshop or elsewhere.
+• Re-sign: sign the PBOs again with your own key.
+• Modify: change settings, balance, spawns (types) and translations for your own server.
+
+Please
+• Credit the original (Korean Food & Drinks by gomgril) with the Workshop link above in your modpack description.
+• Do not sell this mod or put it behind a paywall.
+• Do not present it as your own work.
+
+Notes
+• This is a fan-made mod based on real Korean food products. Product names, packaging designs and trademarks belong to their respective owners; this permission does not grant any rights to them.
+• The MIT notice for the tool used to create the eating/drinking animations is in THIRD_PARTY_NOTICES.txt. Please keep that file when redistributing.
+• The mod is provided as is, without warranty of any kind.

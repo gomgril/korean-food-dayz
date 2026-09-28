@@ -1,0 +1,276 @@
+key	ko	en
+STR_KF_C001	뜨거운 물을 부어 불린 라면. 봉지형은 60초, 컵형은 45초 뒤 젓가락을 소지하고 먹을 수 있습니다.	Instant noodles softened in hot water. Packet noodles are ready after 60 s, cup noodles after 45 s; carry chopsticks to eat them.
+STR_KF_C002	신라면 (생라면)	Shin Ramyun (dry)
+STR_KF_C003	젓가락 없이 부숴 먹을 수 있습니다. 일부 먹은 봉지는 물 조리가 불가합니다. 냄비·군용 수통·페트병의 80°C 이상 물 500mL와 조합하세요. 삼각대 냄비를 바라보고 물을 받을 수도 있습니다.	Can be crushed and eaten dry without chopsticks. A partly eaten packet can no longer be cooked. Combine with 500 mL of water at 80°C or hotter in a pot, canteen or plastic bottle. You can also fill it while facing a pot on a tripod.
+STR_KF_C004	신라면 뽀글이	Shin Ramyun Ppogeuli
+STR_KF_C005	진라면 매운맛 (생라면)	Jin Ramen Spicy (dry)
+STR_KF_C006	진라면 매운맛 뽀글이	Jin Ramen Spicy Ppogeuli
+STR_KF_C007	진라면 순한맛 (생라면)	Jin Ramen Mild (dry)
+STR_KF_C008	진라면 순한맛 뽀글이	Jin Ramen Mild Ppogeuli
+STR_KF_C009	안성탕면 (생라면)	Ansungtangmyun (dry)
+STR_KF_C010	안성탕면 뽀글이	Ansungtangmyun Ppogeuli
+STR_KF_C011	짜파게티 (생라면)	Chapagetti (dry)
+STR_KF_C012	짜파게티 뽀글이	Chapagetti Ppogeuli
+STR_KF_C013	신라면 컵 (미조리)	Shin Ramyun Cup (uncooked)
+STR_KF_C014	냄비·군용 수통·페트병의 80°C 이상 물 300mL와 조합하세요. 삼각대 냄비를 바라보고 물을 받을 수도 있습니다.	Combine with 300 mL of water at 80°C or hotter in a pot, canteen or plastic bottle. You can also fill it while facing a pot on a tripod.
+STR_KF_C015	신라면 컵	Shin Ramyun Cup
+STR_KF_C016	진라면 매운맛 컵 (미조리)	Jin Ramen Spicy Cup (uncooked)
+STR_KF_C017	진라면 매운맛 컵	Jin Ramen Spicy Cup
+STR_KF_C018	진라면 순한맛 컵 (미조리)	Jin Ramen Mild Cup (uncooked)
+STR_KF_C019	진라면 순한맛 컵	Jin Ramen Mild Cup
+STR_KF_C020	새우탕 컵 (미조리)	Saeutang Shrimp Cup (uncooked)
+STR_KF_C021	새우탕 컵	Saeutang Shrimp Cup
+STR_KF_C022	나무젓가락	Wooden Chopsticks
+STR_KF_C023	짧은 나뭇가지 1개를 칼로 깎아 만든 젓가락. 소지한 채 완성된 라면을 손에 들고 먹으세요.	Chopsticks carved from a short wooden stick with a knife. Carry them and hold prepared noodles in your hands to eat.
+STR_KF_C024	누룽지	Nurungji (Scorched Rice)
+STR_KF_C025	80°C 이상 물 200mL를 넣고 60초 기다리세요.	Add 200 mL of water at 80°C or hotter and wait 60 seconds.
+STR_KF_C026	누룽지 (물 조리)	Nurungji (in water)
+STR_KF_C027	불리기가 끝나면 먹을 수 있습니다.	Can be eaten once it has finished softening.
+STR_KF_C028	고추참치 통조림	Chili Tuna Can
+STR_KF_C029	손에 들고 포장을 연 뒤 먹습니다. 개봉 결과물은 발앞에 놓입니다.	Hold it in your hands, open the package, then eat. The opened item is placed at your feet.
+STR_KF_C030	고추참치 통조림 (개봉)	Chili Tuna Can (opened)
+STR_KF_C031	개봉한 음식. 내용량과 영양 수치는 게임 균형용입니다.	Opened food. Contents and nutrition values are set for game balance.
+STR_KF_C032	볶음김치 통조림	Fried Kimchi Can
+STR_KF_C033	볶음김치 통조림 (개봉)	Fried Kimchi Can (opened)
+STR_KF_C034	즉석밥	Instant Rice
+STR_KF_C035	즉석밥 (개봉)	Instant Rice (opened)
+STR_KF_C036	말린 오징어	Dried Squid
+STR_KF_C037	말린 오징어 (개봉)	Dried Squid (opened)
+STR_KF_C038	조미김	Seasoned Laver (Gim)
+STR_KF_C039	조미김 (개봉)	Seasoned Laver (Gim) (opened)
+STR_KF_C040	미숫가루	Misugaru
+STR_KF_C041	빈 종이컵과 조합해 30g을 담고 물 200mL를 넣습니다.	Combine with an empty paper cup to add 30 g, then add 200 mL of water.
+STR_KF_C042	미숫가루 (컵에 담은 가루)	Misugaru (powder in cup)
+STR_KF_C043	물을 넣기 전입니다.	Water has not been added yet.
+STR_KF_C044	미숫가루 (완성)	Misugaru (ready)
+STR_KF_C045	종이컵에 준비한 한 잔. 소모 후 컵도 사라집니다.	One cup prepared in a paper cup. The cup disappears once finished.
+STR_KF_C046	장조림 통조림	Jangjorim (Braised Beef) Can
+STR_KF_C047	장조림 통조림 (개봉)	Jangjorim (Braised Beef) Can (opened)
+STR_KF_C048	깻잎 통조림	Perilla Leaves Can
+STR_KF_C049	깻잎 통조림 (개봉)	Perilla Leaves Can (opened)
+STR_KF_C050	고등어 통조림	Mackerel Can
+STR_KF_C051	고등어 통조림 (개봉)	Mackerel Can (opened)
+STR_KF_C052	레토르트 카레	Retort Curry
+STR_KF_C053	종이 상자를 열면 밀봉된 레토르트 봉지가 나옵니다. 봉지를 한 번 더 열어 먹습니다.	Opening the paper box reveals a sealed retort pouch. Open the pouch once more to eat.
+STR_KF_C054	레토르트 카레 (개봉)	Retort Curry (opened)
+STR_KF_C055	레토르트 짜장	Retort Jjajang
+STR_KF_C056	레토르트 짜장 (개봉)	Retort Jjajang (opened)
+STR_KF_C057	양갱	Yanggaeng
+STR_KF_C058	양갱 (개봉)	Yanggaeng (opened)
+STR_KF_C059	초코파이	Choco Pie
+STR_KF_C060	초코파이 (개봉)	Choco Pie (opened)
+STR_KF_C061	건빵	Geonppang (Hardtack)
+STR_KF_C062	건빵 (개봉)	Geonppang (Hardtack) (opened)
+STR_KF_C063	맥심 모카골드 커피믹스 20개입	Maxim Mocha Gold Coffee Mix, 20 sticks
+STR_KF_C064	빈 종이컵과 조합해 12g을 담고 물 200mL를 넣습니다.	Combine with an empty paper cup to add 12 g, then add 200 mL of water.
+STR_KF_C065	믹스커피 (컵에 담은 가루)	Coffee Mix (powder in cup)
+STR_KF_C066	믹스커피 (완성)	Coffee Mix (ready)
+STR_KF_C067	육개장 사발면 (미조리)	Yukgaejang Bowl Noodles (uncooked)
+STR_KF_C068	80°C 이상 물 300mL와 조합. 완성 후 젓가락으로 먹습니다.	Combine with 300 mL of water at 80°C or hotter. Eat with chopsticks once ready.
+STR_KF_C069	육개장 사발면	Yukgaejang Bowl Noodles
+STR_KF_C070	뜨거운 물로 불리는 동안 먹을 수 없습니다. 완성 후 젓가락 필요.	Cannot be eaten while softening in hot water. Chopsticks needed once ready.
+STR_KF_C071	김치 사발면 (미조리)	Kimchi Bowl Noodles (uncooked)
+STR_KF_C072	김치 사발면	Kimchi Bowl Noodles
+STR_KF_C073	도시락 라면 (미조리)	Dosirak Noodles (uncooked)
+STR_KF_C074	도시락 라면	Dosirak Noodles
+STR_KF_C075	김치 도시락 (미조리)	Kimchi Dosirak (uncooked)
+STR_KF_C076	김치 도시락	Kimchi Dosirak
+STR_KF_C077	멸치쌀국수 (미조리)	Anchovy Rice Noodles (uncooked)
+STR_KF_C078	멸치쌀국수	Anchovy Rice Noodles
+STR_KF_C079	런천미트·스팸형 햄 통조림	Luncheon Meat (Spam-style Ham) Can
+STR_KF_C080	런천미트·스팸형 햄 통조림 (개봉)	Luncheon Meat (Spam-style Ham) Can (opened)
+STR_KF_C081	번데기 통조림	Beondegi (Silkworm Pupa) Can
+STR_KF_C082	번데기 통조림 (개봉)	Beondegi (Silkworm Pupa) Can (opened)
+STR_KF_C083	골뱅이 통조림	Whelk Can
+STR_KF_C084	골뱅이 통조림 (개봉)	Whelk Can (opened)
+STR_KF_C085	꼬막 통조림	Cockle Can
+STR_KF_C086	꼬막 통조림 (개봉)	Cockle Can (opened)
+STR_KF_C087	삼계탕 레토르트	Samgyetang Retort
+STR_KF_C088	삼계탕 레토르트 (개봉)	Samgyetang Retort (opened)
+STR_KF_C089	육개장 레토르트	Yukgaejang Retort
+STR_KF_C090	육개장 레토르트 (개봉)	Yukgaejang Retort (opened)
+STR_KF_C091	소고기미역국 레토르트	Beef Seaweed Soup Retort
+STR_KF_C092	소고기미역국 레토르트 (개봉)	Beef Seaweed Soup Retort (opened)
+STR_KF_C093	전복죽	Abalone Porridge
+STR_KF_C094	전복죽 (개봉)	Abalone Porridge (opened)
+STR_KF_C095	단호박죽	Sweet Pumpkin Porridge
+STR_KF_C096	단호박죽 (개봉)	Sweet Pumpkin Porridge (opened)
+STR_KF_C097	밤단팥죽	Chestnut Red Bean Porridge
+STR_KF_C098	밤단팥죽 (개봉)	Chestnut Red Bean Porridge (opened)
+STR_KF_C099	쇠고기죽	Beef Porridge
+STR_KF_C100	쇠고기죽 (개봉)	Beef Porridge (opened)
+STR_KF_C101	동결건조 된장국	Freeze-dried Doenjang Soup
+STR_KF_C102	빈 종이컵과 조합해 10g을 담고 물 200mL를 넣습니다.	Combine with an empty paper cup to add 10 g, then add 200 mL of water.
+STR_KF_C103	동결건조 된장국 (컵에 담은 가루)	Freeze-dried Doenjang Soup (powder in cup)
+STR_KF_C104	동결건조 된장국 (완성)	Freeze-dried Doenjang Soup (ready)
+STR_KF_C105	동결건조 계란국	Freeze-dried Egg Soup
+STR_KF_C106	동결건조 계란국 (컵에 담은 가루)	Freeze-dried Egg Soup (powder in cup)
+STR_KF_C107	동결건조 계란국 (완성)	Freeze-dried Egg Soup (ready)
+STR_KF_C108	팔도비빔면 (미조리)	Paldo Bibim Men (uncooked)
+STR_KF_C109	80°C 이상 물 500mL와 조합. 완성 후 젓가락으로 먹습니다.	Combine with 500 mL of water at 80°C or hotter. Eat with chopsticks once ready.
+STR_KF_C110	팔도비빔면 (물 빼기 전)	Paldo Bibim Men (not drained)
+STR_KF_C111	불린 뒤 물을 빼고, 다음 단계에서 동봉 양념을 섞으세요.	After softening, drain the water, then mix in the included sauce in the next step.
+STR_KF_C112	팔도비빔면 (양념 넣기 전)	Paldo Bibim Men (sauce not added)
+STR_KF_C113	포장 열기 행동으로 동봉 양념을 섞습니다.	Mix in the included sauce with the Open action.
+STR_KF_C114	팔도비빔면 (완성)	Paldo Bibim Men (ready)
+STR_KF_C115	물을 빼고 양념을 섞은 비빔면. 젓가락 필요.	Bibim noodles drained and mixed with sauce. Chopsticks needed.
+STR_KF_C116	너구리 (미조리)	Neoguri (uncooked)
+STR_KF_C117	너구리	Neoguri
+STR_KF_C118	참깨라면 (미조리)	Sesame Ramen (uncooked)
+STR_KF_C119	참깨라면	Sesame Ramen
+STR_KF_C120	튀김우동 (미조리)	Tempura Udon (uncooked)
+STR_KF_C121	튀김우동	Tempura Udon
+STR_KF_C122	쥐포	Jwipo (Dried Filefish)
+STR_KF_C123	봉지를 열면 쥐포 네 장이 나옵니다.	Opening the bag gives four sheets of jwipo.
+STR_KF_C124	쥐포 한 장	Jwipo, one sheet
+STR_KF_C125	볶은 검은콩	Roasted Black Soybeans
+STR_KF_C126	볶은 검은콩 (개봉)	Roasted Black Soybeans (opened)
+STR_KF_C127	잣 소포장	Pine Nuts, small pack
+STR_KF_C128	잣 소포장 (개봉)	Pine Nuts, small pack (opened)
+STR_KF_C129	조청유과	Jocheong Yugwa
+STR_KF_C130	조청유과 (개봉)	Jocheong Yugwa (opened)
+STR_KF_C131	땅콩강정	Peanut Gangjeong
+STR_KF_C132	땅콩강정 (개봉)	Peanut Gangjeong (opened)
+STR_KF_C133	달고나	Dalgona
+STR_KF_C134	달고나 (개봉)	Dalgona (opened)
+STR_KF_C135	새우깡	Saeukkang (Shrimp Crackers)
+STR_KF_C136	새우깡 (개봉)	Saeukkang (Shrimp Crackers) (opened)
+STR_KF_C137	오징어땅콩	Squid Peanut Balls
+STR_KF_C138	오징어땅콩 (개봉)	Squid Peanut Balls (opened)
+STR_KF_C139	고소미	Gosomi Crackers
+STR_KF_C140	고소미 (개봉)	Gosomi Crackers (opened)
+STR_KF_C141	다이제 초코	Diget Choco
+STR_KF_C142	다이제 초코 (개봉)	Diget Choco (opened)
+STR_KF_C143	가나 초콜릿	Ghana Chocolate
+STR_KF_C144	가나 초콜릿 (개봉)	Ghana Chocolate (opened)
+STR_KF_C145	빼빼로 초코	Pepero Original
+STR_KF_C146	빼빼로 초코 (개봉)	Pepero Original (opened)
+STR_KF_C147	홈런볼	Home Run Ball
+STR_KF_C148	홈런볼 (개봉)	Home Run Ball (opened)
+STR_KF_C149	맛동산	Matdongsan
+STR_KF_C150	맛동산 (개봉)	Matdongsan (opened)
+STR_KF_C151	닥터유 에너지바	Dr. You Energy Bar
+STR_KF_C152	닥터유 에너지바 (개봉)	Dr. You Energy Bar (opened)
+STR_KF_C153	식혜 캔	Sikhye Can
+STR_KF_C154	마실 수 있는 음료. 다 마시면 용기는 사라집니다. 내용량과 영양 수치는 게임 균형용입니다.	A drink. The container disappears once finished. Contents and nutrition values are set for game balance.
+STR_KF_C155	수정과 캔	Sujeonggwa Can
+STR_KF_C156	갈아만든 배 캔	Crushed Pear Drink Can
+STR_KF_C157	보리차 티백 상자	Barley Tea Bag Box
+STR_KF_C158	게임 기준 티백 30회분. 빈 종이컵과 조합해 한 개씩 사용합니다.	30 tea bags by game rules. Combine with an empty paper cup to use one at a time.
+STR_KF_C159	보리차 티백 (컵에 담음)	Barley Tea Bag (in cup)
+STR_KF_C160	80°C 이상 물 200mL를 붓고 30초 우려내세요.	Pour 200 mL of water at 80°C or hotter and steep for 30 seconds.
+STR_KF_C161	보리차 (우린 차)	Barley Tea (brewed)
+STR_KF_C162	뜨거운 물로 우린 차. 열량 0, 게임 기준 수분 200mL.	Tea brewed with hot water. 0 energy, 200 mL of water by game rules.
+STR_KF_C163	꼬깔콘 고소한맛	Kkokkalcorn Original
+STR_KF_C164	꼬깔콘 고소한맛 (개봉)	Kkokkalcorn Original (opened)
+STR_KF_C165	이온더핏	Ion the Fit
+STR_KF_C166	토레타	Toreta
+STR_KF_C167	포카리스웨트	Pocari Sweat
+STR_KF_C168	게토레이	Gatorade
+STR_KF_C169	파워에이드	Powerade
+STR_KF_C170	칠성사이다	Chilsung Cider
+STR_KF_C171	실론티	Ceylon Tea
+STR_KF_C172	포도봉봉	Grape Bongbong
+STR_KF_C173	바나나맛우유	Banana Milk
+STR_KF_C174	박카스	Bacchus
+STR_KF_C175	마실 수 있는 음료. 내용량과 영양 수치는 게임 균형용입니다.	A drink. Contents and nutrition values are set for game balance.
+STR_KF_C176	맥콜	McCol
+STR_KF_C177	오란씨 파인애플	Oran C Pineapple
+STR_KF_C178	쌕쌕	Ssaksak
+STR_KF_C179	쥬시쿨 자두 450ml	JuicyCool Plum 450ml
+STR_KF_C180	다 마시면 빈 팩 대신 종이 1개가 발앞에 놓입니다.	When finished, one sheet of paper is placed at your feet instead of an empty carton.
+STR_KF_C181	쥬시쿨 복숭아 450ml	JuicyCool Peach 450ml
+STR_KF_C182	쥬시쿨 파인애플 450ml	JuicyCool Pineapple 450ml
+STR_KF_C183	쥬시쿨 청포도 450ml	JuicyCool Green Grape 450ml
+STR_KF_C184	쥬시쿨 자두 930ml	JuicyCool Plum 930ml
+STR_KF_C185	쥬시쿨 복숭아 930ml	JuicyCool Peach 930ml
+STR_KF_C186	쥬시쿨 파인애플 930ml	JuicyCool Pineapple 930ml
+STR_KF_C187	쥬시쿨 청포도 930ml	JuicyCool Green Grape 930ml
+STR_KF_C188	둥굴레차 티백 상자	Solomon's Seal Tea Bag Box
+STR_KF_C189	둥굴레차 티백 (컵에 담음)	Solomon's Seal Tea Bag (in cup)
+STR_KF_C190	둥굴레차 (우린 차)	Solomon's Seal Tea (brewed)
+STR_KF_C191	옥수수차 티백 상자	Corn Tea Bag Box
+STR_KF_C192	옥수수차 티백 (컵에 담음)	Corn Tea Bag (in cup)
+STR_KF_C193	옥수수차 (우린 차)	Corn Tea (brewed)
+STR_KF_C194	결명자차 티백 상자	Cassia Seed Tea Bag Box
+STR_KF_C195	결명자차 티백 (컵에 담음)	Cassia Seed Tea Bag (in cup)
+STR_KF_C196	결명자차 (우린 차)	Cassia Seed Tea (brewed)
+STR_KF_C197	빈 종이컵	Empty Paper Cup
+STR_KF_C198	커피·미숫가루·즉석국을 1회분씩 준비하는 소모성 컵.	A disposable cup for preparing single servings of coffee, misugaru and instant soup.
+STR_KF_C199	오동통면 (미조리)	Odongtong Noodles (uncooked)
+STR_KF_C200	오동통면	Odongtong Noodles
+STR_KF_C201	매운 새우깡	Spicy Saeukkang
+STR_KF_C202	매운 새우깡 (개봉)	Spicy Saeukkang (opened)
+STR_KF_C203	아몬드 빼빼로	Almond Pepero
+STR_KF_C204	아몬드 빼빼로 (개봉)	Almond Pepero (opened)
+STR_KF_C205	초코필드 빼빼로	Choco Filled Pepero
+STR_KF_C206	초코필드 빼빼로 (개봉)	Choco Filled Pepero (opened)
+STR_KF_C207	크런키 빼빼로	Crunky Pepero
+STR_KF_C208	크런키 빼빼로 (개봉)	Crunky Pepero (opened)
+STR_KF_C209	화이트쿠키 빼빼로	White Cookie Pepero
+STR_KF_C210	화이트쿠키 빼빼로 (개봉)	White Cookie Pepero (opened)
+STR_KF_C211	초코쿠키 빼빼로	Choco Cookie Pepero
+STR_KF_C212	초코쿠키 빼빼로 (개봉)	Choco Cookie Pepero (opened)
+STR_KF_C213	홈런볼 초코 (클래식 포장)	Home Run Ball Choco (classic pack)
+STR_KF_C214	홈런볼 초코 (클래식 포장) (개봉)	Home Run Ball Choco (classic pack) (opened)
+STR_KF_C215	홈런볼 소금우유	Home Run Ball Salt Milk
+STR_KF_C216	홈런볼 소금우유 (개봉)	Home Run Ball Salt Milk (opened)
+STR_KF_C217	꼬깔콘 군옥수수맛	Kkokkalcorn Roasted Corn
+STR_KF_C218	꼬깔콘 군옥수수맛 (개봉)	Kkokkalcorn Roasted Corn (opened)
+STR_KF_C219	꼬깔콘 매콤달콤한맛	Kkokkalcorn Sweet & Spicy
+STR_KF_C220	꼬깔콘 매콤달콤한맛 (개봉)	Kkokkalcorn Sweet & Spicy (opened)
+STR_KF_C221	꼬깔콘 찰옥수수맛	Kkokkalcorn Waxy Corn
+STR_KF_C222	꼬깔콘 찰옥수수맛 (개봉)	Kkokkalcorn Waxy Corn (opened)
+STR_KF_C223	맥심 화이트골드 커피믹스	Maxim White Gold Coffee Mix
+STR_KF_C224	빈 종이컵과 조합해 11.7g을 담고 물 200mL를 넣습니다.	Combine with an empty paper cup to add 11.7 g, then add 200 mL of water.
+STR_KF_C225	맥심 화이트골드 커피믹스 (컵에 담은 가루)	Maxim White Gold Coffee Mix (powder in cup)
+STR_KF_C226	맥심 화이트골드 커피믹스 (완성)	Maxim White Gold Coffee Mix (ready)
+STR_KF_C227	메로나맛 우유	Melona Milk
+STR_KF_C228	딸기맛 우유	Strawberry Milk
+STR_KF_C229	오란씨 깔라만시	Oran C Calamansi
+STR_KF_C230	오란씨 오렌지	Oran C Orange
+STR_KF_C231	갈아만든 배 PET	Crushed Pear Drink PET
+STR_KF_C232	밤양갱	Chestnut Yanggaeng
+STR_KF_C233	밤양갱 (개봉)	Chestnut Yanggaeng (opened)
+STR_KF_C234	게토레이 제로	Gatorade Zero
+STR_KF_C235	게토레이 블루볼트	Gatorade Blue Bolt
+STR_KF_C236	박카스 F	Bacchus F
+STR_KF_C237	동결건조 사골미역국	Freeze-dried Beef Bone Seaweed Soup
+STR_KF_C238	동결건조 사골미역국 (컵에 담은 가루)	Freeze-dried Beef Bone Seaweed Soup (powder in cup)
+STR_KF_C239	동결건조 사골미역국 (완성)	Freeze-dried Beef Bone Seaweed Soup (ready)
+STR_KF_C240	동결건조 육개장	Freeze-dried Yukgaejang
+STR_KF_C241	동결건조 육개장 (컵에 담은 가루)	Freeze-dried Yukgaejang (powder in cup)
+STR_KF_C242	동결건조 육개장 (완성)	Freeze-dried Yukgaejang (ready)
+STR_KF_C243	속봉지 · 레토르트 카레	Inner Pouch · Retort Curry
+STR_KF_C244	속봉지 · 레토르트 짜장	Inner Pouch · Retort Jjajang
+STR_KF_C245	전투용 식량 1형	Combat Ration Type 1
+STR_KF_C246	김치볶음밥, 흰밥, 고기완자, 양념두부, 멸치조림 다섯 봉지가 들어 있습니다.	Contains five pouches: kimchi fried rice, white rice, meatballs, seasoned tofu and braised anchovies.
+STR_KF_C247	전투용 식량 1형 (열린 상자)	Combat Ration Type 1 (open box)
+STR_KF_C248	전투식량 · 김치볶음밥	Combat Ration · Kimchi Fried Rice
+STR_KF_C249	개별 포장된 구성품입니다. 영양 수치는 게임 균형용입니다.	An individually packed component. Nutrition values are set for game balance.
+STR_KF_C250	전투식량 · 김치볶음밥 (개봉)	Combat Ration · Kimchi Fried Rice (opened)
+STR_KF_C251	전투식량 · 흰밥	Combat Ration · White Rice
+STR_KF_C252	전투식량 · 흰밥 (개봉)	Combat Ration · White Rice (opened)
+STR_KF_C253	전투식량 · 고기완자	Combat Ration · Meatballs
+STR_KF_C254	전투식량 · 고기완자 (개봉)	Combat Ration · Meatballs (opened)
+STR_KF_C255	전투식량 · 양념두부	Combat Ration · Seasoned Tofu
+STR_KF_C256	전투식량 · 양념두부 (개봉)	Combat Ration · Seasoned Tofu (opened)
+STR_KF_C257	전투식량 · 멸치조림	Combat Ration · Braised Anchovies
+STR_KF_C258	전투식량 · 멸치조림 (개봉)	Combat Ration · Braised Anchovies (opened)
+STR_KF_A_FILL_NOODLE	뜨거운 물 받아 라면 불리기	Fill with hot water to soften noodles
+STR_KF_A_POUR_NOODLE	라면에 뜨거운 물 붓기	Pour hot water on noodles
+STR_KF_A_EAT_DRY	생라면 부숴 먹기	Crush and eat dry noodles
+STR_KF_A_EAT_CHOPSTICKS	젓가락으로 라면 먹기	Eat noodles with chopsticks
+STR_KF_A_OPEN_RATION	전투식량 상자 개봉	Open combat ration box
+STR_KF_A_OPEN	포장 열기	Open package
+STR_KF_A_FILL_WATER	물 받아 음식 준비하기	Fill with water to prepare food
+STR_KF_R_SOAK_NOODLE	뜨거운 물 붓고 라면 불리기	Add hot water and soften noodles
+STR_KF_R_CHOPSTICKS	나무젓가락 깎기	Carve wooden chopsticks
+STR_KF_R_PAPERCUP	종이컵 접기 (종이 2장)	Fold paper cup (2 paper)
+STR_KF_R_ADD_WATER	물 넣어 음식 준비하기	Add water to prepare food
+STR_KF_R_DOSE	종이컵에 1회분 담기	Put one serving in a paper cup
+STR_KF_S_READY	 (완성)	 (ready)
+STR_KF_S_SOAKING	 (불리는 중)	 (softening)
+STR_KF_S_STEEPING	 (우리는 중)	 (steeping)
+STR_KF_S_DRAIN	 (물 빼기 필요)	 (drain water)
+STR_KF_N_PALDOBIBIM	팔도비빔면	Paldo Bibim Men
