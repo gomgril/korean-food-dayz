@@ -5,7 +5,7 @@
 #
 # Example (pilot):
 #   powershell -ExecutionPolicy Bypass -File tools\models\build-changed.ps1 -Addon KF_Pantry `
-#       -Models pepero_open,yanggaeng_open
+#       -Models pepero_open,yanggaeng_open -PrivateKey <path\to\key.biprivatekey>   (or set $env:KF_SIGN_KEY)
 # Output (default): tools\models\out\Addons\<Addon>.pbo (+ .bisign), tools\models\out\Keys\*.bikey,
 #                   tools\models\out\build-changed-<Addon>.json
 # The repo's @KoreanFood\Addons is never written. Copy the output there yourself once reviewed.
@@ -158,9 +158,12 @@ foreach ($c in $changes) {
     $bad += $c
 }
 $missing = @($intended | Where-Object { $p = $_; -not ($changes | Where-Object { $_.path -eq $p }) })
+# report paths repo-relative (no personal absolute paths in reports)
+$rel = { param($p) $s = [string]$p; if ($s.StartsWith($repo, [StringComparison]::OrdinalIgnoreCase)) { '.' + $s.Substring($repo.Length) } else { [IO.Path]::GetFileName($s) } }
+$sigText = ($sig | ForEach-Object { $_ -replace [regex]::Escape($repo), '.' }) -join "`n"
 $report = [ordered]@{
-    addon = $Addon; time = (Get-Date).ToString('s'); base = $BasePbo; base_sha256 = (Get-FileHash $BasePbo).Hash
-    output = $pbo; output_sha256 = (Get-FileHash $pbo).Hash
+    addon = $Addon; time = (Get-Date).ToString('s'); base = (& $rel $BasePbo); base_sha256 = (Get-FileHash $BasePbo).Hash
+    output = (& $rel $pbo); output_sha256 = (Get-FileHash $pbo).Hash
     models = $modelNames; files = $Files; intended = @($intended)
     changes = @($changes | ForEach-Object { "$($_.kind) $($_.path)" })
     unexpected = @($bad | ForEach-Object { "$($_.kind) $($_.path)" })
@@ -168,7 +171,7 @@ $report = [ordered]@{
     intended_but_unchanged = $missing
     pbo_properties_same_as_base = $propsSame
     files_in_base = (Get-ChildItem $baseRoot -Recurse -File).Count; files_in_output = (Get-ChildItem $newRoot -Recurse -File).Count
-    signature = $sigText; work = $work
+    signature = $sigText; work = (& $rel $work)
 }
 $reportPath = Join-Path $OutDir "build-changed-$Addon.json"
 $report | ConvertTo-Json -Depth 5 | Set-Content $reportPath -Encoding utf8

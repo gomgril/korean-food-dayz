@@ -1,0 +1,67 @@
+[
+ {
+  "model": "KF_Pantry/models/seasonedgim_open.p3d",
+  "original_sha256": "479893caeba4350b0d8c078ba52c56209e5ee5aaeb180f5a353f2d0db5f3dd41",
+  "fixed_sha256": "b2cff30e9b287c043f1631547ee55669abd76a96af609bc954e6536da38d9469",
+  "lod0_bounds": [
+   [
+    -0.049,
+    0.049
+   ],
+   [
+    0.0,
+    0.02
+   ],
+   [
+    -0.035,
+    0.035
+   ]
+  ],
+  "lod1": {
+   "tray_faces": 480,
+   "stack_side_faces": 672,
+   "top_fit_residual": 0.0
+  },
+  "lod3": {
+   "tray_faces": 240,
+   "stack_side_faces": 336,
+   "top_fit_residual": 0.0
+  },
+  "lod6": {
+   "tray_faces": 120,
+   "stack_side_faces": 168,
+   "top_fit_residual": 0.0
+  }
+ },
+ {
+  "model": "KF_Pantry/models/seasonedgim.p3d",
+  "original_sha256": "c98d4475d3c285acf9be6f80deaf6ace2a75931ce45ecf0972c3f76b26a2a85d",
+  "fixed_sha256": "81deaa2a3e294c005fcd436137d9c5cfe4decfdfe8b5c9e8ebfe6385be21087c",
+  "lod0_bounds": [
+   [
+    -0.0525,
+    0.0525
+   ],
+   [
+    0.0,
+    0.145
+   ],
+   [
+    -0.0125,
+    0.0125
+   ]
+  ],
+  "lod1": {
+   "side_faces": 36,
+   "seal_faces": 192
+  },
+  "lod3": {
+   "side_faces": 20,
+   "seal_faces": 96
+  },
+  "lod6": {
+   "side_faces": 16,
+   "seal_faces": 48
+  }
+ }
+]

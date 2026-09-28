@@ -1,0 +1,195 @@
+[
+ {
+  "model": "KF_Pantry/models/coffeemix_open.p3d",
+  "original_sha256": "61a64a82380b7696b3a214889d1be9446a146834266c02147286650cde65abd9",
+  "fixed_sha256": "15f55e036a9cdd970307f096ffb5c724a719b2a985e489f252ad50519cbbc1d6",
+  "lod0_bounds": [
+   [
+    -0.022,
+    0.022
+   ],
+   [
+    0.0,
+    0.12
+   ],
+   [
+    -0.009,
+    0.009
+   ]
+  ],
+  "lod1": {
+   "removed_box_faces": 84,
+   "added_faces": 96,
+   "xs": 0.0201,
+   "zs": 0.0079
+  },
+  "lod3": {
+   "removed_box_faces": 0,
+   "added_faces": 96,
+   "xs": 0.0201,
+   "zs": 0.0079
+  }
+ },
+ {
+  "model": "KF_Pantry/models/doenjangblock_open.p3d",
+  "original_sha256": "04190fb5902651c41df11dd29955a5908bac49bdad68c025f6610afb3dae6fb0",
+  "fixed_sha256": "5f8dc62df7ee33f154a8774eac94b6ca1c1af427a97d8b0a24bf51d71653462f",
+  "lod0_bounds": [
+   [
+    -0.045,
+    0.045
+   ],
+   [
+    0.0,
+    0.12
+   ],
+   [
+    -0.009,
+    0.009
+   ]
+  ],
+  "print_uv_lod1": [
+   [
+    0.02,
+    0.49
+   ],
+   [
+    0.03,
+    0.47
+   ],
+   "->",
+   [
+    0.1211,
+    0.4336
+   ],
+   [
+    0.0957,
+    0.5117
+   ]
+  ],
+  "print_uv_lod3": [
+   [
+    0.02,
+    0.49
+   ],
+   [
+    0.03,
+    0.47
+   ],
+   "->",
+   [
+    0.1211,
+    0.4336
+   ],
+   [
+    0.0957,
+    0.5117
+   ]
+  ],
+  "lod1": {
+   "removed_box_faces": 84,
+   "added_faces": 16,
+   "block_half": [
+    0.019,
+    0.0064
+   ],
+   "inner_half": [
+    0.041,
+    0.0079
+   ]
+  },
+  "lod3": {
+   "removed_box_faces": 0,
+   "added_faces": 16,
+   "block_half": [
+    0.019,
+    0.0064
+   ],
+   "inner_half": [
+    0.041,
+    0.0079
+   ]
+  }
+ },
+ {
+  "model": "KF_Pantry/models/eggsoupblock_open.p3d",
+  "original_sha256": "1ad5a2ed1c6dfffa569cca2c47c852b96d055cc9ce6ced726bdcf9c469b83832",
+  "fixed_sha256": "ddb37fc5b2292975861b8768979a543f8fbd88e80cc50394808935e40ecfd782",
+  "lod0_bounds": [
+   [
+    -0.045,
+    0.045
+   ],
+   [
+    0.0,
+    0.12
+   ],
+   [
+    -0.009,
+    0.009
+   ]
+  ],
+  "print_uv_lod1": [
+   [
+    0.52,
+    0.98
+   ],
+   [
+    0.03,
+    0.47
+   ],
+   "->",
+   [
+    0.4414,
+    0.7773
+   ],
+   [
+    0.043,
+    0.4902
+   ]
+  ],
+  "print_uv_lod3": [
+   [
+    0.52,
+    0.98
+   ],
+   [
+    0.03,
+    0.47
+   ],
+   "->",
+   [
+    0.4414,
+    0.7773
+   ],
+   [
+    0.043,
+    0.4902
+   ]
+  ],
+  "lod1": {
+   "removed_box_faces": 84,
+   "added_faces": 16,
+   "block_half": [
+    0.019,
+    0.0064
+   ],
+   "inner_half": [
+    0.041,
+    0.0079
+   ]
+  },
+  "lod3": {
+   "removed_box_faces": 0,
+   "added_faces": 16,
+   "block_half": [
+    0.019,
+    0.0064
+   ],
+   "inner_half": [
+    0.041,
+    0.0079
+   ]
+  }
+ }
+]

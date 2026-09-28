@@ -1,0 +1,263 @@
+[
+ {
+  "model": "KF_Food/models/ansung_packet_ready.p3d",
+  "original_sha256": "ee779098297f097906db87a08ae38cd5feb51b30f4a2ba8bef23b9d9238bd000",
+  "fixed_sha256": "a7ade32373a519e423c5ebcd6e61d68cce71b6b59fcd6aa3546e648514c1f68d",
+  "lod0_bounds": [
+   [
+    -0.07161,
+    0.0713
+   ],
+   [
+    0.0,
+    0.1467
+   ],
+   [
+    -0.034,
+    0.034
+   ]
+  ],
+  "lod1": {
+   "bottom_faces": 96,
+   "removed_liner_faces": 96,
+   "old_texture": "#(argb,8,8,3)color(0.88,0.24,0.012,1,CO)",
+   "back_texture": "KF_Food\\data\\r044_ref_06_co.paa",
+   "back_fit_residual": 0.0071,
+   "v_band": [
+    0.595,
+    0.79
+   ]
+  },
+  "lod3": {
+   "bottom_faces": 48,
+   "removed_liner_faces": 48,
+   "old_texture": "#(argb,8,8,3)color(0.88,0.24,0.012,1,CO)",
+   "back_texture": "KF_Food\\data\\r044_ref_06_co.paa",
+   "back_fit_residual": 0.0063,
+   "v_band": [
+    0.595,
+    0.79
+   ]
+  },
+  "lod6": {
+   "bottom_faces": 24,
+   "removed_liner_faces": 24,
+   "old_texture": "#(argb,8,8,3)color(0.88,0.24,0.012,1,CO)",
+   "back_texture": "KF_Food\\data\\r044_ref_06_co.paa",
+   "back_fit_residual": 0.0056,
+   "v_band": [
+    0.595,
+    0.79
+   ]
+  }
+ },
+ {
+  "model": "KF_Food/models/chapagetti_packet_ready.p3d",
+  "original_sha256": "63ff50c79dcfdb21c35f237113a70fd120b7a26d6ee3d938da6024e6a9468b16",
+  "fixed_sha256": "48522f626f29837ce2068e372b1179f9cc8e28fdba2ccdf3e421c214f6f5d2fa",
+  "lod0_bounds": [
+   [
+    -0.07161,
+    0.0713
+   ],
+   [
+    0.0,
+    0.1467
+   ],
+   [
+    -0.034,
+    0.034
+   ]
+  ],
+  "lod1": {
+   "bottom_faces": 96,
+   "removed_liner_faces": 96,
+   "old_texture": "#(argb,8,8,3)color(0.56,0.64,0.23,1,CO)",
+   "back_texture": "KF_Food\\data\\r044_ref_08_co.paa",
+   "back_fit_residual": 0.0066,
+   "v_band": [
+    0.6,
+    0.78
+   ]
+  },
+  "lod3": {
+   "bottom_faces": 48,
+   "removed_liner_faces": 48,
+   "old_texture": "#(argb,8,8,3)color(0.56,0.64,0.23,1,CO)",
+   "back_texture": "KF_Food\\data\\r044_ref_08_co.paa",
+   "back_fit_residual": 0.0058,
+   "v_band": [
+    0.6,
+    0.78
+   ]
+  },
+  "lod6": {
+   "bottom_faces": 24,
+   "removed_liner_faces": 24,
+   "old_texture": "#(argb,8,8,3)color(0.56,0.64,0.23,1,CO)",
+   "back_texture": "KF_Food\\data\\r044_ref_08_co.paa",
+   "back_fit_residual": 0.0052,
+   "v_band": [
+    0.601,
+    0.78
+   ]
+  }
+ },
+ {
+  "model": "KF_Food/models/jin_hot_packet_ready.p3d",
+  "original_sha256": "0fe0b26bc3dde5f9c6f93b8da34183521587a0e35f880594164fd3982252fdec",
+  "fixed_sha256": "606ee751a323908479c01069655ae4053ee93b241e200f8150e5508bd5808632",
+  "lod0_bounds": [
+   [
+    -0.07161,
+    0.0713
+   ],
+   [
+    0.0,
+    0.1467
+   ],
+   [
+    -0.034,
+    0.034
+   ]
+  ],
+  "lod1": {
+   "bottom_faces": 96,
+   "removed_liner_faces": 96,
+   "old_texture": "#(argb,8,8,3)color(0.92,0.71,0.015,1,CO)",
+   "back_texture": "KF_Food\\data\\r044_jin_hot_back_co.paa",
+   "back_fit_residual": 0.0151,
+   "v_band": [
+    0.659,
+    0.959
+   ]
+  },
+  "lod3": {
+   "bottom_faces": 48,
+   "removed_liner_faces": 48,
+   "old_texture": "#(argb,8,8,3)color(0.92,0.71,0.015,1,CO)",
+   "back_texture": "KF_Food\\data\\r044_jin_hot_back_co.paa",
+   "back_fit_residual": 0.0134,
+   "v_band": [
+    0.659,
+    0.959
+   ]
+  },
+  "lod6": {
+   "bottom_faces": 24,
+   "removed_liner_faces": 24,
+   "old_texture": "#(argb,8,8,3)color(0.92,0.71,0.015,1,CO)",
+   "back_texture": "KF_Food\\data\\r044_jin_hot_back_co.paa",
+   "back_fit_residual": 0.0117,
+   "v_band": [
+    0.66,
+    0.959
+   ]
+  }
+ },
+ {
+  "model": "KF_Food/models/jin_mild_packet_ready.p3d",
+  "original_sha256": "5ef6b002246d61186b487de19b33858af461a4c11eb8d2e5d1854a2e7d42d6d8",
+  "fixed_sha256": "6d88913c28a9ad74e74ab60a4e65897773ae1e386e7328ac9ec37ebf5716ed50",
+  "lod0_bounds": [
+   [
+    -0.07161,
+    0.0713
+   ],
+   [
+    0.0,
+    0.1467
+   ],
+   [
+    -0.034,
+    0.034
+   ]
+  ],
+  "lod1": {
+   "bottom_faces": 96,
+   "removed_liner_faces": 96,
+   "old_texture": "#(argb,8,8,3)color(0.92,0.71,0.015,1,CO)",
+   "back_texture": "KF_Food\\data\\r044_ref_03_co.paa",
+   "back_fit_residual": 0.0073,
+   "v_band": [
+    0.609,
+    0.81
+   ]
+  },
+  "lod3": {
+   "bottom_faces": 48,
+   "removed_liner_faces": 48,
+   "old_texture": "#(argb,8,8,3)color(0.92,0.71,0.015,1,CO)",
+   "back_texture": "KF_Food\\data\\r044_ref_03_co.paa",
+   "back_fit_residual": 0.0065,
+   "v_band": [
+    0.609,
+    0.81
+   ]
+  },
+  "lod6": {
+   "bottom_faces": 24,
+   "removed_liner_faces": 24,
+   "old_texture": "#(argb,8,8,3)color(0.92,0.71,0.015,1,CO)",
+   "back_texture": "KF_Food\\data\\r044_ref_03_co.paa",
+   "back_fit_residual": 0.0058,
+   "v_band": [
+    0.609,
+    0.81
+   ]
+  },
+  "repointed_r049_photos_jin_mild_back_co.paa": 1128
+ },
+ {
+  "model": "KF_Food/models/shin_packet_ready.p3d",
+  "original_sha256": "8c4380c98e31cceba71dfc82e3671dd546e696e59b52457a2a01d97d2fba7d7d",
+  "fixed_sha256": "b90de8289b22bce0a8dfc9612bb2fb9c25fd8785f76b579cd1b06c41fb97a486",
+  "lod0_bounds": [
+   [
+    -0.07161,
+    0.0713
+   ],
+   [
+    0.0,
+    0.1467
+   ],
+   [
+    -0.034,
+    0.034
+   ]
+  ],
+  "lod1": {
+   "bottom_faces": 96,
+   "removed_liner_faces": 96,
+   "old_texture": "#(argb,8,8,3)color(0.66,0.018,0.016,1,CO)",
+   "back_texture": "KF_Food\\data\\r044_ref_02_co.paa",
+   "back_fit_residual": 0.0081,
+   "v_band": [
+    0.628,
+    0.85
+   ]
+  },
+  "lod3": {
+   "bottom_faces": 48,
+   "removed_liner_faces": 48,
+   "old_texture": "#(argb,8,8,3)color(0.66,0.018,0.016,1,CO)",
+   "back_texture": "KF_Food\\data\\r044_ref_02_co.paa",
+   "back_fit_residual": 0.0072,
+   "v_band": [
+    0.628,
+    0.85
+   ]
+  },
+  "lod6": {
+   "bottom_faces": 24,
+   "removed_liner_faces": 24,
+   "old_texture": "#(argb,8,8,3)color(0.66,0.018,0.016,1,CO)",
+   "back_texture": "KF_Food\\data\\r044_ref_02_co.paa",
+   "back_fit_residual": 0.0064,
+   "v_band": [
+    0.628,
+    0.85
+   ]
+  }
+ }
+]

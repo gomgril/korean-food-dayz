@@ -1,0 +1,104 @@
+[
+ {
+  "model": "KF_Pantry/models/dalgona_open.p3d",
+  "original_sha256": "1567ed4b6178068337ae6f5ed1d959cbcd5eb55aaaa40c30c845a207c15939ea",
+  "fixed_sha256": "0c7440744271473c174d88b797d13d97fa03cc4c9087c646ddcb175c9269afc7",
+  "lod0_bounds": [
+   [
+    -0.04256,
+    0.04344
+   ],
+   [
+    -0.062,
+    0.024
+   ],
+   [
+    -0.0022,
+    0.0022
+   ]
+  ],
+  "lod1": {
+   "ref_faces": 96,
+   "retextured": 96,
+   "fit_residual": 0.0
+  },
+  "lod3": {
+   "ref_faces": 48,
+   "retextured": 48,
+   "fit_residual": 0.0
+  },
+  "lod6": {
+   "ref_faces": 24,
+   "retextured": 24,
+   "fit_residual": 0.0
+  }
+ },
+ {
+  "model": "KF_Pantry/models/digestive_open.p3d",
+  "original_sha256": "7aa5eca400360c5bcdf136dd0e8bd71103b99342618e52ae925668bf3f17f4d5",
+  "fixed_sha256": "b42346829a1c2b0ea171b0f6e0238c3a7e62b50648031f8dc3bd094a9c0e5504",
+  "lod0_bounds": [
+   [
+    -0.03156,
+    0.03244
+   ],
+   [
+    -0.062,
+    0.002
+   ],
+   [
+    -0.01108,
+    0.01108
+   ]
+  ],
+  "lod1": {
+   "ref_faces": 288,
+   "retextured": 288,
+   "fit_residual": 0.0
+  },
+  "lod3": {
+   "ref_faces": 144,
+   "retextured": 144,
+   "fit_residual": 0.0
+  },
+  "lod6": {
+   "ref_faces": 72,
+   "retextured": 72,
+   "fit_residual": 0.0
+  }
+ },
+ {
+  "model": "KF_Pantry/models/chocopie_open.p3d",
+  "original_sha256": "0f440be534f70193ebeb5e7d6448089839d38eb05f4a6f25659f2994e9f270b3",
+  "fixed_sha256": "a11b10f707300ecf2983f99115001326e63dcdea1dab69d9a6659c9302135120",
+  "lod0_bounds": [
+   [
+    -0.03348,
+    0.03436
+   ],
+   [
+    -0.062,
+    -0.00808
+   ],
+   [
+    -0.014,
+    0.014
+   ]
+  ],
+  "lod1": {
+   "ref_faces": 96,
+   "retextured": 96,
+   "fit_residual": 0.0
+  },
+  "lod3": {
+   "ref_faces": 48,
+   "retextured": 48,
+   "fit_residual": 0.0
+  },
+  "lod6": {
+   "ref_faces": 24,
+   "retextured": 24,
+   "fit_residual": 0.0
+  }
+ }
+]

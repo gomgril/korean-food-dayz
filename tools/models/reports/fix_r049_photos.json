@@ -1,0 +1,211 @@
+{
+ "retextured": [
+  {
+   "model": "KF_Food/ansung_packet_dry",
+   "faces": {
+    "KF_Food\\data\\r049_photos_ansung_back_co.paa": 960,
+    "KF_Food\\data\\r049_photos_ansung_front_co.paa": 2112
+   },
+   "sha256": "8dccd51c01d8c7c152a4755da45f9731c6961c171c91c77b7eaf14ddcbe8cf85"
+  },
+  {
+   "model": "KF_Food/chapagetti_packet_dry",
+   "faces": {
+    "KF_Food\\data\\r049_photos_chapagetti_back_co.paa": 960,
+    "KF_Food\\data\\r049_photos_chapagetti_front_co.paa": 2112
+   },
+   "sha256": "456511f0280221fc898f4fc172f59877d660b0642d1fcab44f24d489bbcb7d3d"
+  },
+  {
+   "model": "KF_Food/jin_mild_packet_dry",
+   "faces": {
+    "KF_Food\\data\\r049_photos_jin_mild_back_co.paa": 960
+   },
+   "sha256": "ce46321c3dc88b1552b84c6be013bbf6f52793349574c06dbde90bef754de78d"
+  },
+  {
+   "model": "KF_Pantry/combatbibimbap",
+   "faces": {
+    "KF_Pantry\\data\\r049_photos_combatbibimbap_co.paa": 240
+   },
+   "sha256": "5fdadbf56d0bd72f77d91c807338554049c414d51b35d74fca499d6af501cc20"
+  },
+  {
+   "model": "KF_Pantry/combatbibimbap_open",
+   "faces": {
+    "KF_Pantry\\data\\r049_photos_combatbibimbap_co.paa": 240
+   },
+   "sha256": "1c5d7f473bd7916a2e30c042798a79007f2a85ad8e5a33f79fc93372444b5f7f"
+  },
+  {
+   "model": "KF_Pantry/curry_open",
+   "faces": {
+    "KF_Pantry\\data\\r049_photos_curry_pouch_back_co.paa": 1008,
+    "KF_Pantry\\data\\r049_photos_curry_pouch_front_co.paa": 1008
+   },
+   "sha256": "1149f33bcbe41fc3cc9687632ecf7afa029d378aca9f205edf5f4b4dd0483de9"
+  },
+  {
+   "model": "KF_Pantry/curry_pouch",
+   "faces": {
+    "KF_Pantry\\data\\r049_photos_curry_pouch_back_co.paa": 1008,
+    "KF_Pantry\\data\\r049_photos_curry_pouch_front_co.paa": 1008
+   },
+   "sha256": "04c551d4dcf28e3d4f90963859599f6dd29e863a74769ad04c5cffc8eeed3630"
+  },
+  {
+   "model": "KF_Pantry/homerunball",
+   "faces": {
+    "KF_Pantry\\data\\r049_photos_homerunball_back_co.paa": 1008,
+    "KF_Pantry\\data\\r049_photos_homerunball_front_co.paa": 1008
+   },
+   "sha256": "dc2a27786b9826c347e77b7497eb0d6e998c6d5c754050c1ae9ed454f029beef"
+  },
+  {
+   "model": "KF_Pantry/homerunballclassic",
+   "faces": {
+    "KF_Pantry\\data\\r049_photos_homerunball_back_co.paa": 1008,
+    "KF_Pantry\\data\\r049_photos_homerunballclassic_front_co.paa": 1008
+   },
+   "sha256": "0779ca227c17b632aee130f1273dd2ad7016d7bc0265564372d6c20141ee8b9a"
+  },
+  {
+   "model": "KF_Pantry/homerunballsaltmilk",
+   "faces": {
+    "KF_Pantry\\data\\r049_photos_homerunballsaltmilk_back_co.paa": 1008
+   },
+   "sha256": "4d636ad3b07a1f204a1633a21a9bd6bd531871bf2a8b93f5dd3269726c4c245a"
+  },
+  {
+   "model": "KF_Pantry/kkokkalcornroasted",
+   "faces": {
+    "KF_Pantry\\data\\r049_photos_kkokkalcornroasted_back_co.paa": 1008,
+    "KF_Pantry\\data\\r049_photos_kkokkalcornroasted_front_co.paa": 1008
+   },
+   "sha256": "8daa7c35a04b89dbe31ca717f42859512c5855d0aaa0b21dc7b489d1d17b8d02"
+  },
+  {
+   "model": "KF_Pantry/neoguri",
+   "faces": {
+    "KF_Pantry\\data\\r049_photos_neoguri_back_co.paa": 1008
+   },
+   "sha256": "13fcf0e4d21ae14bc07d6833cbeed3fcbbe88cadebb9c9ef35bed07ec8610113"
+  },
+  {
+   "model": "KF_Pantry/odongtong",
+   "faces": {
+    "KF_Pantry\\data\\r049_photos_odongtong_back_co.paa": 1032
+   },
+   "sha256": "5810ca44d6b88f0c3b6cf93da2d9fe58a74512dad4c93f720903418d33403486"
+  },
+  {
+   "model": "KF_Pantry/ojingeopeanut",
+   "faces": {
+    "KF_Pantry\\data\\r049_photos_ojingeopeanut_back_co.paa": 1008,
+    "KF_Pantry\\data\\r049_photos_ojingeopeanut_front_co.paa": 1008
+   },
+   "sha256": "f666af8f9bfa8f9ba6e0bcfc2a7fdd5b757eb19ec08c62ef4bb0d462d8a36e3c"
+  },
+  {
+   "model": "KF_Pantry/paldobibim",
+   "faces": {
+    "KF_Pantry\\data\\r049_photos_paldobibim_back_co.paa": 1008
+   },
+   "sha256": "6ee3f8421821c8fefebd78c957b5eaf5a24f0f9d84d24f6d023a8dde00d7d55d"
+  },
+  {
+   "model": "KF_Pantry/samgyetang",
+   "faces": {
+    "KF_Pantry\\data\\r049_photos_samgyetang_back_co.paa": 380
+   },
+   "sha256": "d2e69e334960c238b3d8ea3914d0372c415b66b64cb9d5b007d7424e66cfe678"
+  },
+  {
+   "model": "KF_Pantry/yukgaejangsoup",
+   "faces": {
+    "KF_Pantry\\data\\r049_photos_yukgaejangsoup_back_co.paa": 382
+   },
+   "sha256": "42b2b83ed8704271e5ed05dee03ed21c079b61a7fdcb59a9b624a9fc38a5e9a7"
+  }
+ ],
+ "shared": {
+  "model": "KF_Food/jin_mild_packet_ready",
+  "faces_repointed": 0,
+  "note": "in place, texture reference only"
+ },
+ "misutgaru": [
+  {
+   "model": "KF_Pantry/misutgaru",
+   "faces": {
+    "1.0": 2674,
+    "3.0": 698,
+    "6.0": 190
+   },
+   "bounds": [
+    [
+     -0.08250000327825546,
+     0.08250000327825546
+    ],
+    [
+     0.0,
+     0.24500000476837158
+    ],
+    [
+     -0.024399999529123306,
+     0.024399999529123306
+    ]
+   ],
+   "geometry_lod_bounds": [
+    [
+     -0.08250000327825546,
+     0.08250000327825546
+    ],
+    [
+     0.0,
+     0.24500000476837158
+    ],
+    [
+     -0.0243500005453825,
+     0.0243500005453825
+    ]
+   ],
+   "sha256": "5aee5e97f836865c6b505c96c73a51db182175367353b3f971048a72e1184bfe"
+  },
+  {
+   "model": "KF_Pantry/misutgaru_open",
+   "faces": {
+    "1.0": 3264,
+    "3.0": 864
+   },
+   "bounds": [
+    [
+     -0.06367658823728561,
+     0.06367658823728561
+    ],
+    [
+     0.0,
+     0.1550000011920929
+    ],
+    [
+     -0.02199999988079071,
+     0.02199999988079071
+    ]
+   ],
+   "geometry_lod_bounds": [
+    [
+     -0.06499999761581421,
+     0.06499999761581421
+    ],
+    [
+     0.0,
+     0.1550000011920929
+    ],
+    [
+     -0.02199999988079071,
+     0.02199999988079071
+    ]
+   ],
+   "sha256": "39ac5ec79b623d5dbeef85e73c30ca702627b6426e7c85392849ce182366a008"
+  }
+ ]
+}

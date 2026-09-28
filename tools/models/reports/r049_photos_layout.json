@@ -1,0 +1,338 @@
+{
+ "ansung_back": {
+  "old": "KF_Food\\data\\r044_ref_06_co.paa",
+  "new": "KF_Food\\data\\r049_photos_ansung_back_co.paa",
+  "rect": [
+   0.0882902592420578,
+   0.18000000715255737,
+   0.9034956693649292,
+   0.8199999928474426
+  ],
+  "size_m": [
+   0.14291255176067352,
+   0.1762000072048977
+  ],
+  "faces": 1920,
+  "front": false
+ },
+ "chapagetti_back": {
+  "old": "KF_Food\\data\\r044_ref_08_co.paa",
+  "new": "KF_Food\\data\\r049_photos_chapagetti_back_co.paa",
+  "rect": [
+   0.17867019772529602,
+   0.2199999988079071,
+   0.8127188086509705,
+   0.8100000023841858
+  ],
+  "size_m": [
+   0.14291255176067352,
+   0.1762000072048977
+  ],
+  "faces": 1920,
+  "front": false
+ },
+ "jin_mild_back": {
+  "old": "KF_Food\\data\\r044_ref_03_co.paa",
+  "new": "KF_Food\\data\\r049_photos_jin_mild_back_co.paa",
+  "rect": [
+   0.5190923810005188,
+   0.18000000715255737,
+   0.9518557190895081,
+   0.8399999737739563
+  ],
+  "size_m": [
+   0.14291255176067352,
+   0.1762000072048977
+  ],
+  "faces": 1920,
+  "front": false
+ },
+ "neoguri_back": {
+  "old": "KF_Pantry\\data\\r043_neoguri_back_4bb7027_co.paa",
+  "new": "KF_Pantry\\data\\r049_photos_neoguri_back_co.paa",
+  "rect": [
+   0.07000000029802322,
+   0.05000000074505806,
+   0.9300000071525574,
+   0.949999988079071
+  ],
+  "size_m": [
+   0.14499999582767487,
+   0.17499999701976776
+  ],
+  "faces": 2016,
+  "front": false
+ },
+ "odongtong_back": {
+  "old": "KF_Pantry\\data\\r043_odongtong_back_53d58ef_co.paa",
+  "new": "KF_Pantry\\data\\r049_photos_odongtong_back_co.paa",
+  "rect": [
+   0.12999999523162842,
+   0.05135951563715935,
+   0.8423437476158142,
+   0.9138972759246826
+  ],
+  "size_m": [
+   0.1420000046491623,
+   0.17499999701976776
+  ],
+  "faces": 2064,
+  "front": false
+ },
+ "paldobibim_back": {
+  "old": "KF_Pantry\\data\\r043_paldobibim_back_be2348e_co.paa",
+  "new": "KF_Pantry\\data\\r049_photos_paldobibim_back_co.paa",
+  "rect": [
+   0.07999999821186066,
+   0.05999999865889549,
+   0.9200000166893005,
+   0.9399999976158142
+  ],
+  "size_m": [
+   0.17499999701976776,
+   0.14800000190734863
+  ],
+  "faces": 2016,
+  "front": false
+ },
+ "homerunball_back": {
+  "old": "KF_Pantry\\data\\r043_homerunball_back_dd7122b_co.paa",
+  "new": "KF_Pantry\\data\\r049_photos_homerunball_back_co.paa",
+  "rect": [
+   0.04500000178813934,
+   0.20399999618530273,
+   0.9589999914169312,
+   0.9150000214576721
+  ],
+  "size_m": [
+   0.14499999582767487,
+   0.10499999672174454
+  ],
+  "faces": 2016,
+  "front": false
+ },
+ "homerunballsaltmilk_back": {
+  "old": "KF_Pantry\\data\\r043_homerunballsaltmilk_back_84a2527_co.paa",
+  "new": "KF_Pantry\\data\\r049_photos_homerunballsaltmilk_back_co.paa",
+  "rect": [
+   0.03200000151991844,
+   0.06800000369548798,
+   0.9810000061988831,
+   0.8999999761581421
+  ],
+  "size_m": [
+   0.14499999582767487,
+   0.10499999672174454
+  ],
+  "faces": 1008,
+  "front": false
+ },
+ "kkokkalcornroasted_back": {
+  "old": "KF_Pantry\\data\\r043_kkokkalcorn_roasted_back_black_91a45c7_co.paa",
+  "new": "KF_Pantry\\data\\r049_photos_kkokkalcornroasted_back_co.paa",
+  "rect": [
+   0.1599999964237213,
+   0.052000001072883606,
+   0.8669999837875366,
+   0.9539999961853027
+  ],
+  "size_m": [
+   0.14000000059604645,
+   0.20499999821186066
+  ],
+  "faces": 2016,
+  "front": false
+ },
+ "ojingeopeanut_back": {
+  "old": "KF_Pantry\\data\\r043_ojingeopeanut_back_8221d6d_co.paa",
+  "new": "KF_Pantry\\data\\r049_photos_ojingeopeanut_back_co.paa",
+  "rect": [
+   0.10400000214576721,
+   0.1289999932050705,
+   0.8999999761581421,
+   0.8999999761581421
+  ],
+  "size_m": [
+   0.11500000208616257,
+   0.1599999964237213
+  ],
+  "faces": 2016,
+  "front": false
+ },
+ "samgyetang_back": {
+  "old": "KF_Pantry\\data\\r043_samgyetang_back_66c8282_co.paa",
+  "new": "KF_Pantry\\data\\r049_photos_samgyetang_back_co.paa",
+  "rect": [
+   0.26844921708106995,
+   0.05000000074505806,
+   0.7715507745742798,
+   0.9449999928474426
+  ],
+  "size_m": [
+   0.1673780083656311,
+   0.23999999463558197
+  ],
+  "faces": 740,
+  "front": false
+ },
+ "yukgaejangsoup_back": {
+  "old": "KF_Pantry\\data\\r043_yukgaejangsoup_back_3746ad7_co.paa",
+  "new": "KF_Pantry\\data\\r049_photos_yukgaejangsoup_back_co.paa",
+  "rect": [
+   0.039371099323034286,
+   0.009999999776482582,
+   0.9546288847923279,
+   0.9760000109672546
+  ],
+  "size_m": [
+   0.14609295129776,
+   0.21199999749660492
+  ],
+  "faces": 744,
+  "front": false
+ },
+ "curry_front": {
+  "old": "KF_Pantry\\data\\r043_curry_pouch_71c31e0_co.paa",
+  "new": "KF_Pantry\\data\\r049_photos_curry_pouch_front_co.paa",
+  "rect": [
+   0.30300000309944153,
+   0.15000000596046448,
+   0.7390000224113464,
+   0.8769999742507935
+  ],
+  "size_m": [
+   0.11500000208616257,
+   0.1599999964237213
+  ],
+  "faces": 2016,
+  "front": false
+ },
+ "curry_back": {
+  "old": "KF_Pantry\\data\\r043_curry_pouch_71c31e0_co.paa",
+  "new": "KF_Pantry\\data\\r049_photos_curry_pouch_back_co.paa",
+  "rect": [
+   0.30300000309944153,
+   0.15000000596046448,
+   0.7390000224113464,
+   0.8769999742507935
+  ],
+  "size_m": [
+   0.11500000208616257,
+   0.1599999964237213
+  ],
+  "faces": 2016,
+  "front": false
+ },
+ "homerunball_front": {
+  "old": "KF_Pantry\\data\\r043_homerunball_front_design_1_95c2037_co.paa",
+  "new": "KF_Pantry\\data\\r049_photos_homerunball_front_co.paa",
+  "rect": [
+   0.09300000220537186,
+   0.2800000011920929,
+   0.9129999876022339,
+   0.7200000286102295
+  ],
+  "size_m": [
+   0.14499999582767487,
+   0.10499999672174454
+  ],
+  "faces": 1008,
+  "front": true
+ },
+ "homerunballclassic_front": {
+  "old": "KF_Pantry\\data\\r043_homerunball_front_design_2_657fab1_co.paa",
+  "new": "KF_Pantry\\data\\r049_photos_homerunballclassic_front_co.paa",
+  "rect": [
+   0.035999998450279236,
+   0.1889999955892563,
+   0.9430000185966492,
+   0.7870000004768372
+  ],
+  "size_m": [
+   0.14499999582767487,
+   0.10499999672174454
+  ],
+  "faces": 1008,
+  "front": true
+ },
+ "kkokkalcornroasted_front": {
+  "old": "KF_Pantry\\data\\r043_kkokkalcorn_four_flavors_beff63d_co.paa",
+  "new": "KF_Pantry\\data\\r049_photos_kkokkalcornroasted_front_co.paa",
+  "rect": [
+   0.2919999957084656,
+   0.3109999895095825,
+   0.4860000014305115,
+   0.7919999957084656
+  ],
+  "size_m": [
+   0.14000000059604645,
+   0.20499999821186066
+  ],
+  "faces": 1008,
+  "front": true
+ },
+ "ojingeopeanut_front": {
+  "old": "KF_Pantry\\data\\r043_ojingeopeanut_front_0f32656_co.paa",
+  "new": "KF_Pantry\\data\\r049_photos_ojingeopeanut_front_co.paa",
+  "rect": [
+   0.17000000178813934,
+   0.06300000101327896,
+   0.8199999928474426,
+   0.9589999914169312
+  ],
+  "size_m": [
+   0.11500000208616257,
+   0.1599999964237213
+  ],
+  "faces": 1008,
+  "front": true
+ },
+ "ansung_front": {
+  "old": "KF_Food\\data\\r044_ref_05_co.paa",
+  "new": "KF_Food\\data\\r049_photos_ansung_front_co.paa",
+  "rect": [
+   0.08143962174654007,
+   0.17000000178813934,
+   0.9110235571861267,
+   0.8399999737739563
+  ],
+  "size_m": [
+   0.14278899878263474,
+   0.1762000072048977
+  ],
+  "faces": 2112,
+  "front": true
+ },
+ "chapagetti_front": {
+  "old": "KF_Food\\data\\r044_ref_07_co.paa",
+  "new": "KF_Food\\data\\r049_photos_chapagetti_front_co.paa",
+  "rect": [
+   0.13697907328605652,
+   0.20999999344348907,
+   0.8408684730529785,
+   0.8199999928474426
+  ],
+  "size_m": [
+   0.14278899878263474,
+   0.1762000072048977
+  ],
+  "faces": 2112,
+  "front": true
+ },
+ "combatbibimbap": {
+  "old": "KF_Pantry\\data\\batch02_13_CombatBibimbap_front_co.paa",
+  "new": "KF_Pantry\\data\\r049_photos_combatbibimbap_co.paa",
+  "rect": [
+   0.10000000149011612,
+   0.05999999865889549,
+   0.8999999761581421,
+   0.9399999976158142
+  ],
+  "size_m": [
+   0.12999999523162842,
+   0.1550000011920929
+  ],
+  "faces": 480,
+  "front": false
+ }
+}

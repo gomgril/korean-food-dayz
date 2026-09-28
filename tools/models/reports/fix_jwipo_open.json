@@ -1,0 +1,42 @@
+[
+ {
+  "model": "KF_Pantry/models/jwipo_open.p3d",
+  "original_sha256": "14f51df7f1d5c360b923f9bfbc051df860f9752a3b4c6ecb4f9a93e5791ca67e",
+  "fixed_sha256": "93ee64267ef34cf052a39e11309dfd384b92be3b7f8e46d43dab61051064e6c7",
+  "lod0_bounds": [
+   [
+    -0.04456,
+    0.04545
+   ],
+   [
+    -0.04165,
+    0.06835
+   ],
+   [
+    -0.00373,
+    0.00252
+   ]
+  ],
+  "lod1": {
+   "rim_faces": 96,
+   "side_neg": 960,
+   "side_pos": 960,
+   "moved_vertices": 7872,
+   "uv_fit_residual": 0.0
+  },
+  "lod3": {
+   "rim_faces": 48,
+   "side_neg": 480,
+   "side_pos": 480,
+   "moved_vertices": 3936,
+   "uv_fit_residual": 0.0
+  },
+  "lod6": {
+   "rim_faces": 24,
+   "side_neg": 240,
+   "side_pos": 240,
+   "moved_vertices": 1968,
+   "uv_fit_residual": 0.0
+  }
+ }
+]

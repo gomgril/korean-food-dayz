@@ -1,0 +1,39 @@
+[
+ {
+  "model": "KF_Pantry/models/hardtack_open.p3d",
+  "original_sha256": "b00f2fec205eee71f5d43c236deb6dfa20c5c83bb102a10b99b4b735c01c7df4",
+  "fixed_sha256": "6589e9a5c3e6e88b354f02de2d3c330d99947d86c8cca78e1f9a9c3cb2fd694e",
+  "lod0_bounds": [
+   [
+    -0.066,
+    0.066
+   ],
+   [
+    0.0,
+    0.12616
+   ],
+   [
+    -0.023,
+    0.023
+   ]
+  ],
+  "lod1": {
+   "side_faces": 80,
+   "back_faces": 104,
+   "crackers": 13,
+   "holes": 26
+  },
+  "lod3": {
+   "side_faces": 36,
+   "back_faces": 54,
+   "crackers": 13,
+   "holes": 26
+  },
+  "lod6": {
+   "side_faces": 20,
+   "back_faces": 26,
+   "crackers": 8,
+   "holes": 16
+  }
+ }
+]

@@ -1,0 +1,89 @@
+[
+ {
+  "model": "chilsungcider",
+  "sha256": "86309dbdbed023e1c6d771232f5b51c637b47409f67dcca48bd9d6757a9807db",
+  "texture": "KF_Pantry\\data\\r049_labels_chilsungcider_wrap_co.paa",
+  "label_faces": 2016,
+  "label_inside_faces": 2352
+ },
+ {
+  "model": "jangjorim",
+  "sha256": "b415f0cbb1af9e1947ac186a0a682b6d7ad6eebee9a08f2d72684c241e365c96",
+  "texture": "KF_Pantry\\data\\r049_labels_jangjorim_band_co.paa",
+  "band_faces": 224,
+  "perimeter_m": 0.2772248093712173
+ },
+ {
+  "model": "jangjorim_open",
+  "sha256": "00e97ff46dee2fcb4007c8de066d8cff78970809f32d69ab361e2d4f83433cb1",
+  "texture": "KF_Pantry\\data\\r049_labels_jangjorim_band_co.paa",
+  "band_faces": 224,
+  "perimeter_m": 0.2772248093712173,
+  "food_faces": 2112,
+  "food_uv": {
+   "u": [
+    0.2883593682227974,
+    0.7116406317772026
+   ],
+   "v": [
+    0.56,
+    0.875
+   ]
+  }
+ },
+ {
+  "model": "perilla",
+  "sha256": "c5185c95f9064aa8270ecef536b5db1e232c0d7584a76a65bd0be7a0e2479306",
+  "texture": "KF_Pantry\\data\\r049_labels_perilla_lid_co.paa",
+  "lid_faces": 504,
+  "lid_mm": [
+   77.60000228881836,
+   54.32000011205673
+  ],
+  "source": "work/kf-product-review/references/Perilla/mild_side.png"
+ },
+ {
+  "model": "peardrink",
+  "sha256": "9f5088ee55fc882207df98cff9b46ae3ff3d7952d0b10a8bb29f1091fb9a5915",
+  "texture": "KF_Pantry\\data\\r049_labels_peardrink_wrap_co.paa",
+  "label_faces": 840
+ },
+ {
+  "model": "nutenergybar",
+  "sha256": "22dbd5270a12d0c21db366f1d052fbb4e7197767ff4d2f0e20bf273f287be262",
+  "texture": "KF_Pantry\\data\\r049_labels_nutenergybar_wrapper_co.paa",
+  "wrapper_faces": 2016
+ },
+ {
+  "model": "nutenergybar_open",
+  "sha256": "822f30c981a8d8d6416228e0e6463a8c609f9aa4bff34004bc4352471653be32",
+  "texture": "KF_Pantry\\data\\r043_atlases_energybar_f55439c_co.paa",
+  "food_faces": 3360
+ },
+ {
+  "model": "kkokkalcornsweetspicy",
+  "sha256": "069228f6705be41763bf07f2ab5252310e89a76e3df36a93de14913cf9b29725",
+  "texture": "KF_Pantry\\data\\r049_labels_kkokkalcornsweetspicy_bag_co.paa",
+  "bag_faces": 2016,
+  "crop_px": [
+   23,
+   21,
+   126,
+   184
+  ],
+  "source": "work/kf-product-review/references/Kkokkalcorn/four_flavors.png"
+ },
+ {
+  "model": "kkokkalcornwaxycorn",
+  "sha256": "496b34e421e5077ac2d1606459c7a07f3d939a02a3fcda6abc2bdea43d61d84a",
+  "texture": "KF_Pantry\\data\\r049_labels_kkokkalcornwaxycorn_bag_co.paa",
+  "bag_faces": 2016,
+  "crop_px": [
+   26,
+   21,
+   130,
+   184
+  ],
+  "source": "work/kf-product-review/references/Kkokkalcorn/four_flavors.png"
+ }
+]

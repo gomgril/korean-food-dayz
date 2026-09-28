@@ -413,6 +413,10 @@ modded class ModItemRegisterCallbacks
         pType.AddItemInHandsProfileIK("KF_PantrySnack","dz/anims/workspaces/player/player_main/props/player_main_1h_food_box.asi",pBehavior,"dz/anims/anm/player/ik/gear/rice.anm");
         pType.AddItemInHandsProfileIK("KF_PantryMeal","dz/anims/workspaces/player/player_main/player_main_1h.asi",pBehavior,"dz/anims/anm/player/ik/gear/food_can_opened.anm");
         pType.AddItemInHandsProfileIK("KF_PantryHandSnack","dz/anims/workspaces/player/player_main/player_main_1h.asi",pBehavior,"dz/anims/anm/player/ik/gear/zagorky.anm");
+        // 0.4.9: upright opened stick/bar snacks - Zagorky grip with the item turned 180 deg about its X axis (bite end to the mouth)
+        array<string> kfpInvertedSnacks = {"KF_PeperoOpen","KF_PeperoAlmondOpen","KF_PeperoChocoCookieOpen","KF_PeperoChocoFilledOpen","KF_PeperoCrunkyOpen","KF_PeperoWhiteCookieOpen","KF_YanggaengOpen","KF_ChestnutYanggaengOpen"};
+        foreach (string kfpSnack: kfpInvertedSnacks)
+            pType.AddItemInHandsProfileIK(kfpSnack,"dz/anims/workspaces/player/player_main/player_main_1h.asi",pBehavior,"KF_Pantry/anims/kf_snack_inverted.anm");
         pType.AddItemInHandsProfileIK("KF_PantryBottle","dz/anims/workspaces/player/player_main/player_main_1h.asi",pBehavior,"dz/anims/anm/player/ik/gear/water_bottle.anm");
         pType.AddItemInHandsProfileIK("KF_PantryCarton","dz/anims/workspaces/player/player_main/player_main_1h.asi",pBehavior,"dz/anims/anm/player/ik/gear/water_bottle.anm");
         pType.AddItemInHandsProfileIK("KF_PantryDrink","dz/anims/workspaces/player/player_main/props/player_main_1h_sodacan.asi",pBehavior,"dz/anims/anm/player/ik/gear/soda_can.anm");

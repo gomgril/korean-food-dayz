@@ -1,0 +1,392 @@
+{
+ "criterion": "visual-LOD faces with an old group-5 texture whose uvs lie inside the layout rect (+-0.001) and whose side matches -> new texture; uvs/geometry untouched",
+ "mapping": [
+  {
+   "key": "ansung_back",
+   "old": "KF_Food\\data\\r044_ref_06_co.paa",
+   "new": "KF_Food\\data\\r049_photos_ansung_back_co.paa",
+   "rect": [
+    0.0883,
+    0.18,
+    0.9035,
+    0.82
+   ],
+   "side": "all"
+  },
+  {
+   "key": "chapagetti_back",
+   "old": "KF_Food\\data\\r044_ref_08_co.paa",
+   "new": "KF_Food\\data\\r049_photos_chapagetti_back_co.paa",
+   "rect": [
+    0.1787,
+    0.22,
+    0.8127,
+    0.81
+   ],
+   "side": "all"
+  },
+  {
+   "key": "jin_mild_back",
+   "old": "KF_Food\\data\\r044_ref_03_co.paa",
+   "new": "KF_Food\\data\\r049_photos_jin_mild_back_co.paa",
+   "rect": [
+    0.5191,
+    0.18,
+    0.9519,
+    0.84
+   ],
+   "side": "all"
+  },
+  {
+   "key": "neoguri_back",
+   "old": "KF_Pantry\\data\\r043_neoguri_back_4bb7027_co.paa",
+   "new": "KF_Pantry\\data\\r049_photos_neoguri_back_co.paa",
+   "rect": [
+    0.07,
+    0.05,
+    0.93,
+    0.95
+   ],
+   "side": "all"
+  },
+  {
+   "key": "odongtong_back",
+   "old": "KF_Pantry\\data\\r043_odongtong_back_53d58ef_co.paa",
+   "new": "KF_Pantry\\data\\r049_photos_odongtong_back_co.paa",
+   "rect": [
+    0.13,
+    0.0514,
+    0.8423,
+    0.9139
+   ],
+   "side": "all"
+  },
+  {
+   "key": "paldobibim_back",
+   "old": "KF_Pantry\\data\\r043_paldobibim_back_be2348e_co.paa",
+   "new": "KF_Pantry\\data\\r049_photos_paldobibim_back_co.paa",
+   "rect": [
+    0.08,
+    0.06,
+    0.92,
+    0.94
+   ],
+   "side": "all"
+  },
+  {
+   "key": "homerunball_back",
+   "old": "KF_Pantry\\data\\r043_homerunball_back_dd7122b_co.paa",
+   "new": "KF_Pantry\\data\\r049_photos_homerunball_back_co.paa",
+   "rect": [
+    0.045,
+    0.204,
+    0.959,
+    0.915
+   ],
+   "side": "all"
+  },
+  {
+   "key": "homerunballsaltmilk_back",
+   "old": "KF_Pantry\\data\\r043_homerunballsaltmilk_back_84a2527_co.paa",
+   "new": "KF_Pantry\\data\\r049_photos_homerunballsaltmilk_back_co.paa",
+   "rect": [
+    0.032,
+    0.068,
+    0.981,
+    0.9
+   ],
+   "side": "all"
+  },
+  {
+   "key": "kkokkalcornroasted_back",
+   "old": "KF_Pantry\\data\\r043_kkokkalcorn_roasted_back_black_91a45c7_co.paa",
+   "new": "KF_Pantry\\data\\r049_photos_kkokkalcornroasted_back_co.paa",
+   "rect": [
+    0.16,
+    0.052,
+    0.867,
+    0.954
+   ],
+   "side": "all"
+  },
+  {
+   "key": "ojingeopeanut_back",
+   "old": "KF_Pantry\\data\\r043_ojingeopeanut_back_8221d6d_co.paa",
+   "new": "KF_Pantry\\data\\r049_photos_ojingeopeanut_back_co.paa",
+   "rect": [
+    0.104,
+    0.129,
+    0.9,
+    0.9
+   ],
+   "side": "all"
+  },
+  {
+   "key": "samgyetang_back",
+   "old": "KF_Pantry\\data\\r043_samgyetang_back_66c8282_co.paa",
+   "new": "KF_Pantry\\data\\r049_photos_samgyetang_back_co.paa",
+   "rect": [
+    0.2684,
+    0.05,
+    0.7716,
+    0.945
+   ],
+   "side": "all"
+  },
+  {
+   "key": "yukgaejangsoup_back",
+   "old": "KF_Pantry\\data\\r043_yukgaejangsoup_back_3746ad7_co.paa",
+   "new": "KF_Pantry\\data\\r049_photos_yukgaejangsoup_back_co.paa",
+   "rect": [
+    0.0394,
+    0.01,
+    0.9546,
+    0.976
+   ],
+   "side": "all"
+  },
+  {
+   "key": "curry_front",
+   "old": "KF_Pantry\\data\\r043_curry_pouch_71c31e0_co.paa",
+   "new": "KF_Pantry\\data\\r049_photos_curry_pouch_front_co.paa",
+   "rect": [
+    0.303,
+    0.15,
+    0.739,
+    0.877
+   ],
+   "side": "front"
+  },
+  {
+   "key": "curry_back",
+   "old": "KF_Pantry\\data\\r043_curry_pouch_71c31e0_co.paa",
+   "new": "KF_Pantry\\data\\r049_photos_curry_pouch_back_co.paa",
+   "rect": [
+    0.303,
+    0.15,
+    0.739,
+    0.877
+   ],
+   "side": "back"
+  },
+  {
+   "key": "homerunball_front",
+   "old": "KF_Pantry\\data\\r043_homerunball_front_design_1_95c2037_co.paa",
+   "new": "KF_Pantry\\data\\r049_photos_homerunball_front_co.paa",
+   "rect": [
+    0.093,
+    0.28,
+    0.913,
+    0.72
+   ],
+   "side": "all"
+  },
+  {
+   "key": "homerunballclassic_front",
+   "old": "KF_Pantry\\data\\r043_homerunball_front_design_2_657fab1_co.paa",
+   "new": "KF_Pantry\\data\\r049_photos_homerunballclassic_front_co.paa",
+   "rect": [
+    0.036,
+    0.189,
+    0.943,
+    0.787
+   ],
+   "side": "all"
+  },
+  {
+   "key": "kkokkalcornroasted_front",
+   "old": "KF_Pantry\\data\\r043_kkokkalcorn_four_flavors_beff63d_co.paa",
+   "new": "KF_Pantry\\data\\r049_photos_kkokkalcornroasted_front_co.paa",
+   "rect": [
+    0.292,
+    0.311,
+    0.486,
+    0.792
+   ],
+   "side": "all"
+  },
+  {
+   "key": "ojingeopeanut_front",
+   "old": "KF_Pantry\\data\\r043_ojingeopeanut_front_0f32656_co.paa",
+   "new": "KF_Pantry\\data\\r049_photos_ojingeopeanut_front_co.paa",
+   "rect": [
+    0.17,
+    0.063,
+    0.82,
+    0.959
+   ],
+   "side": "all"
+  },
+  {
+   "key": "ansung_front",
+   "old": "KF_Food\\data\\r044_ref_05_co.paa",
+   "new": "KF_Food\\data\\r049_photos_ansung_front_co.paa",
+   "rect": [
+    0.0814,
+    0.17,
+    0.911,
+    0.84
+   ],
+   "side": "all"
+  },
+  {
+   "key": "chapagetti_front",
+   "old": "KF_Food\\data\\r044_ref_07_co.paa",
+   "new": "KF_Food\\data\\r049_photos_chapagetti_front_co.paa",
+   "rect": [
+    0.137,
+    0.21,
+    0.8409,
+    0.82
+   ],
+   "side": "all"
+  },
+  {
+   "key": "combatbibimbap",
+   "old": "KF_Pantry\\data\\batch02_13_CombatBibimbap_front_co.paa",
+   "new": "KF_Pantry\\data\\r049_photos_combatbibimbap_co.paa",
+   "rect": [
+    0.1,
+    0.06,
+    0.9,
+    0.94
+   ],
+   "side": "all"
+  }
+ ],
+ "repointed": [
+  {
+   "model": "KF_Pantry/kkokkalcornroasted_open",
+   "faces_repointed": {
+    "r049_photos_kkokkalcornroasted_back_co.paa": 1008,
+    "r049_photos_kkokkalcornroasted_front_co.paa": 1008
+   },
+   "sha256_before": "0bad7dbdf8c3968487bef020cbf8be3cf09b5dfdc18eee9ee18dcdcc068a506b",
+   "sha256_after": "3fa5f62733861b48533ba7f4e40e4936d22b44a18f413c9bedf31c32044064ae",
+   "backup": "tools/models/originals/KF_Pantry/models/kkokkalcornroasted_open.p3d",
+   "note": "re-pointed by an earlier run"
+  },
+  {
+   "model": "KF_Pantry/odongtong_open",
+   "faces_repointed": {
+    "r049_photos_odongtong_back_co.paa": 1032
+   },
+   "sha256_before": "344fb2a46c4f913cf283eeafd16950a2bd0d4a16c86b7c264ae21867bfbcab4b",
+   "sha256_after": "7d7cd3a6e2629f49982a909f0bf36e52256111d74346f24ab13cc10ede67bb6b",
+   "backup": "tools/models/originals/KF_Pantry/models/odongtong_open.p3d",
+   "note": "re-pointed by an earlier run"
+  },
+  {
+   "model": "KF_Pantry/ojingeopeanut_open",
+   "faces_repointed": {
+    "r049_photos_ojingeopeanut_back_co.paa": 1008,
+    "r049_photos_ojingeopeanut_front_co.paa": 1008
+   },
+   "sha256_before": "56d1a99c6e57c78ddd1f64bcdbb353f642a0ef0a602b2a0fb14fcdb8df0374d5",
+   "sha256_after": "82ce8c1c291286da418a833a3164630e5f872bdcc52d1e5325a114ca53b5332b",
+   "backup": "tools/models/originals/KF_Pantry/models/ojingeopeanut_open.p3d",
+   "note": "re-pointed by an earlier run"
+  },
+  {
+   "model": "KF_Pantry/samgyetang_open",
+   "faces_repointed": {
+    "r049_photos_samgyetang_back_co.paa": 360
+   },
+   "sha256_before": "e0d84f7a489f7dc1242e32a148057a9ef1d4352ecf72de8cc01688f755ed5d3f",
+   "sha256_after": "9c92d06749e31a442d8d412c5f6d215b6f69fccce9c32501f30aacff9c234135",
+   "backup": "tools/models/originals/KF_Pantry/models/samgyetang_open.p3d",
+   "note": "re-pointed by an earlier run"
+  },
+  {
+   "model": "KF_Pantry/yukgaejangsoup_open",
+   "faces_repointed": {
+    "r049_photos_yukgaejangsoup_back_co.paa": 362
+   },
+   "sha256_before": "1b5193f7f7dfa7d4e53a689ac5ca436afadc5b267dec0c1510071c4a00be4999",
+   "sha256_after": "faf895fc2949cc005f732041312aab1d66c162289c6ecfa22cdeb30a4a27d3bd",
+   "backup": "tools/models/originals/KF_Pantry/models/yukgaejangsoup_open.p3d",
+   "note": "re-pointed by an earlier run"
+  },
+  {
+   "model": "KF_Food/ansung_packet_ready",
+   "faces_repointed": {
+    "r049_photos_ansung_back_co.paa": 1128,
+    "r049_photos_ansung_front_co.paa": 1608
+   },
+   "sha256_before": "a7ade32373a519e423c5ebcd6e61d68cce71b6b59fcd6aa3546e648514c1f68d",
+   "sha256_after": "1160314f6802f0ffab19848b18b3eaa614fbdc560db2867435e163900d2305c4",
+   "backup": "tools/models/originals/KF_Food/models/ansung_packet_ready.p3d",
+   "note": "re-pointed by an earlier run"
+  },
+  {
+   "model": "KF_Food/chapagetti_packet_ready",
+   "faces_repointed": {
+    "r049_photos_chapagetti_back_co.paa": 1128,
+    "r049_photos_chapagetti_front_co.paa": 1608
+   },
+   "sha256_before": "48522f626f29837ce2068e372b1179f9cc8e28fdba2ccdf3e421c214f6f5d2fa",
+   "sha256_after": "4e2317c4e2bd25aa8cbb5809df29d3be07461294afb160c9ee107a497befce1f",
+   "backup": "tools/models/originals/KF_Food/models/chapagetti_packet_ready.p3d",
+   "note": "re-pointed by an earlier run"
+  }
+ ],
+ "rebaked_wraps": [
+  {
+   "model": "KF_Pantry/neoguri_open",
+   "back_faces_repointed_before_bake": {
+    "r049_photos_neoguri_back_co.paa": 1008
+   },
+   "left_on_old_texture": {},
+   "wrap_texture": "KF_Pantry\\data\\r049_labels_neoguri_open_wrap_co.paa",
+   "wrap_texture_rewritten": false,
+   "label_faces": 2016,
+   "sha256_before": "658c1d2a498400e0910744ba2f70346663713988c93fa51f5367d056e142201e",
+   "sha256_after": "658c1d2a498400e0910744ba2f70346663713988c93fa51f5367d056e142201e",
+   "model_changed": false
+  },
+  {
+   "model": "KF_Pantry/paldobibim_open",
+   "back_faces_repointed_before_bake": {
+    "r049_photos_paldobibim_back_co.paa": 1008
+   },
+   "left_on_old_texture": {},
+   "wrap_texture": "KF_Pantry\\data\\r049_labels_paldobibim_open_wrap_co.paa",
+   "wrap_texture_rewritten": false,
+   "label_faces": 2016,
+   "sha256_before": "c0b6d9e217f708a80bb47afcbc7b6bd3430f047bf3435cfd6b262736e57d0bbc",
+   "sha256_after": "c0b6d9e217f708a80bb47afcbc7b6bd3430f047bf3435cfd6b262736e57d0bbc",
+   "model_changed": false
+  }
+ ],
+ "left_alone": [
+  {
+   "model": "KF_Pantry/kkokkalcorn",
+   "faces_left_on_old_texture": {
+    "r043_kkokkalcorn_four_flavors_beff63d_co.paa": 1008
+   },
+   "reason": "uvs outside the layout rect (not a drop-in)"
+  },
+  {
+   "model": "KF_Pantry/kkokkalcorn_open",
+   "faces_left_on_old_texture": {
+    "r043_kkokkalcorn_four_flavors_beff63d_co.paa": 1008
+   },
+   "reason": "uvs outside the layout rect (not a drop-in)"
+  },
+  {
+   "model": "KF_Pantry/kkokkalcornsweetspicy_open",
+   "faces_left_on_old_texture": {
+    "r043_kkokkalcorn_four_flavors_beff63d_co.paa": 2016
+   },
+   "reason": "uvs outside the layout rect (not a drop-in)"
+  },
+  {
+   "model": "KF_Pantry/kkokkalcornwaxycorn_open",
+   "faces_left_on_old_texture": {
+    "r043_kkokkalcorn_four_flavors_beff63d_co.paa": 2016
+   },
+   "reason": "uvs outside the layout rect (not a drop-in)"
+  }
+ ],
+ "dry_run": false
+}

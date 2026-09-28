@@ -1,0 +1,512 @@
+[
+ {
+  "model": "KF_Pantry/models/rationanchovy.p3d",
+  "original_sha256": "3194d7d8eda001040fc3357aad456fca8e757c20acf2b26fc9c22ca4cc114462",
+  "fixed_sha256": "dd8ffb30f9f836f4ef655aecacfb5f6214797d60f2e413f4248a16b6150ce560",
+  "lod0_bounds": [
+   [
+    -0.06,
+    0.06
+   ],
+   [
+    0.0,
+    0.14
+   ],
+   [
+    -0.029,
+    0.029
+   ]
+  ],
+  "tile_u0": 0.6667,
+  "tile_v0": 0.5,
+  "rows": [
+   0.0,
+   0.004,
+   0.018,
+   0.0504,
+   0.0924,
+   0.131,
+   0.14
+  ],
+  "lod1": {
+   "front_back": 400,
+   "sides": 176,
+   "bottom": 96,
+   "top_seal": 96,
+   "u_fit_residual": 0.0207
+  },
+  "lod3": {
+   "front_back": 200,
+   "sides": 88,
+   "bottom": 48,
+   "top_seal": 48,
+   "u_fit_residual": 0.0209
+  },
+  "lod6": {
+   "front_back": 100,
+   "sides": 44,
+   "bottom": 24,
+   "top_seal": 24,
+   "u_fit_residual": 0.0209
+  }
+ },
+ {
+  "model": "KF_Pantry/models/rationanchovy_open.p3d",
+  "original_sha256": "b8d53a6254a9023bac04205b9f9fabb630e3c7bc28ef4fdde89c3762da640deb",
+  "fixed_sha256": "65ede4c0b0966266f693d616e69688703f42281e4e0e303ab88a5fcc6f750f0d",
+  "lod0_bounds": [
+   [
+    -0.06,
+    0.06
+   ],
+   [
+    0.0,
+    0.1092
+   ],
+   [
+    -0.029,
+    0.029
+   ]
+  ],
+  "tile_u0": 0.6667,
+  "tile_v0": 0.5,
+  "rows": [
+   0.0,
+   0.004,
+   0.018,
+   0.0393,
+   0.0721,
+   0.1002,
+   0.1092
+  ],
+  "lod1": {
+   "front_back": 376,
+   "sides": 200,
+   "bottom": 96,
+   "top_seal": 0,
+   "u_fit_residual": 0.0212
+  },
+  "lod3": {
+   "front_back": 192,
+   "sides": 96,
+   "bottom": 48,
+   "top_seal": 0,
+   "u_fit_residual": 0.0219
+  },
+  "lod6": {
+   "front_back": 96,
+   "sides": 48,
+   "bottom": 24,
+   "top_seal": 0,
+   "u_fit_residual": 0.0219
+  }
+ },
+ {
+  "model": "KF_Pantry/models/rationkimchirice.p3d",
+  "original_sha256": "6ec20c0b9a6769f1835fd9a11b846136b567c4352c7c1afbeef031abfcf0a1f9",
+  "fixed_sha256": "79b4454add0193f7efa332c40ade95f3ae816821cfb8177b50289a2bbd7f491f",
+  "lod0_bounds": [
+   [
+    -0.0725,
+    0.0725
+   ],
+   [
+    0.0,
+    0.17
+   ],
+   [
+    -0.029,
+    0.029
+   ]
+  ],
+  "tile_u0": 0.3333,
+  "tile_v0": 0.0,
+  "rows": [
+   0.0,
+   0.004,
+   0.018,
+   0.0612,
+   0.1122,
+   0.161,
+   0.17
+  ],
+  "lod1": {
+   "front_back": 420,
+   "sides": 156,
+   "bottom": 96,
+   "top_seal": 96,
+   "u_fit_residual": 0.0183
+  },
+  "lod3": {
+   "front_back": 208,
+   "sides": 80,
+   "bottom": 48,
+   "top_seal": 48,
+   "u_fit_residual": 0.0182
+  },
+  "lod6": {
+   "front_back": 100,
+   "sides": 44,
+   "bottom": 24,
+   "top_seal": 24,
+   "u_fit_residual": 0.0188
+  }
+ },
+ {
+  "model": "KF_Pantry/models/rationkimchirice_open.p3d",
+  "original_sha256": "00c9da404cd0e2bd1afd5c48287237c76feb7d2bc3bec747e6ed5240dfa35539",
+  "fixed_sha256": "2daff4bd7c405d7288cbb35fd904a7753994d01084a485710c1f6ef800ee5cf4",
+  "lod0_bounds": [
+   [
+    -0.0725,
+    0.0725
+   ],
+   [
+    0.0,
+    0.1326
+   ],
+   [
+    -0.029,
+    0.029
+   ]
+  ],
+  "tile_u0": 0.3333,
+  "tile_v0": 0.0,
+  "rows": [
+   0.0,
+   0.004,
+   0.018,
+   0.0477,
+   0.0875,
+   0.1236,
+   0.1326
+  ],
+  "lod1": {
+   "front_back": 400,
+   "sides": 176,
+   "bottom": 96,
+   "top_seal": 0,
+   "u_fit_residual": 0.0212
+  },
+  "lod3": {
+   "front_back": 196,
+   "sides": 92,
+   "bottom": 48,
+   "top_seal": 0,
+   "u_fit_residual": 0.0212
+  },
+  "lod6": {
+   "front_back": 96,
+   "sides": 48,
+   "bottom": 24,
+   "top_seal": 0,
+   "u_fit_residual": 0.0219
+  }
+ },
+ {
+  "model": "KF_Pantry/models/rationmeatballs.p3d",
+  "original_sha256": "b40a14d71ef733874092e54e28f60d617f11a67626e273bb0a843ae5b2dac9b2",
+  "fixed_sha256": "2b1f47fa648f8819b536b34292d0660c4c89f2c1f22f365b250571ee10bb65d4",
+  "lod0_bounds": [
+   [
+    -0.06,
+    0.06
+   ],
+   [
+    0.0,
+    0.14
+   ],
+   [
+    -0.029,
+    0.029
+   ]
+  ],
+  "tile_u0": 0.0,
+  "tile_v0": 0.5,
+  "rows": [
+   0.0,
+   0.004,
+   0.018,
+   0.0504,
+   0.0924,
+   0.131,
+   0.14
+  ],
+  "lod1": {
+   "front_back": 400,
+   "sides": 176,
+   "bottom": 96,
+   "top_seal": 96,
+   "u_fit_residual": 0.0207
+  },
+  "lod3": {
+   "front_back": 200,
+   "sides": 88,
+   "bottom": 48,
+   "top_seal": 48,
+   "u_fit_residual": 0.0209
+  },
+  "lod6": {
+   "front_back": 100,
+   "sides": 44,
+   "bottom": 24,
+   "top_seal": 24,
+   "u_fit_residual": 0.0209
+  }
+ },
+ {
+  "model": "KF_Pantry/models/rationmeatballs_open.p3d",
+  "original_sha256": "fe48389700326197bd61182f9ec293b0d98c03d089fa61c91759c36d55684d0c",
+  "fixed_sha256": "e3c3bff2934466b8dffe54dc525d655706a2d02c81e85c2891900dfcaede74fb",
+  "lod0_bounds": [
+   [
+    -0.06,
+    0.06
+   ],
+   [
+    0.0,
+    0.1092
+   ],
+   [
+    -0.029,
+    0.029
+   ]
+  ],
+  "tile_u0": 0.0,
+  "tile_v0": 0.5,
+  "rows": [
+   0.0,
+   0.004,
+   0.018,
+   0.0393,
+   0.0721,
+   0.1002,
+   0.1092
+  ],
+  "lod1": {
+   "front_back": 376,
+   "sides": 200,
+   "bottom": 96,
+   "top_seal": 0,
+   "u_fit_residual": 0.0212
+  },
+  "lod3": {
+   "front_back": 192,
+   "sides": 96,
+   "bottom": 48,
+   "top_seal": 0,
+   "u_fit_residual": 0.0219
+  },
+  "lod6": {
+   "front_back": 96,
+   "sides": 48,
+   "bottom": 24,
+   "top_seal": 0,
+   "u_fit_residual": 0.0219
+  }
+ },
+ {
+  "model": "KF_Pantry/models/rationtofu.p3d",
+  "original_sha256": "834d918190128771d8b30059ef3cc5cd3a63e805d96b23ae038c8d5666b9f65e",
+  "fixed_sha256": "bb5737890c4da556d5572f13c9086b312b5e2c79837a50bf7d764e840c44293c",
+  "lod0_bounds": [
+   [
+    -0.06,
+    0.06
+   ],
+   [
+    0.0,
+    0.14
+   ],
+   [
+    -0.029,
+    0.029
+   ]
+  ],
+  "tile_u0": 0.3333,
+  "tile_v0": 0.5,
+  "rows": [
+   0.0,
+   0.004,
+   0.018,
+   0.0504,
+   0.0924,
+   0.131,
+   0.14
+  ],
+  "lod1": {
+   "front_back": 400,
+   "sides": 176,
+   "bottom": 96,
+   "top_seal": 96,
+   "u_fit_residual": 0.0207
+  },
+  "lod3": {
+   "front_back": 200,
+   "sides": 88,
+   "bottom": 48,
+   "top_seal": 48,
+   "u_fit_residual": 0.0209
+  },
+  "lod6": {
+   "front_back": 100,
+   "sides": 44,
+   "bottom": 24,
+   "top_seal": 24,
+   "u_fit_residual": 0.0209
+  }
+ },
+ {
+  "model": "KF_Pantry/models/rationtofu_open.p3d",
+  "original_sha256": "78045494d18779cb9c462a7185579aa43bd0735afdd31f73b7bac503a63447cb",
+  "fixed_sha256": "281821bb9ebc00a3938ccbb9469ca58e835efc189eba4b3f2e869ca6febb733d",
+  "lod0_bounds": [
+   [
+    -0.06,
+    0.06
+   ],
+   [
+    0.0,
+    0.1092
+   ],
+   [
+    -0.029,
+    0.029
+   ]
+  ],
+  "tile_u0": 0.3333,
+  "tile_v0": 0.5,
+  "rows": [
+   0.0,
+   0.004,
+   0.018,
+   0.0393,
+   0.0721,
+   0.1002,
+   0.1092
+  ],
+  "lod1": {
+   "front_back": 376,
+   "sides": 200,
+   "bottom": 96,
+   "top_seal": 0,
+   "u_fit_residual": 0.0212
+  },
+  "lod3": {
+   "front_back": 192,
+   "sides": 96,
+   "bottom": 48,
+   "top_seal": 0,
+   "u_fit_residual": 0.0219
+  },
+  "lod6": {
+   "front_back": 96,
+   "sides": 48,
+   "bottom": 24,
+   "top_seal": 0,
+   "u_fit_residual": 0.0219
+  }
+ },
+ {
+  "model": "KF_Pantry/models/rationwhiterice.p3d",
+  "original_sha256": "e6a95f1ea757dd6c02f5bdcda98e581341283d534e5eec895991b9636afddce7",
+  "fixed_sha256": "7d8cf2e53e8329325a2e4aed88df7ec80135e093241b49461f260cbe3d090cf2",
+  "lod0_bounds": [
+   [
+    -0.0725,
+    0.0725
+   ],
+   [
+    0.0,
+    0.17
+   ],
+   [
+    -0.029,
+    0.029
+   ]
+  ],
+  "tile_u0": 0.6667,
+  "tile_v0": 0.0,
+  "rows": [
+   0.0,
+   0.004,
+   0.018,
+   0.0612,
+   0.1122,
+   0.161,
+   0.17
+  ],
+  "lod1": {
+   "front_back": 420,
+   "sides": 156,
+   "bottom": 96,
+   "top_seal": 96,
+   "u_fit_residual": 0.0183
+  },
+  "lod3": {
+   "front_back": 208,
+   "sides": 80,
+   "bottom": 48,
+   "top_seal": 48,
+   "u_fit_residual": 0.0182
+  },
+  "lod6": {
+   "front_back": 100,
+   "sides": 44,
+   "bottom": 24,
+   "top_seal": 24,
+   "u_fit_residual": 0.0188
+  }
+ },
+ {
+  "model": "KF_Pantry/models/rationwhiterice_open.p3d",
+  "original_sha256": "12a2f2909a07c79166a4762d756bdfed172a9064fde51a65008a52526bfd4429",
+  "fixed_sha256": "31e8ddec75d17031dedf6b8b971c6ac16a39eb1fed2739c87a7b75eeb1d2f025",
+  "lod0_bounds": [
+   [
+    -0.0725,
+    0.0725
+   ],
+   [
+    0.0,
+    0.1326
+   ],
+   [
+    -0.029,
+    0.029
+   ]
+  ],
+  "tile_u0": 0.6667,
+  "tile_v0": 0.0,
+  "rows": [
+   0.0,
+   0.004,
+   0.018,
+   0.0477,
+   0.0875,
+   0.1236,
+   0.1326
+  ],
+  "lod1": {
+   "front_back": 400,
+   "sides": 176,
+   "bottom": 96,
+   "top_seal": 0,
+   "u_fit_residual": 0.0212
+  },
+  "lod3": {
+   "front_back": 196,
+   "sides": 92,
+   "bottom": 48,
+   "top_seal": 0,
+   "u_fit_residual": 0.0212
+  },
+  "lod6": {
+   "front_back": 96,
+   "sides": 48,
+   "bottom": 24,
+   "top_seal": 0,
+   "u_fit_residual": 0.0219
+  }
+ }
+]

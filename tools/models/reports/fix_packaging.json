@@ -1,0 +1,1018 @@
+[
+ {
+  "model": "barleytea",
+  "original_sha256": "4dc4fa7849b2fed171629440fd08039f9953e34f0b2c51569edc0a30a658a900",
+  "kind": "box",
+  "sides": [
+   "back",
+   "bottom",
+   "left",
+   "right",
+   "top"
+  ],
+  "rects": {
+   "back": [
+    12,
+    12,
+    629,
+    358
+   ],
+   "left": [
+    653,
+    12,
+    171,
+    358
+   ],
+   "right": [
+    836,
+    12,
+    171,
+    358
+   ],
+   "top": [
+    12,
+    382,
+    629,
+    171
+   ],
+   "bottom": [
+    12,
+    565,
+    629,
+    171
+   ]
+  },
+  "faces": 383,
+  "dims_mm": [
+   158.0,
+   90.0,
+   43.0
+  ],
+  "texture": "KF_Pantry\\data\\r049_pack_barleytea_co.paa",
+  "png": "tools\\models\\textures\\packaging\\r049_pack_barleytea_co.png",
+  "paa": "source\\KF_Pantry\\data\\r049_pack_barleytea_co.paa",
+  "fixed_sha256": "32b84105ea60bfd3034834188e21e4f9b0daa745135bca01bd442f3706661e93",
+  "bounds_unchanged": true
+ },
+ {
+  "model": "corntea",
+  "original_sha256": "17bdcd1bb2a297355850cda28045746289cd1d2a9deb060fab300453aab34c25",
+  "kind": "box",
+  "sides": [
+   "back",
+   "bottom",
+   "left",
+   "right",
+   "top"
+  ],
+  "rects": {
+   "back": [
+    12,
+    12,
+    629,
+    358
+   ],
+   "left": [
+    653,
+    12,
+    171,
+    358
+   ],
+   "right": [
+    836,
+    12,
+    171,
+    358
+   ],
+   "top": [
+    12,
+    382,
+    629,
+    171
+   ],
+   "bottom": [
+    12,
+    565,
+    629,
+    171
+   ]
+  },
+  "faces": 383,
+  "dims_mm": [
+   158.0,
+   90.0,
+   43.0
+  ],
+  "texture": "KF_Pantry\\data\\r049_pack_corntea_co.paa",
+  "png": "tools\\models\\textures\\packaging\\r049_pack_corntea_co.png",
+  "paa": "source\\KF_Pantry\\data\\r049_pack_corntea_co.paa",
+  "fixed_sha256": "b626f4e3a18ba2b8b7538eecb3c959164c2ba38c67421fe2c18d1e0c56b2f9cb",
+  "bounds_unchanged": true
+ },
+ {
+  "model": "solomonsealtea",
+  "original_sha256": "060254aee2b3c6e9dffbe175e0473e4f3d1be7933f33177abb8e2af5c65584fc",
+  "kind": "box",
+  "sides": [
+   "back",
+   "bottom",
+   "left",
+   "right",
+   "top"
+  ],
+  "rects": {
+   "back": [
+    12,
+    12,
+    629,
+    358
+   ],
+   "left": [
+    653,
+    12,
+    171,
+    358
+   ],
+   "right": [
+    836,
+    12,
+    171,
+    358
+   ],
+   "top": [
+    12,
+    382,
+    629,
+    171
+   ],
+   "bottom": [
+    12,
+    565,
+    629,
+    171
+   ]
+  },
+  "faces": 383,
+  "dims_mm": [
+   158.0,
+   90.0,
+   43.0
+  ],
+  "texture": "KF_Pantry\\data\\r049_pack_solomonsealtea_co.paa",
+  "png": "tools\\models\\textures\\packaging\\r049_pack_solomonsealtea_co.png",
+  "paa": "source\\KF_Pantry\\data\\r049_pack_solomonsealtea_co.paa",
+  "fixed_sha256": "72255cd26b55fc8ea888b7fed04f6ee84f3dbeff52f64d074bdb188804374992",
+  "bounds_unchanged": true
+ },
+ {
+  "model": "cassiaseedtea",
+  "original_sha256": "703930d5818d0022d11b44a9a1cd6381d6f7e7b8686cb578f678e1dfa1221855",
+  "kind": "box",
+  "sides": [
+   "back",
+   "bottom",
+   "left",
+   "right",
+   "top"
+  ],
+  "rects": {
+   "back": [
+    12,
+    12,
+    629,
+    358
+   ],
+   "left": [
+    653,
+    12,
+    171,
+    358
+   ],
+   "right": [
+    836,
+    12,
+    171,
+    358
+   ],
+   "top": [
+    12,
+    382,
+    629,
+    171
+   ],
+   "bottom": [
+    12,
+    565,
+    629,
+    171
+   ]
+  },
+  "faces": 383,
+  "dims_mm": [
+   158.0,
+   90.0,
+   43.0
+  ],
+  "texture": "KF_Pantry\\data\\r049_pack_cassiaseedtea_co.paa",
+  "png": "tools\\models\\textures\\packaging\\r049_pack_cassiaseedtea_co.png",
+  "paa": "source\\KF_Pantry\\data\\r049_pack_cassiaseedtea_co.paa",
+  "fixed_sha256": "3659ab8a5ecb1c4ca5428a0dfbe1676c5dbe08a553a0293afadf614e55665dd9",
+  "bounds_unchanged": true
+ },
+ {
+  "model": "coffeemix",
+  "original_sha256": "18f58b7b32cab71aa778b787fb86547dc18d9c2d11581be2cbb16e470f26355b",
+  "kind": "box",
+  "sides": [
+   "back",
+   "bottom",
+   "left",
+   "right",
+   "top"
+  ],
+  "rects": {
+   "back": [
+    12,
+    12,
+    605,
+    363
+   ],
+   "left": [
+    629,
+    12,
+    183,
+    363
+   ],
+   "right": [
+    824,
+    12,
+    183,
+    363
+   ],
+   "top": [
+    12,
+    387,
+    605,
+    183
+   ],
+   "bottom": [
+    12,
+    582,
+    605,
+    183
+   ]
+  },
+  "faces": 380,
+  "dims_mm": [
+   155.0,
+   93.0,
+   47.0
+  ],
+  "texture": "KF_Pantry\\data\\r049_pack_coffeemix_co.paa",
+  "png": "tools\\models\\textures\\packaging\\r049_pack_coffeemix_co.png",
+  "paa": "source\\KF_Pantry\\data\\r049_pack_coffeemix_co.paa",
+  "fixed_sha256": "c995182a9ba843c36158d29b88b75dc6958c0136ed3832522855d563b13667fc",
+  "bounds_unchanged": true
+ },
+ {
+  "model": "whitegoldcoffee",
+  "original_sha256": "4cc1fafca2eda503983b0d3233f4e1fe7c1814b129b6e103c4c1a823e14d65ac",
+  "kind": "box",
+  "sides": [
+   "back",
+   "bottom",
+   "left",
+   "right",
+   "top"
+  ],
+  "rects": {
+   "back": [
+    12,
+    12,
+    605,
+    363
+   ],
+   "left": [
+    629,
+    12,
+    183,
+    363
+   ],
+   "right": [
+    824,
+    12,
+    183,
+    363
+   ],
+   "top": [
+    12,
+    387,
+    605,
+    183
+   ],
+   "bottom": [
+    12,
+    582,
+    605,
+    183
+   ]
+  },
+  "faces": 380,
+  "dims_mm": [
+   155.0,
+   93.0,
+   47.0
+  ],
+  "texture": "KF_Pantry\\data\\r049_pack_whitegoldcoffee_co.paa",
+  "png": "tools\\models\\textures\\packaging\\r049_pack_whitegoldcoffee_co.png",
+  "paa": "source\\KF_Pantry\\data\\r049_pack_whitegoldcoffee_co.paa",
+  "fixed_sha256": "1b795188a16b0fc3bfa74e4b3058e6c08d6e88e803a36f4d35b18aba6f37e9e2",
+  "bounds_unchanged": true
+ },
+ {
+  "model": "pepero",
+  "original_sha256": "4de6baed23618bf17fd201280fe18e5ab8cff2eed2cbf38fa48207500a07e114",
+  "kind": "box",
+  "sides": [
+   "back",
+   "bottom",
+   "left",
+   "right",
+   "top"
+  ],
+  "rects": {
+   "back": [
+    12,
+    12,
+    416,
+    859
+   ],
+   "left": [
+    440,
+    12,
+    124,
+    859
+   ],
+   "right": [
+    576,
+    12,
+    124,
+    859
+   ],
+   "top": [
+    12,
+    883,
+    416,
+    124
+   ],
+   "bottom": [
+    440,
+    883,
+    416,
+    124
+   ]
+  },
+  "faces": 383,
+  "dims_mm": [
+   77.0,
+   159.0,
+   23.0
+  ],
+  "texture": "KF_Pantry\\data\\r049_pack_pepero_co.paa",
+  "png": "tools\\models\\textures\\packaging\\r049_pack_pepero_co.png",
+  "paa": "source\\KF_Pantry\\data\\r049_pack_pepero_co.paa",
+  "fixed_sha256": "5b35a3a8fdd022b6b105089a856e0ac92e960e3ada536c94d648285e995bdb60",
+  "bounds_unchanged": true
+ },
+ {
+  "model": "peperoalmond",
+  "original_sha256": "b8f3bf2406aadd74fc0cee9f4e16d959d5f5ab73d6da9c71c0c84915ed1bafe6",
+  "kind": "box",
+  "sides": [
+   "back",
+   "bottom",
+   "left",
+   "right",
+   "top"
+  ],
+  "rects": {
+   "back": [
+    12,
+    12,
+    416,
+    859
+   ],
+   "left": [
+    440,
+    12,
+    124,
+    859
+   ],
+   "right": [
+    576,
+    12,
+    124,
+    859
+   ],
+   "top": [
+    12,
+    883,
+    416,
+    124
+   ],
+   "bottom": [
+    440,
+    883,
+    416,
+    124
+   ]
+  },
+  "faces": 383,
+  "dims_mm": [
+   77.0,
+   159.0,
+   23.0
+  ],
+  "texture": "KF_Pantry\\data\\r049_pack_peperoalmond_co.paa",
+  "png": "tools\\models\\textures\\packaging\\r049_pack_peperoalmond_co.png",
+  "paa": "source\\KF_Pantry\\data\\r049_pack_peperoalmond_co.paa",
+  "fixed_sha256": "e1c991184d0de2b20538409eeff066c77b55ba9bcc5c2a133c0684f24506d219",
+  "bounds_unchanged": true
+ },
+ {
+  "model": "peperochococookie",
+  "original_sha256": "de3e50b0b96d2f9b3b4b7cbe0f805064f752482963f00ec6776d66a447cc11f7",
+  "kind": "box",
+  "sides": [
+   "back",
+   "bottom",
+   "left",
+   "right",
+   "top"
+  ],
+  "rects": {
+   "back": [
+    12,
+    12,
+    416,
+    859
+   ],
+   "left": [
+    440,
+    12,
+    124,
+    859
+   ],
+   "right": [
+    576,
+    12,
+    124,
+    859
+   ],
+   "top": [
+    12,
+    883,
+    416,
+    124
+   ],
+   "bottom": [
+    440,
+    883,
+    416,
+    124
+   ]
+  },
+  "faces": 383,
+  "dims_mm": [
+   77.0,
+   159.0,
+   23.0
+  ],
+  "texture": "KF_Pantry\\data\\r049_pack_peperochococookie_co.paa",
+  "png": "tools\\models\\textures\\packaging\\r049_pack_peperochococookie_co.png",
+  "paa": "source\\KF_Pantry\\data\\r049_pack_peperochococookie_co.paa",
+  "fixed_sha256": "5179ab8c95742f44a626bcdcbfc0dad856a2ff0a1d3772c47afb5f1bb9cd458b",
+  "bounds_unchanged": true
+ },
+ {
+  "model": "peperochocofilled",
+  "original_sha256": "2ef69d0815b43a67814a06ef35193be98f96bb3a9c59781e4f20c6cd3d72b1e4",
+  "kind": "box",
+  "sides": [
+   "back",
+   "bottom",
+   "left",
+   "right",
+   "top"
+  ],
+  "rects": {
+   "back": [
+    12,
+    12,
+    416,
+    859
+   ],
+   "left": [
+    440,
+    12,
+    124,
+    859
+   ],
+   "right": [
+    576,
+    12,
+    124,
+    859
+   ],
+   "top": [
+    12,
+    883,
+    416,
+    124
+   ],
+   "bottom": [
+    440,
+    883,
+    416,
+    124
+   ]
+  },
+  "faces": 383,
+  "dims_mm": [
+   77.0,
+   159.0,
+   23.0
+  ],
+  "texture": "KF_Pantry\\data\\r049_pack_peperochocofilled_co.paa",
+  "png": "tools\\models\\textures\\packaging\\r049_pack_peperochocofilled_co.png",
+  "paa": "source\\KF_Pantry\\data\\r049_pack_peperochocofilled_co.paa",
+  "fixed_sha256": "77db5903e5ae3ec3eae5586c84bcf1fbf03d698328745735081064ede547d043",
+  "bounds_unchanged": true
+ },
+ {
+  "model": "peperocrunky",
+  "original_sha256": "ecc589e6431e121582c333e5f2c94e32f62f708c510dc4526861096c4ac86adb",
+  "kind": "box",
+  "sides": [
+   "back",
+   "bottom",
+   "left",
+   "right",
+   "top"
+  ],
+  "rects": {
+   "back": [
+    12,
+    12,
+    416,
+    859
+   ],
+   "left": [
+    440,
+    12,
+    124,
+    859
+   ],
+   "right": [
+    576,
+    12,
+    124,
+    859
+   ],
+   "top": [
+    12,
+    883,
+    416,
+    124
+   ],
+   "bottom": [
+    440,
+    883,
+    416,
+    124
+   ]
+  },
+  "faces": 383,
+  "dims_mm": [
+   77.0,
+   159.0,
+   23.0
+  ],
+  "texture": "KF_Pantry\\data\\r049_pack_peperocrunky_co.paa",
+  "png": "tools\\models\\textures\\packaging\\r049_pack_peperocrunky_co.png",
+  "paa": "source\\KF_Pantry\\data\\r049_pack_peperocrunky_co.paa",
+  "fixed_sha256": "e85abbe02c7b3efbf7de20ad1b579397f1829379344eca15f20b61795b9ac553",
+  "bounds_unchanged": true
+ },
+ {
+  "model": "peperowhitecookie",
+  "original_sha256": "5e785be3d941c64a28aa6def9be87903ef0fa2a9cfe25143d7269be4db4e6422",
+  "kind": "box",
+  "sides": [
+   "back",
+   "bottom",
+   "left",
+   "right",
+   "top"
+  ],
+  "rects": {
+   "back": [
+    12,
+    12,
+    416,
+    859
+   ],
+   "left": [
+    440,
+    12,
+    124,
+    859
+   ],
+   "right": [
+    576,
+    12,
+    124,
+    859
+   ],
+   "top": [
+    12,
+    883,
+    416,
+    124
+   ],
+   "bottom": [
+    440,
+    883,
+    416,
+    124
+   ]
+  },
+  "faces": 383,
+  "dims_mm": [
+   77.0,
+   159.0,
+   23.0
+  ],
+  "texture": "KF_Pantry\\data\\r049_pack_peperowhitecookie_co.paa",
+  "png": "tools\\models\\textures\\packaging\\r049_pack_peperowhitecookie_co.png",
+  "paa": "source\\KF_Pantry\\data\\r049_pack_peperowhitecookie_co.paa",
+  "fixed_sha256": "ba09497cee276f88fee580748f25c25c43a6f1731519596cc25567b424f851cd",
+  "bounds_unchanged": true
+ },
+ {
+  "model": "yanggaeng",
+  "original_sha256": "70affc78cdca7d59247bf6e1582a4ea76533558af2330c33ae7296b6a8cb75c6",
+  "kind": "box",
+  "sides": [
+   "bottom",
+   "left",
+   "right",
+   "top"
+  ],
+  "rects": {
+   "left": [
+    12,
+    12,
+    206,
+    259
+   ],
+   "right": [
+    230,
+    12,
+    206,
+    259
+   ],
+   "top": [
+    12,
+    283,
+    983,
+    206
+   ],
+   "bottom": [
+    12,
+    501,
+    983,
+    206
+   ]
+  },
+  "faces": 342,
+  "dims_mm": [
+   110.0,
+   29.0,
+   23.0
+  ],
+  "texture": "KF_Pantry\\data\\r049_pack_yanggaeng_co.paa",
+  "png": "tools\\models\\textures\\packaging\\r049_pack_yanggaeng_co.png",
+  "paa": "source\\KF_Pantry\\data\\r049_pack_yanggaeng_co.paa",
+  "fixed_sha256": "9b93ea0d4dce6ac4981f036eec13e9da7e45b35d5666800f5c285350cacf564b",
+  "bounds_unchanged": true
+ },
+ {
+  "model": "chestnutyanggaeng",
+  "original_sha256": "a8f634c7265b8f0fc58a71625f439e172a763969ffbb39b09f11ff5cb7dd8c99",
+  "kind": "box",
+  "sides": [
+   "bottom",
+   "left",
+   "right",
+   "top"
+  ],
+  "rects": {
+   "left": [
+    12,
+    12,
+    206,
+    259
+   ],
+   "right": [
+    230,
+    12,
+    206,
+    259
+   ],
+   "top": [
+    12,
+    283,
+    983,
+    206
+   ],
+   "bottom": [
+    12,
+    501,
+    983,
+    206
+   ]
+  },
+  "faces": 342,
+  "dims_mm": [
+   110.0,
+   29.0,
+   23.0
+  ],
+  "texture": "KF_Pantry\\data\\r049_pack_chestnutyanggaeng_co.paa",
+  "png": "tools\\models\\textures\\packaging\\r049_pack_chestnutyanggaeng_co.png",
+  "paa": "source\\KF_Pantry\\data\\r049_pack_chestnutyanggaeng_co.paa",
+  "fixed_sha256": "88de7f8aa4eb8c10e17acb476fcbc927cf89f7b7776dbda9e04f2ed5793a805a",
+  "bounds_unchanged": true
+ },
+ {
+  "model": "gosomi",
+  "original_sha256": "71f5950f2ebf70d2a7e6999d9d257d7633d1c1bdeca6af3fc0710df355242c84",
+  "kind": "box",
+  "sides": [
+   "bottom",
+   "left",
+   "right",
+   "top"
+  ],
+  "rects": {
+   "left": [
+    12,
+    12,
+    160,
+    823
+   ],
+   "right": [
+    184,
+    12,
+    160,
+    823
+   ],
+   "top": [
+    12,
+    847,
+    238,
+    160
+   ],
+   "bottom": [
+    262,
+    847,
+    238,
+    160
+   ]
+  },
+  "faces": 354,
+  "dims_mm": [
+   52.0,
+   180.0,
+   35.0
+  ],
+  "texture": "KF_Pantry\\data\\r049_pack_gosomi_co.paa",
+  "png": "tools\\models\\textures\\packaging\\r049_pack_gosomi_co.png",
+  "paa": "source\\KF_Pantry\\data\\r049_pack_gosomi_co.paa",
+  "fixed_sha256": "4e5fa43f35c51e0c18036a42fbe4e49e303e7dbbc4838719391e788af85ceb7d",
+  "bounds_unchanged": true
+ },
+ {
+  "model": "ghanachocolate",
+  "original_sha256": "05067047c398e428b2972163f28e9150ad3774da14163d63ae49490a4fc445c6",
+  "kind": "box",
+  "sides": [
+   "bottom",
+   "left",
+   "right",
+   "top"
+  ],
+  "rects": {
+   "left": [
+    12,
+    12,
+    77,
+    402
+   ],
+   "right": [
+    101,
+    12,
+    77,
+    402
+   ],
+   "top": [
+    12,
+    426,
+    983,
+    77
+   ],
+   "bottom": [
+    12,
+    515,
+    983,
+    77
+   ]
+  },
+  "faces": 328,
+  "dims_mm": [
+   115.0,
+   47.0,
+   9.0
+  ],
+  "texture": "KF_Pantry\\data\\r049_pack_ghanachocolate_co.paa",
+  "png": "tools\\models\\textures\\packaging\\r049_pack_ghanachocolate_co.png",
+  "paa": "source\\KF_Pantry\\data\\r049_pack_ghanachocolate_co.paa",
+  "fixed_sha256": "da19742d2c4241250e98359ad8c036acaa10d7d09bba60774644d349ba4ab9de",
+  "bounds_unchanged": true
+ },
+ {
+  "model": "curry",
+  "original_sha256": "5a12ce55fb8205e28be450492bd8d2c6d9367ca14aa8e5e3a6af95516290562a",
+  "kind": "box",
+  "sides": [
+   "bottom",
+   "left",
+   "right",
+   "top"
+  ],
+  "rects": {
+   "left": [
+    12,
+    12,
+    98,
+    774
+   ],
+   "right": [
+    122,
+    12,
+    98,
+    774
+   ],
+   "top": [
+    12,
+    798,
+    559,
+    98
+   ],
+   "bottom": [
+    12,
+    908,
+    559,
+    98
+   ]
+  },
+  "faces": 338,
+  "dims_mm": [
+   125.0,
+   173.0,
+   22.0
+  ],
+  "texture": "KF_Pantry\\data\\r049_pack_curry_co.paa",
+  "png": "tools\\models\\textures\\packaging\\r049_pack_curry_co.png",
+  "paa": "source\\KF_Pantry\\data\\r049_pack_curry_co.paa",
+  "fixed_sha256": "47733c68dedbd6da397cce3f57d4a389521ee74e4b1a63fb9ab02261f0cb43ed",
+  "bounds_unchanged": true
+ },
+ {
+  "model": "combatration",
+  "original_sha256": "1fb053beaa262ccb135c7e13485d6a0a70f5d2ded0a3d2f96238cf9681d971e5",
+  "kind": "box",
+  "sides": [
+   "back",
+   "bottom",
+   "left",
+   "right",
+   "top"
+  ],
+  "rects": {
+   "back": [
+    12,
+    12,
+    441,
+    555
+   ],
+   "left": [
+    465,
+    12,
+    265,
+    555
+   ],
+   "right": [
+    742,
+    12,
+    265,
+    555
+   ],
+   "top": [
+    12,
+    579,
+    441,
+    265
+   ],
+   "bottom": [
+    465,
+    579,
+    441,
+    265
+   ]
+  },
+  "faces": 387,
+  "dims_mm": [
+   175.0,
+   220.0,
+   105.0
+  ],
+  "texture": "KF_Pantry\\data\\r049_pack_combatration_co.paa",
+  "png": "tools\\models\\textures\\packaging\\r049_pack_combatration_co.png",
+  "paa": "source\\KF_Pantry\\data\\r049_pack_combatration_co.paa",
+  "fixed_sha256": "76d8c39a68e2a7ec66c2e85e3f317dc741494d9ba0cce1ee0b68aabadf78dd17",
+  "bounds_unchanged": true
+ },
+ {
+  "model": "bananamilk",
+  "original_sha256": "4ecceae4dc75fd946c6405763a18512107ffa1a7af89f8e12b22a4656ffdb06a",
+  "kind": "bottle",
+  "faces": 336,
+  "r_bot": 0.03714999971196612,
+  "r_top": 0.025150000001669736,
+  "texture": "KF_Pantry\\data\\r049_pack_bananamilk_co.paa",
+  "png": "tools\\models\\textures\\packaging\\r049_pack_bananamilk_co.png",
+  "paa": "source\\KF_Pantry\\data\\r049_pack_bananamilk_co.paa",
+  "fixed_sha256": "98c74e5d618124aabeb93192eb8f899c76de658f84b62a5fe0fd973b653dc6c9",
+  "bounds_unchanged": true
+ },
+ {
+  "model": "strawberrymilk",
+  "original_sha256": "31f1c455460330a4b1b4565ada7b7e9604c2aabc9c30086e653f13bb3479ee14",
+  "kind": "bottle",
+  "faces": 336,
+  "r_bot": 0.03714999971196612,
+  "r_top": 0.025150000001669736,
+  "texture": "KF_Pantry\\data\\r049_pack_strawberrymilk_co.paa",
+  "png": "tools\\models\\textures\\packaging\\r049_pack_strawberrymilk_co.png",
+  "paa": "source\\KF_Pantry\\data\\r049_pack_strawberrymilk_co.paa",
+  "fixed_sha256": "1061161342b24c9996ec41a369a3b257cacae5baa7d8147c18ef7f71408173a4",
+  "bounds_unchanged": true
+ },
+ {
+  "model": "melonamilk",
+  "original_sha256": "28201bea7140c31109cc8bf671f708e960424133be87fafb563d3e2b59799697",
+  "kind": "bottle",
+  "faces": 336,
+  "r_bot": 0.03714999971196612,
+  "r_top": 0.025150000001669736,
+  "texture": "KF_Pantry\\data\\r049_pack_melonamilk_co.paa",
+  "png": "tools\\models\\textures\\packaging\\r049_pack_melonamilk_co.png",
+  "paa": "source\\KF_Pantry\\data\\r049_pack_melonamilk_co.paa",
+  "fixed_sha256": "5a33c5373e70609494d8f08a1fc2e72d1fdd6b15b03bac5f78db8b74a6d1e29f",
+  "bounds_unchanged": true
+ },
+ {
+  "model": "yukgaejangbowl",
+  "original_sha256": "c58d352e9437c2a22005af2e1e363b4af881c7c35d6b6f34b13c5773f74a8a3c",
+  "kind": "bowl",
+  "faces": 504,
+  "texture": "KF_Pantry\\data\\r049_pack_yukgaejangbowl_sleeve_co.paa",
+  "png": "tools\\models\\textures\\packaging\\r049_pack_yukgaejangbowl_sleeve_co.png",
+  "paa": "source\\KF_Pantry\\data\\r049_pack_yukgaejangbowl_sleeve_co.paa",
+  "fixed_sha256": "6fc30352652938d289043cf037b02f6ee326cf754449974fc30779e939283a1c",
+  "bounds_unchanged": true
+ },
+ {
+  "model": "yukgaejangbowl_open",
+  "original_sha256": "122f8fbc0e9008479dd87f69f51d56fec6d1032791bdefd53b2b00c84c6d881e",
+  "kind": "bowl",
+  "faces": 504,
+  "texture": "KF_Pantry\\data\\r049_pack_yukgaejangbowl_sleeve_co.paa",
+  "png": "tools\\models\\textures\\packaging\\r049_pack_yukgaejangbowl_sleeve_co.png",
+  "paa": "source\\KF_Pantry\\data\\r049_pack_yukgaejangbowl_sleeve_co.paa",
+  "fixed_sha256": "53924722024f66d4c40f90b8af416c5ddf54e54cb5e495a1bf037105196ec405",
+  "bounds_unchanged": true
+ }
+]

@@ -1,0 +1,1016 @@
+[
+ {
+  "model": "KF_Pantry/models/tea_cup.p3d",
+  "original_sha256": "983bd50546add376f736a4676a5bef51b007e0d4935c74bd8534a81f1d939fbd",
+  "fixed_sha256": "39daddb004357aa7291a59a2763cf8be64fbe6c2211824d20bf93d5693bc4fa9",
+  "lod0_bounds": [
+   [
+    -0.0465,
+    0.0485
+   ],
+   [
+    0.0,
+    0.11931
+   ],
+   [
+    -0.0465,
+    0.0465
+   ]
+  ],
+  "lod1": {
+   "removed_ring_faces": 160,
+   "recoloured_rim_faces": 160
+  },
+  "lod3": {
+   "removed_ring_faces": 80,
+   "recoloured_rim_faces": 80
+  }
+ },
+ {
+  "model": "KF_Pantry/models/mix_cup.p3d",
+  "original_sha256": "ce7e70b723fc76a0a58996a3092929662f329b03c9076816d5ba23e72ffc085b",
+  "fixed_sha256": "d0d40f49ade80aee38c7e8565a441d7fd2a60cd7f0fcce3480d37d5b282f1e68",
+  "lod0_bounds": [
+   [
+    -0.0465,
+    0.0465
+   ],
+   [
+    0.0,
+    0.1165
+   ],
+   [
+    -0.0465,
+    0.0465
+   ]
+  ],
+  "lod1": {
+   "removed_ring_faces": 160,
+   "recoloured_rim_faces": 160
+  },
+  "lod3": {
+   "removed_ring_faces": 80,
+   "recoloured_rim_faces": 80
+  }
+ },
+ {
+  "model": "KF_Pantry/models/barleytea_cup.p3d",
+  "original_sha256": "143ade7b60146adc102abcca0db57cfff73a87de543fbd2a47a475810aab7182",
+  "fixed_sha256": "3cbe621362070c41465514fe174f39d6247892acddaf76a7403aa8c35742a8cb",
+  "lod0_bounds": [
+   [
+    -0.0372,
+    0.044
+   ],
+   [
+    0.003,
+    0.09422
+   ],
+   [
+    -0.0372,
+    0.0372
+   ]
+  ],
+  "lod1": {
+   "outer_wall_faces": 96,
+   "wall_y": [
+    0.008,
+    0.093
+   ]
+  },
+  "lod3": {
+   "outer_wall_faces": 48,
+   "wall_y": [
+    0.008,
+    0.093
+   ]
+  },
+  "lod6": {
+   "outer_wall_faces": 24,
+   "wall_y": [
+    0.008,
+    0.093
+   ]
+  }
+ },
+ {
+  "model": "KF_Pantry/models/barleytea_drink.p3d",
+  "original_sha256": "328d097c5a1b61ac8213f9998d3c0ad8367f30fc4fb3026c0a0578ddfacbf97b",
+  "fixed_sha256": "ae6f0b1095b79182c5f5182fefb29001b4e3717cd51a3b30d997c0d1231a51d5",
+  "lod0_bounds": [
+   [
+    -0.0372,
+    0.0372
+   ],
+   [
+    0.003,
+    0.09404
+   ],
+   [
+    -0.0372,
+    0.0372
+   ]
+  ],
+  "lod1": {
+   "outer_wall_faces": 96,
+   "wall_y": [
+    0.008,
+    0.093
+   ]
+  },
+  "lod3": {
+   "outer_wall_faces": 48,
+   "wall_y": [
+    0.008,
+    0.093
+   ]
+  },
+  "lod6": {
+   "outer_wall_faces": 24,
+   "wall_y": [
+    0.008,
+    0.093
+   ]
+  }
+ },
+ {
+  "model": "KF_Pantry/models/cassiaseedtea_cup.p3d",
+  "original_sha256": "143ade7b60146adc102abcca0db57cfff73a87de543fbd2a47a475810aab7182",
+  "fixed_sha256": "3cbe621362070c41465514fe174f39d6247892acddaf76a7403aa8c35742a8cb",
+  "lod0_bounds": [
+   [
+    -0.0372,
+    0.044
+   ],
+   [
+    0.003,
+    0.09422
+   ],
+   [
+    -0.0372,
+    0.0372
+   ]
+  ],
+  "lod1": {
+   "outer_wall_faces": 96,
+   "wall_y": [
+    0.008,
+    0.093
+   ]
+  },
+  "lod3": {
+   "outer_wall_faces": 48,
+   "wall_y": [
+    0.008,
+    0.093
+   ]
+  },
+  "lod6": {
+   "outer_wall_faces": 24,
+   "wall_y": [
+    0.008,
+    0.093
+   ]
+  }
+ },
+ {
+  "model": "KF_Pantry/models/cassiaseedtea_drink.p3d",
+  "original_sha256": "328d097c5a1b61ac8213f9998d3c0ad8367f30fc4fb3026c0a0578ddfacbf97b",
+  "fixed_sha256": "ae6f0b1095b79182c5f5182fefb29001b4e3717cd51a3b30d997c0d1231a51d5",
+  "lod0_bounds": [
+   [
+    -0.0372,
+    0.0372
+   ],
+   [
+    0.003,
+    0.09404
+   ],
+   [
+    -0.0372,
+    0.0372
+   ]
+  ],
+  "lod1": {
+   "outer_wall_faces": 96,
+   "wall_y": [
+    0.008,
+    0.093
+   ]
+  },
+  "lod3": {
+   "outer_wall_faces": 48,
+   "wall_y": [
+    0.008,
+    0.093
+   ]
+  },
+  "lod6": {
+   "outer_wall_faces": 24,
+   "wall_y": [
+    0.008,
+    0.093
+   ]
+  }
+ },
+ {
+  "model": "KF_Pantry/models/coffeemix_cup.p3d",
+  "original_sha256": "1424a459f0d7a7cb5947867302d3156ce8da35fb8ec165f8f5d6d0f4e0f1c6a5",
+  "fixed_sha256": "e0dca359302937b54387d890c72359968b4477800e359ef968c6e344bc5311b0",
+  "lod0_bounds": [
+   [
+    -0.0372,
+    0.0372
+   ],
+   [
+    0.003,
+    0.09404
+   ],
+   [
+    -0.0372,
+    0.0372
+   ]
+  ],
+  "lod1": {
+   "outer_wall_faces": 96,
+   "wall_y": [
+    0.008,
+    0.093
+   ]
+  },
+  "lod3": {
+   "outer_wall_faces": 48,
+   "wall_y": [
+    0.008,
+    0.093
+   ]
+  },
+  "lod6": {
+   "outer_wall_faces": 24,
+   "wall_y": [
+    0.008,
+    0.093
+   ]
+  }
+ },
+ {
+  "model": "KF_Pantry/models/coffeemix_drink.p3d",
+  "original_sha256": "488aac37691909343279b5d27fcf5ca5577cc2c791d11f37b5f7040ca8cb0019",
+  "fixed_sha256": "1f159fc8a3d71749661d61a52ce2c306249942625c66588d23d3f20058a95c72",
+  "lod0_bounds": [
+   [
+    -0.0372,
+    0.0372
+   ],
+   [
+    0.003,
+    0.09404
+   ],
+   [
+    -0.0372,
+    0.0372
+   ]
+  ],
+  "lod1": {
+   "outer_wall_faces": 96,
+   "wall_y": [
+    0.008,
+    0.093
+   ]
+  },
+  "lod3": {
+   "outer_wall_faces": 48,
+   "wall_y": [
+    0.008,
+    0.093
+   ]
+  },
+  "lod6": {
+   "outer_wall_faces": 24,
+   "wall_y": [
+    0.008,
+    0.093
+   ]
+  }
+ },
+ {
+  "model": "KF_Pantry/models/corntea_cup.p3d",
+  "original_sha256": "143ade7b60146adc102abcca0db57cfff73a87de543fbd2a47a475810aab7182",
+  "fixed_sha256": "3cbe621362070c41465514fe174f39d6247892acddaf76a7403aa8c35742a8cb",
+  "lod0_bounds": [
+   [
+    -0.0372,
+    0.044
+   ],
+   [
+    0.003,
+    0.09422
+   ],
+   [
+    -0.0372,
+    0.0372
+   ]
+  ],
+  "lod1": {
+   "outer_wall_faces": 96,
+   "wall_y": [
+    0.008,
+    0.093
+   ]
+  },
+  "lod3": {
+   "outer_wall_faces": 48,
+   "wall_y": [
+    0.008,
+    0.093
+   ]
+  },
+  "lod6": {
+   "outer_wall_faces": 24,
+   "wall_y": [
+    0.008,
+    0.093
+   ]
+  }
+ },
+ {
+  "model": "KF_Pantry/models/corntea_drink.p3d",
+  "original_sha256": "328d097c5a1b61ac8213f9998d3c0ad8367f30fc4fb3026c0a0578ddfacbf97b",
+  "fixed_sha256": "ae6f0b1095b79182c5f5182fefb29001b4e3717cd51a3b30d997c0d1231a51d5",
+  "lod0_bounds": [
+   [
+    -0.0372,
+    0.0372
+   ],
+   [
+    0.003,
+    0.09404
+   ],
+   [
+    -0.0372,
+    0.0372
+   ]
+  ],
+  "lod1": {
+   "outer_wall_faces": 96,
+   "wall_y": [
+    0.008,
+    0.093
+   ]
+  },
+  "lod3": {
+   "outer_wall_faces": 48,
+   "wall_y": [
+    0.008,
+    0.093
+   ]
+  },
+  "lod6": {
+   "outer_wall_faces": 24,
+   "wall_y": [
+    0.008,
+    0.093
+   ]
+  }
+ },
+ {
+  "model": "KF_Pantry/models/doenjangblock_cup.p3d",
+  "original_sha256": "d079a12ecc45b7963e3fbef3ac71c92a5a5ad4580579ba848fd6b67375787681",
+  "fixed_sha256": "8250b1f0d1442cc338eeac0deedfb0d98a509c221c70842c284e2bbcd5488dc2",
+  "lod0_bounds": [
+   [
+    -0.0372,
+    0.0372
+   ],
+   [
+    0.003,
+    0.09404
+   ],
+   [
+    -0.0372,
+    0.0372
+   ]
+  ],
+  "lod1": {
+   "outer_wall_faces": 96,
+   "wall_y": [
+    0.008,
+    0.093
+   ]
+  },
+  "lod3": {
+   "outer_wall_faces": 48,
+   "wall_y": [
+    0.008,
+    0.093
+   ]
+  },
+  "lod6": {
+   "outer_wall_faces": 24,
+   "wall_y": [
+    0.008,
+    0.093
+   ]
+  }
+ },
+ {
+  "model": "KF_Pantry/models/doenjangblock_drink.p3d",
+  "original_sha256": "a1832d432b9b3e11cef91f6e00a1f58b19ba58ed1446a6a92f24aacb297c973d",
+  "fixed_sha256": "771445f41f7b36fd63f50934998c94d5d34ec958146014d6fca0459af19effb0",
+  "lod0_bounds": [
+   [
+    -0.0372,
+    0.0372
+   ],
+   [
+    0.003,
+    0.09404
+   ],
+   [
+    -0.0372,
+    0.0372
+   ]
+  ],
+  "lod1": {
+   "outer_wall_faces": 96,
+   "wall_y": [
+    0.008,
+    0.093
+   ]
+  },
+  "lod3": {
+   "outer_wall_faces": 48,
+   "wall_y": [
+    0.008,
+    0.093
+   ]
+  },
+  "lod6": {
+   "outer_wall_faces": 24,
+   "wall_y": [
+    0.008,
+    0.093
+   ]
+  }
+ },
+ {
+  "model": "KF_Pantry/models/eggsoupblock_cup.p3d",
+  "original_sha256": "d079a12ecc45b7963e3fbef3ac71c92a5a5ad4580579ba848fd6b67375787681",
+  "fixed_sha256": "8250b1f0d1442cc338eeac0deedfb0d98a509c221c70842c284e2bbcd5488dc2",
+  "lod0_bounds": [
+   [
+    -0.0372,
+    0.0372
+   ],
+   [
+    0.003,
+    0.09404
+   ],
+   [
+    -0.0372,
+    0.0372
+   ]
+  ],
+  "lod1": {
+   "outer_wall_faces": 96,
+   "wall_y": [
+    0.008,
+    0.093
+   ]
+  },
+  "lod3": {
+   "outer_wall_faces": 48,
+   "wall_y": [
+    0.008,
+    0.093
+   ]
+  },
+  "lod6": {
+   "outer_wall_faces": 24,
+   "wall_y": [
+    0.008,
+    0.093
+   ]
+  }
+ },
+ {
+  "model": "KF_Pantry/models/eggsoupblock_drink.p3d",
+  "original_sha256": "a342f53e3b969ffc4796d59a93bc50dfd1b2c12896aed128f33b14dfeb0366b4",
+  "fixed_sha256": "c939ca3dd176732fbf98da7efa87b2a6b009c13af4aa928f6613813a5b17adb7",
+  "lod0_bounds": [
+   [
+    -0.0372,
+    0.0372
+   ],
+   [
+    0.003,
+    0.09404
+   ],
+   [
+    -0.0372,
+    0.0372
+   ]
+  ],
+  "lod1": {
+   "outer_wall_faces": 96,
+   "wall_y": [
+    0.008,
+    0.093
+   ]
+  },
+  "lod3": {
+   "outer_wall_faces": 48,
+   "wall_y": [
+    0.008,
+    0.093
+   ]
+  },
+  "lod6": {
+   "outer_wall_faces": 24,
+   "wall_y": [
+    0.008,
+    0.093
+   ]
+  }
+ },
+ {
+  "model": "KF_Pantry/models/misutgaru_cup.p3d",
+  "original_sha256": "7f402d54c341a423a20b4deda04773c398320d2f6e5b2cbdf7d43539e1551401",
+  "fixed_sha256": "f38fb095a7a68b6063e7adb34b5aebfca78ebebde1b0ef99152823eec7804ad6",
+  "lod0_bounds": [
+   [
+    -0.0372,
+    0.0372
+   ],
+   [
+    0.003,
+    0.09404
+   ],
+   [
+    -0.0372,
+    0.0372
+   ]
+  ],
+  "lod1": {
+   "outer_wall_faces": 96,
+   "wall_y": [
+    0.008,
+    0.093
+   ]
+  },
+  "lod3": {
+   "outer_wall_faces": 48,
+   "wall_y": [
+    0.008,
+    0.093
+   ]
+  },
+  "lod6": {
+   "outer_wall_faces": 24,
+   "wall_y": [
+    0.008,
+    0.093
+   ]
+  }
+ },
+ {
+  "model": "KF_Pantry/models/misutgaru_drink.p3d",
+  "original_sha256": "3dcc0aca3e990ce64dff7a2985865435983b9ab35d4f91858e036ded5014e6b2",
+  "fixed_sha256": "df5d1228181a51989081448d2ae490b73edc56745d6a3ebaba1a7ee7b1e8d942",
+  "lod0_bounds": [
+   [
+    -0.0372,
+    0.0372
+   ],
+   [
+    0.003,
+    0.09404
+   ],
+   [
+    -0.0372,
+    0.0372
+   ]
+  ],
+  "lod1": {
+   "outer_wall_faces": 96,
+   "wall_y": [
+    0.008,
+    0.093
+   ]
+  },
+  "lod3": {
+   "outer_wall_faces": 48,
+   "wall_y": [
+    0.008,
+    0.093
+   ]
+  },
+  "lod6": {
+   "outer_wall_faces": 24,
+   "wall_y": [
+    0.008,
+    0.093
+   ]
+  }
+ },
+ {
+  "model": "KF_Pantry/models/paper_cup.p3d",
+  "original_sha256": "1753ac8428eeaeabf9f760e818a3c7945f2bcffad26388eb63fd36a35b064ad3",
+  "fixed_sha256": "dca919794f29bdff2dc41532b160c0448e5efeb532605ae2c2fe1111bc09616b",
+  "lod0_bounds": [
+   [
+    -0.0372,
+    0.0372
+   ],
+   [
+    0.003,
+    0.09404
+   ],
+   [
+    -0.0372,
+    0.0372
+   ]
+  ],
+  "lod1": {
+   "outer_wall_faces": 96,
+   "wall_y": [
+    0.008,
+    0.093
+   ]
+  },
+  "lod3": {
+   "outer_wall_faces": 48,
+   "wall_y": [
+    0.008,
+    0.093
+   ]
+  },
+  "lod6": {
+   "outer_wall_faces": 24,
+   "wall_y": [
+    0.008,
+    0.093
+   ]
+  }
+ },
+ {
+  "model": "KF_Pantry/models/powder_cup.p3d",
+  "original_sha256": "76a6466b0da4cf296e0bb89144b0de1950309003aa79dd531c1a39e8988b1823",
+  "fixed_sha256": "b89579e817acf61c6fa53581f6f8ec259426efab720ec46ab84bc132145907e6",
+  "lod0_bounds": [
+   [
+    -0.0372,
+    0.0372
+   ],
+   [
+    0.003,
+    0.09404
+   ],
+   [
+    -0.0372,
+    0.0372
+   ]
+  ],
+  "lod1": {
+   "outer_wall_faces": 192,
+   "wall_y": [
+    0.008,
+    0.093
+   ]
+  },
+  "lod3": {
+   "outer_wall_faces": 96,
+   "wall_y": [
+    0.008,
+    0.093
+   ]
+  },
+  "lod6": {
+   "outer_wall_faces": 48,
+   "wall_y": [
+    0.008,
+    0.093
+   ]
+  }
+ },
+ {
+  "model": "KF_Pantry/models/seaweedsoupblock_cup.p3d",
+  "original_sha256": "d079a12ecc45b7963e3fbef3ac71c92a5a5ad4580579ba848fd6b67375787681",
+  "fixed_sha256": "8250b1f0d1442cc338eeac0deedfb0d98a509c221c70842c284e2bbcd5488dc2",
+  "lod0_bounds": [
+   [
+    -0.0372,
+    0.0372
+   ],
+   [
+    0.003,
+    0.09404
+   ],
+   [
+    -0.0372,
+    0.0372
+   ]
+  ],
+  "lod1": {
+   "outer_wall_faces": 96,
+   "wall_y": [
+    0.008,
+    0.093
+   ]
+  },
+  "lod3": {
+   "outer_wall_faces": 48,
+   "wall_y": [
+    0.008,
+    0.093
+   ]
+  },
+  "lod6": {
+   "outer_wall_faces": 24,
+   "wall_y": [
+    0.008,
+    0.093
+   ]
+  }
+ },
+ {
+  "model": "KF_Pantry/models/seaweedsoupblock_drink.p3d",
+  "original_sha256": "62694bd55474ac496212d94d5372a88d2feb2d3011cecf64cef6dbce8408ed21",
+  "fixed_sha256": "c5b2906fbe3fa4b4bb0f64759f4152a2e1f88ffd55d856d76b3fc237ce30b33e",
+  "lod0_bounds": [
+   [
+    -0.0372,
+    0.0372
+   ],
+   [
+    0.003,
+    0.09404
+   ],
+   [
+    -0.0372,
+    0.0372
+   ]
+  ],
+  "lod1": {
+   "outer_wall_faces": 96,
+   "wall_y": [
+    0.008,
+    0.093
+   ]
+  },
+  "lod3": {
+   "outer_wall_faces": 48,
+   "wall_y": [
+    0.008,
+    0.093
+   ]
+  },
+  "lod6": {
+   "outer_wall_faces": 24,
+   "wall_y": [
+    0.008,
+    0.093
+   ]
+  }
+ },
+ {
+  "model": "KF_Pantry/models/solomonsealtea_cup.p3d",
+  "original_sha256": "143ade7b60146adc102abcca0db57cfff73a87de543fbd2a47a475810aab7182",
+  "fixed_sha256": "3cbe621362070c41465514fe174f39d6247892acddaf76a7403aa8c35742a8cb",
+  "lod0_bounds": [
+   [
+    -0.0372,
+    0.044
+   ],
+   [
+    0.003,
+    0.09422
+   ],
+   [
+    -0.0372,
+    0.0372
+   ]
+  ],
+  "lod1": {
+   "outer_wall_faces": 96,
+   "wall_y": [
+    0.008,
+    0.093
+   ]
+  },
+  "lod3": {
+   "outer_wall_faces": 48,
+   "wall_y": [
+    0.008,
+    0.093
+   ]
+  },
+  "lod6": {
+   "outer_wall_faces": 24,
+   "wall_y": [
+    0.008,
+    0.093
+   ]
+  }
+ },
+ {
+  "model": "KF_Pantry/models/solomonsealtea_drink.p3d",
+  "original_sha256": "328d097c5a1b61ac8213f9998d3c0ad8367f30fc4fb3026c0a0578ddfacbf97b",
+  "fixed_sha256": "ae6f0b1095b79182c5f5182fefb29001b4e3717cd51a3b30d997c0d1231a51d5",
+  "lod0_bounds": [
+   [
+    -0.0372,
+    0.0372
+   ],
+   [
+    0.003,
+    0.09404
+   ],
+   [
+    -0.0372,
+    0.0372
+   ]
+  ],
+  "lod1": {
+   "outer_wall_faces": 96,
+   "wall_y": [
+    0.008,
+    0.093
+   ]
+  },
+  "lod3": {
+   "outer_wall_faces": 48,
+   "wall_y": [
+    0.008,
+    0.093
+   ]
+  },
+  "lod6": {
+   "outer_wall_faces": 24,
+   "wall_y": [
+    0.008,
+    0.093
+   ]
+  }
+ },
+ {
+  "model": "KF_Pantry/models/whitegoldcoffee_cup.p3d",
+  "original_sha256": "1424a459f0d7a7cb5947867302d3156ce8da35fb8ec165f8f5d6d0f4e0f1c6a5",
+  "fixed_sha256": "e0dca359302937b54387d890c72359968b4477800e359ef968c6e344bc5311b0",
+  "lod0_bounds": [
+   [
+    -0.0372,
+    0.0372
+   ],
+   [
+    0.003,
+    0.09404
+   ],
+   [
+    -0.0372,
+    0.0372
+   ]
+  ],
+  "lod1": {
+   "outer_wall_faces": 96,
+   "wall_y": [
+    0.008,
+    0.093
+   ]
+  },
+  "lod3": {
+   "outer_wall_faces": 48,
+   "wall_y": [
+    0.008,
+    0.093
+   ]
+  },
+  "lod6": {
+   "outer_wall_faces": 24,
+   "wall_y": [
+    0.008,
+    0.093
+   ]
+  }
+ },
+ {
+  "model": "KF_Pantry/models/whitegoldcoffee_drink.p3d",
+  "original_sha256": "488aac37691909343279b5d27fcf5ca5577cc2c791d11f37b5f7040ca8cb0019",
+  "fixed_sha256": "1f159fc8a3d71749661d61a52ce2c306249942625c66588d23d3f20058a95c72",
+  "lod0_bounds": [
+   [
+    -0.0372,
+    0.0372
+   ],
+   [
+    0.003,
+    0.09404
+   ],
+   [
+    -0.0372,
+    0.0372
+   ]
+  ],
+  "lod1": {
+   "outer_wall_faces": 96,
+   "wall_y": [
+    0.008,
+    0.093
+   ]
+  },
+  "lod3": {
+   "outer_wall_faces": 48,
+   "wall_y": [
+    0.008,
+    0.093
+   ]
+  },
+  "lod6": {
+   "outer_wall_faces": 24,
+   "wall_y": [
+    0.008,
+    0.093
+   ]
+  }
+ },
+ {
+  "model": "KF_Pantry/models/yukgaejangblock_cup.p3d",
+  "original_sha256": "d079a12ecc45b7963e3fbef3ac71c92a5a5ad4580579ba848fd6b67375787681",
+  "fixed_sha256": "8250b1f0d1442cc338eeac0deedfb0d98a509c221c70842c284e2bbcd5488dc2",
+  "lod0_bounds": [
+   [
+    -0.0372,
+    0.0372
+   ],
+   [
+    0.003,
+    0.09404
+   ],
+   [
+    -0.0372,
+    0.0372
+   ]
+  ],
+  "lod1": {
+   "outer_wall_faces": 96,
+   "wall_y": [
+    0.008,
+    0.093
+   ]
+  },
+  "lod3": {
+   "outer_wall_faces": 48,
+   "wall_y": [
+    0.008,
+    0.093
+   ]
+  },
+  "lod6": {
+   "outer_wall_faces": 24,
+   "wall_y": [
+    0.008,
+    0.093
+   ]
+  }
+ },
+ {
+  "model": "KF_Pantry/models/yukgaejangblock_drink.p3d",
+  "original_sha256": "3665778ecede42c135f4b5ec90708e54acf33b046396a47863bd8608d797e4a9",
+  "fixed_sha256": "3c60dd0e593203ca53c106ace8f16e5a3c3aba23e3ffe9b1c3df0900515fa85f",
+  "lod0_bounds": [
+   [
+    -0.0372,
+    0.0372
+   ],
+   [
+    0.003,
+    0.09404
+   ],
+   [
+    -0.0372,
+    0.0372
+   ]
+  ],
+  "lod1": {
+   "outer_wall_faces": 96,
+   "wall_y": [
+    0.008,
+    0.093
+   ]
+  },
+  "lod3": {
+   "outer_wall_faces": 48,
+   "wall_y": [
+    0.008,
+    0.093
+   ]
+  },
+  "lod6": {
+   "outer_wall_faces": 24,
+   "wall_y": [
+    0.008,
+    0.093
+   ]
+  }
+ }
+]

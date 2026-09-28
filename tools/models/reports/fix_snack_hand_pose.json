@@ -1,0 +1,32 @@
+{
+ "source": "zagorky.anm",
+ "source_sha256": "4895a7ba848a5ca70f678d543766f2d7b479da42a1c4a2fe37a915b6b2727f94",
+ "source_bytes": 1671,
+ "output": "source\\KF_Pantry\\anims\\kf_snack_inverted.anm",
+ "output_sha256": "171e2d934163dab27e1f62084d98003a2a942a593754b9a56a4b9180b0a0a4bb",
+ "output_bytes": 1671,
+ "fps": 30,
+ "bones": 22,
+ "bone": "RightHand_Dummy",
+ "axis": "x",
+ "dummy_q_old_xyzw": [
+  0.14142439363681636,
+  0.6333632448324488,
+  0.7596490830183029,
+  0.04210595786571503
+ ],
+ "dummy_q_new_xyzw": [
+  0.0421100787879255,
+  0.7596490383148193,
+  -0.6333632469177246,
+  -0.14141426806028967
+ ],
+ "q_quantization_error": 1.0125576526687219e-05,
+ "q_norms": [
+  0.9999934589312798,
+  0.9999934589312798
+ ],
+ "changed_bytes": 23,
+ "item_point_match_error_m": 2.163983197462152e-06,
+ "in_hand_equivalent": "upright model with this pose == v0.4.8 flipped model with zagorky.anm"
+}

@@ -1,0 +1,600 @@
+[
+ {
+  "model": "gatorade",
+  "addon": "KF_Pantry",
+  "texture": "KF_Pantry\\data\\r049_labels_gatorade_wrap_co.paa",
+  "faces_changed": 3192,
+  "backside_faces": 0,
+  "bands": [
+   [
+    -124,
+    -56
+   ],
+   [
+    56,
+    124
+   ]
+  ],
+  "mode": "cyl",
+  "size": [
+   1024,
+   512
+  ],
+  "sha256": "9c5e02aa0268560af045d0c6fd44c3f13915013e156a71f2719d8c3652313692"
+ },
+ {
+  "model": "gatoradeblue",
+  "addon": "KF_Pantry",
+  "texture": "KF_Pantry\\data\\r049_labels_gatoradeblue_wrap_co.paa",
+  "faces_changed": 3192,
+  "backside_faces": 0,
+  "bands": [
+   [
+    -124,
+    -56
+   ],
+   [
+    56,
+    124
+   ]
+  ],
+  "mode": "cyl",
+  "size": [
+   1024,
+   512
+  ],
+  "sha256": "2c2e6ce41f18e756195716b23203e29fdb72693d644950c3afeafa0815c5b31d"
+ },
+ {
+  "model": "gatoradezero",
+  "addon": "KF_Pantry",
+  "texture": "KF_Pantry\\data\\r049_labels_gatoradezero_wrap_co.paa",
+  "faces_changed": 3192,
+  "backside_faces": 0,
+  "bands": [
+   [
+    -124,
+    -56
+   ],
+   [
+    56,
+    124
+   ]
+  ],
+  "mode": "cyl",
+  "size": [
+   1024,
+   512
+  ],
+  "sha256": "c39de987cc8bf9a1fa08171cda2f3e7036eeed79227e833ae2a052cf4874d887"
+ },
+ {
+  "model": "ionthefit",
+  "addon": "KF_Pantry",
+  "texture": "KF_Pantry\\data\\r049_labels_ionthefit_wrap_co.paa",
+  "faces_changed": 4032,
+  "backside_faces": 3696,
+  "bands": [
+   [
+    -124,
+    -56
+   ],
+   [
+    56,
+    124
+   ]
+  ],
+  "mode": "cyl",
+  "size": [
+   1024,
+   512
+  ],
+  "sha256": "057a395af1b11fe8ef4d6f2642f1eba7c72e3ab78de739f107d31dbaf1807c15"
+ },
+ {
+  "model": "friedkimchi",
+  "addon": "KF_Pantry",
+  "texture": "KF_Pantry\\data\\r049_labels_friedkimchi_wrap_co.paa",
+  "faces_changed": 224,
+  "backside_faces": 0,
+  "bands": [
+   [
+    -127,
+    -84
+   ],
+   [
+    80,
+    100
+   ]
+  ],
+  "mode": "cyl",
+  "size": [
+   1024,
+   512
+  ],
+  "sha256": "55e863f4b05b59ea3fe308d9a423834922fa93f96110b30a0f0b2dcf8b7e7287"
+ },
+ {
+  "model": "friedkimchi_open",
+  "addon": "KF_Pantry",
+  "texture": "KF_Pantry\\data\\r049_labels_friedkimchi_open_wrap_co.paa",
+  "faces_changed": 224,
+  "backside_faces": 0,
+  "bands": [
+   [
+    -127,
+    -84
+   ],
+   [
+    80,
+    100
+   ]
+  ],
+  "mode": "cyl",
+  "size": [
+   1024,
+   512
+  ],
+  "sha256": "fd8e6326098561c4b198035bf239d4d13556b400f6aad7ecf990f5c55ede1d73"
+ },
+ {
+  "model": "mccol",
+  "addon": "KF_Pantry",
+  "texture": "KF_Pantry\\data\\r049_labels_mccol_wrap_co.paa",
+  "faces_changed": 672,
+  "backside_faces": 0,
+  "bands": [
+   [
+    -126,
+    -84
+   ],
+   [
+    54,
+    96
+   ]
+  ],
+  "mode": "cyl",
+  "size": [
+   1024,
+   512
+  ],
+  "sha256": "3a3bd1dd13db79322482b64a3e19163030a5f59bf47d1c4cbc5cd4ddeaa5839b"
+ },
+ {
+  "model": "sikhye",
+  "addon": "KF_Pantry",
+  "texture": "KF_Pantry\\data\\r049_labels_sikhye_wrap_co.paa",
+  "faces_changed": 504,
+  "backside_faces": 0,
+  "bands": [
+   [
+    -110,
+    -78
+   ],
+   [
+    72,
+    116
+   ]
+  ],
+  "mode": "cyl",
+  "size": [
+   1024,
+   512
+  ],
+  "sha256": "1a853dcd252e03631fdde702933b592860f60edcef4e6946c3fcf716edd650ab"
+ },
+ {
+  "model": "sujeonggwa",
+  "addon": "KF_Pantry",
+  "texture": "KF_Pantry\\data\\r049_labels_sujeonggwa_wrap_co.paa",
+  "faces_changed": 504,
+  "backside_faces": 0,
+  "bands": [
+   [
+    -126,
+    -84
+   ],
+   [
+    54,
+    96
+   ]
+  ],
+  "mode": "cyl",
+  "size": [
+   1024,
+   512
+  ],
+  "sha256": "3cd4468609c7ba903da31b09027080089e90f12244f634bccaec6d4871c230b6"
+ },
+ {
+  "model": "ssaksak",
+  "addon": "KF_Pantry",
+  "texture": "KF_Pantry\\data\\r049_labels_ssaksak_wrap_co.paa",
+  "faces_changed": 672,
+  "backside_faces": 0,
+  "bands": [
+   [
+    -130,
+    -84
+   ],
+   [
+    74,
+    100
+   ]
+  ],
+  "mode": "cyl",
+  "size": [
+   1024,
+   512
+  ],
+  "sha256": "936ac5534dcae8967590269f0215afdfcc2fe649a8bcf3e6469bd643b1ddea20"
+ },
+ {
+  "model": "pinenuts",
+  "addon": "KF_Pantry",
+  "texture": "KF_Pantry\\data\\r049_labels_pinenuts_wrap_co.paa",
+  "faces_changed": 168,
+  "backside_faces": 0,
+  "bands": [
+   [
+    -126,
+    -84
+   ],
+   [
+    54,
+    96
+   ]
+  ],
+  "mode": "cyl",
+  "size": [
+   1024,
+   512
+  ],
+  "sha256": "e08056ab3ea05ca14f48e81f8779eb80f61272176c63d6c0fb603eed3e80e8be"
+ },
+ {
+  "model": "pinenuts_open",
+  "addon": "KF_Pantry",
+  "texture": "KF_Pantry\\data\\r049_labels_pinenuts_open_wrap_co.paa",
+  "faces_changed": 168,
+  "backside_faces": 0,
+  "bands": [
+   [
+    -126,
+    -84
+   ],
+   [
+    54,
+    96
+   ]
+  ],
+  "mode": "cyl",
+  "size": [
+   1024,
+   512
+  ],
+  "sha256": "963607b2ab3382b6d3d1e469cc4fe3328825c7ae56ab7251555f408f47f6d6d6"
+ },
+ {
+  "model": "roastedblacksoy",
+  "addon": "KF_Pantry",
+  "texture": "KF_Pantry\\data\\r049_labels_roastedblacksoy_wrap_co.paa",
+  "faces_changed": 168,
+  "backside_faces": 0,
+  "bands": [
+   [
+    -126,
+    -84
+   ],
+   [
+    54,
+    108
+   ]
+  ],
+  "mode": "cyl",
+  "size": [
+   1024,
+   512
+  ],
+  "sha256": "49fa966b52e8e584fbb12efea70ca1df598f451a8b1856a534a4c51bc39a4ccf"
+ },
+ {
+  "model": "roastedblacksoy_open",
+  "addon": "KF_Pantry",
+  "texture": "KF_Pantry\\data\\r049_labels_roastedblacksoy_open_wrap_co.paa",
+  "faces_changed": 168,
+  "backside_faces": 0,
+  "bands": [
+   [
+    -126,
+    -84
+   ],
+   [
+    54,
+    108
+   ]
+  ],
+  "mode": "cyl",
+  "size": [
+   1024,
+   512
+  ],
+  "sha256": "52f2f5f7af487fada7431f629312299d85bbdc22c1a628530a4712059d193d2f"
+ },
+ {
+  "model": "sesameramen",
+  "addon": "KF_Pantry",
+  "texture": "KF_Pantry\\data\\r049_labels_sesameramen_wrap_co.paa",
+  "faces_changed": 504,
+  "backside_faces": 0,
+  "bands": [
+   [
+    -100,
+    -80
+   ],
+   [
+    80,
+    100
+   ]
+  ],
+  "mode": "cyl",
+  "size": [
+   1024,
+   512
+  ],
+  "sha256": "f3124c1995e651101c0769b0a98489d400527e7b8f91334b92e71ad8fc5a0dbc"
+ },
+ {
+  "model": "sesameramen_open",
+  "addon": "KF_Pantry",
+  "texture": "KF_Pantry\\data\\r049_labels_sesameramen_open_wrap_co.paa",
+  "faces_changed": 504,
+  "backside_faces": 0,
+  "bands": [
+   [
+    -100,
+    -80
+   ],
+   [
+    80,
+    100
+   ]
+  ],
+  "mode": "cyl",
+  "size": [
+   1024,
+   512
+  ],
+  "sha256": "d979e12ac6c89ef58b7dec952e0720d659c52823f72fab20f764fd02a15ab6be"
+ },
+ {
+  "model": "tempuraudon",
+  "addon": "KF_Pantry",
+  "texture": "KF_Pantry\\data\\r049_labels_tempuraudon_wrap_co.paa",
+  "faces_changed": 504,
+  "backside_faces": 0,
+  "bands": [
+   [
+    -112,
+    -64
+   ],
+   [
+    58,
+    100
+   ]
+  ],
+  "mode": "cyl",
+  "size": [
+   1024,
+   512
+  ],
+  "sha256": "2b537361f201b72e42a675bf76dad481de7fe85fa500cc5232c43f8d591f8adc"
+ },
+ {
+  "model": "tempuraudon_open",
+  "addon": "KF_Pantry",
+  "texture": "KF_Pantry\\data\\r049_labels_tempuraudon_open_wrap_co.paa",
+  "faces_changed": 504,
+  "backside_faces": 0,
+  "bands": [
+   [
+    -112,
+    -64
+   ],
+   [
+    58,
+    100
+   ]
+  ],
+  "mode": "cyl",
+  "size": [
+   1024,
+   512
+  ],
+  "sha256": "70ee92419b1b86621bf635a265a6102854d51d154c3817f14bc6d535e41a3f0c"
+ },
+ {
+  "model": "nurungji",
+  "addon": "KF_Pantry",
+  "texture": "KF_Pantry\\data\\r049_labels_nurungji_wrap_co.paa",
+  "faces_changed": 840,
+  "backside_faces": 0,
+  "bands": [
+   [
+    -136,
+    -80
+   ],
+   [
+    60,
+    100
+   ]
+  ],
+  "mode": "cyl",
+  "size": [
+   1024,
+   512
+  ],
+  "sha256": "0ec5519d1538ebb183ccab197319f62fe690ab3ac5d26c8971e6f25d5eb6a381"
+ },
+ {
+  "model": "nurungji_open",
+  "addon": "KF_Pantry",
+  "texture": "KF_Pantry\\data\\r049_labels_nurungji_open_wrap_co.paa",
+  "faces_changed": 840,
+  "backside_faces": 0,
+  "bands": [
+   [
+    -136,
+    -80
+   ],
+   [
+    60,
+    100
+   ]
+  ],
+  "mode": "cyl",
+  "size": [
+   1024,
+   512
+  ],
+  "sha256": "0208b2ad253b3021a0c68fd3c987af22ad027fe398f325c051a3c571a6891535"
+ },
+ {
+  "model": "shin_cup_dry",
+  "addon": "KF_Food",
+  "texture": "KF_Food\\data\\r049_labels_shin_cup_dry_wrap_co.paa",
+  "faces_changed": 1632,
+  "backside_faces": 0,
+  "bands": [
+   [
+    -116,
+    -62
+   ],
+   [
+    84,
+    128
+   ]
+  ],
+  "mode": "cyl",
+  "size": [
+   1024,
+   512
+  ],
+  "sha256": "0b1d6a7750129568a83fd68fcd05e5c46b5bbfc49535986e3a4190482909174e"
+ },
+ {
+  "model": "shin_cup_ready",
+  "addon": "KF_Food",
+  "texture": "KF_Food\\data\\r049_labels_shin_cup_ready_wrap_co.paa",
+  "faces_changed": 1632,
+  "backside_faces": 0,
+  "bands": [
+   [
+    -116,
+    -62
+   ],
+   [
+    84,
+    128
+   ]
+  ],
+  "mode": "cyl",
+  "size": [
+   1024,
+   512
+  ],
+  "sha256": "5f32530349c6a96b9778b6622ffa75bab3aa46ee7f29ab09cbd0d72c2b997b30"
+ },
+ {
+  "model": "neoguri_open",
+  "addon": "KF_Pantry",
+  "texture": "KF_Pantry\\data\\r049_labels_neoguri_open_wrap_co.paa",
+  "faces_changed": 2016,
+  "backside_faces": 0,
+  "bands": [
+   [
+    -102,
+    -78
+   ],
+   [
+    78,
+    102
+   ]
+  ],
+  "mode": "bag",
+  "size": [
+   1024,
+   512
+  ],
+  "sha256": "658c1d2a498400e0910744ba2f70346663713988c93fa51f5367d056e142201e"
+ },
+ {
+  "model": "paldobibim_open",
+  "addon": "KF_Pantry",
+  "texture": "KF_Pantry\\data\\r049_labels_paldobibim_open_wrap_co.paa",
+  "faces_changed": 2016,
+  "backside_faces": 0,
+  "bands": [
+   [
+    -102,
+    -78
+   ],
+   [
+    78,
+    102
+   ]
+  ],
+  "mode": "bag",
+  "size": [
+   1024,
+   512
+  ],
+  "sha256": "c0b6d9e217f708a80bb47afcbc7b6bd3430f047bf3435cfd6b262736e57d0bbc"
+ },
+ {
+  "model": "yugwa_open",
+  "addon": "KF_Pantry",
+  "texture": "KF_Pantry\\data\\r049_labels_yugwa_open_wrap_co.paa",
+  "faces_changed": 2016,
+  "backside_faces": 0,
+  "bands": [
+   [
+    -102,
+    -78
+   ],
+   [
+    78,
+    102
+   ]
+  ],
+  "mode": "bag",
+  "size": [
+   1024,
+   512
+  ],
+  "sha256": "c5dc81c894f0b3ee54d4b22b68e1f7f8ca2399be13c9cf341d8a73ef46d63db6"
+ },
+ {
+  "model": "matdongsan_open",
+  "addon": "KF_Pantry",
+  "texture": "KF_Pantry\\data\\r049_labels_matdongsan_open_wrap_co.paa",
+  "faces_changed": 2016,
+  "backside_faces": 0,
+  "bands": [
+   [
+    -102,
+    -78
+   ],
+   [
+    78,
+    102
+   ]
+  ],
+  "mode": "bag",
+  "size": [
+   1024,
+   512
+  ],
+  "sha256": "7ef4525cb9968ceb5bd3cd4a0e27b556c6d6482e817bc079dae80d683d4ba321"
+ }
+]
