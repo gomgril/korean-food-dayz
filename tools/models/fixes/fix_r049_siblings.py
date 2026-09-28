@@ -41,6 +41,10 @@ TOL = 1e-3
 REBAKE = [('KF_Pantry', 'neoguri_open'), ('KF_Pantry', 'paldobibim_open')]
 ARGV = sys.argv[sys.argv.index('--') + 1:] if '--' in sys.argv else sys.argv[1:]
 DRY = '--dry-run' in ARGV
+# user: keep original curry pouch (0.4.9): the curry pouch surfaces are never carried over to any model, and
+# curry_pouch / curry_open are never loaded or written by this script.
+KEEP_ORIGINAL_KEYS = {'curry_front', 'curry_back'}
+KEEP_ORIGINAL_MODELS = set(getattr(ph, 'KEEP_ORIGINAL', set())) | {('KF_Pantry', 'curry_pouch'), ('KF_Pantry', 'curry_open')}
 
 
 def sha(p):
@@ -55,6 +59,8 @@ def build_mapping():
     """old texture (lower) -> [dict(key, old, new, rect, side)] from group 5's SURFACES + layout."""
     mp = {}
     for key, s in ph.SURFACES.items():
+        if key in KEEP_ORIGINAL_KEYS:   # user: keep original curry pouch (0.4.9)
+            continue
         sides = {side for _, _, side in s['models']}
         side = sides.pop() if len(sides) == 1 else 'all'
         mp.setdefault(s['old'].lower(), []).append(dict(key=key, old=s['old'], new=s['new'], rect=LAYOUT[key]['rect'], side=side))
@@ -106,7 +112,7 @@ def backup(addon, name):
 # ------------------------------------------------------------------ 1. re-point siblings in place
 def repoint_siblings():
     out, untouched = [], []
-    skip = GROUP5_MODELS | set(REBAKE)
+    skip = GROUP5_MODELS | set(REBAKE) | KEEP_ORIGINAL_MODELS
     for addon in ('KF_Pantry', 'KF_Food'):
         for p in sorted((SRC / addon / 'models').glob('*.p3d')):
             if (addon, p.stem) in skip:

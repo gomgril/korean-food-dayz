@@ -91,6 +91,9 @@ SURFACES = {
 MISUT = dict(front=T('KF_Pantry', 'r049_photos_misutgaru_front_co'), back=T('KF_Pantry', 'r049_photos_misutgaru_back_co'),
              parts=T('KF_Pantry', 'r049_photos_misutgaru_parts_co'))
 MISUT_MODELS = ['misutgaru', 'misutgaru_open']
+# user: keep original curry pouch (0.4.9). curry_pouch / curry_open stay the 0.4.8 originals: they are never re-pointed
+# or written here (the curry_front/back SURFACES entries stay only so the layout + texture steps are unchanged).
+KEEP_ORIGINAL = {('KF_Pantry', 'curry_pouch'), ('KF_Pantry', 'curry_open')}
 
 
 def model_path(addon, name):
@@ -154,6 +157,8 @@ def retexture_models(layout):
     per_model = {}
     for key, s in SURFACES.items():
         for addon, name, side in s['models']:
+            if (addon, name) in KEEP_ORIGINAL:   # user: keep original curry pouch (0.4.9)
+                continue
             per_model.setdefault((addon, name), []).append((s['old'], s['new'], side))
     report = []
     for (addon, name), subs in sorted(per_model.items()):

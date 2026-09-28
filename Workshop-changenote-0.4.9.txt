@@ -1,0 +1,29 @@
+0.4.9
+
+모델·텍스처를 전체 점검해 140여 개 모델을 고쳤습니다.
+• 개봉 빼빼로 6종과 개봉 양갱·밤양갱이 바닥과 인벤토리에서 거꾸로 보이던 문제를 고쳤습니다. 손에 들면 먹는 끝이 입 쪽을 향하도록 손 자세를 새로 만들었습니다.
+• 미숫가루 봉지를 새로 만들었습니다. 사진을 붙인 판 대신 바닥이 있는 봉지와 깨끗한 라벨을 씁니다.
+• 전투용 식량 비빔밥 봉지에 찍혀 있던 손과 사진 배경을 없앴습니다.
+• 동결건조 된장국 봉지와 모카골드 커피믹스 스틱을 실제 제품에 가깝게 다시 만들었습니다.
+• 칠성사이다 라벨 글자가 옆으로 누워 있던 문제, 장조림·깻잎 통조림 라벨 비율, 에너지바 글자 방향을 고쳤습니다.
+• 게토레이·이온더핏·신라면 컵과 여러 캔·컵·봉지의 라벨 이음새를 매끄럽게 이었습니다.
+• 차·커피 상자, 빼빼로 상자, 양갱·과자, 전투식량·카레 상자의 뒷면과 옆면에 인쇄를 넣었습니다.
+• 우유 라벨이 병을 한 바퀴 두르고, 육개장 사발면 옆면에 인쇄가 들어갔습니다.
+• 봉지라면·과자 봉지의 주름진 사진 뒷면을 깨끗한 뒷면으로 바꿨습니다.
+• 개봉 과자·커피·국의 속 내용물, 조미김 트레이 바닥, 건빵·쥐포 두께, 전투식량 구성품 포장, 박카스 병 모양을 다듬었습니다.
+• 종이컵에 떠 있던 고리를 없애고 옅은 인쇄 띠를 넣었습니다.
+실제 뒷면 자료가 없는 제품은 앞면의 색과 로고로 뒷면을 구성했습니다.
+
+Model and texture overhaul: about 140 models fixed.
+• Opened Pepero (6) and opened yanggaeng now stand upright on the ground and in the inventory, with a new hand pose so the bite end still faces the mouth
+• Rebuilt the misugaru bag as a proper stand-up bag with a clean label
+• Removed the hand and photo background from the combat ration bibimbap pouch
+• Remade the freeze-dried doenjang soup pack and the Mocha Gold coffee mix stick to match the real products
+• Fixed the sideways Chilsung Cider logo, jangjorim and perilla can label proportions, and the energy bar text direction
+• Smoothed label seams on Gatorade, Ion the Fit, Shin Ramyun cup and many cans, cups and bags
+• Printed backs and sides for tea/coffee boxes, Pepero boxes, yanggaeng and snacks, and the ration and curry boxes
+• Milk labels now wrap around the bottle; the Yukgaejang bowl has a printed sleeve
+• Replaced wrinkled photo backs on noodle and snack bags with clean backs
+• Improved opened snack/coffee/soup contents, the seasoned laver tray, hardtack and jwipo thickness, ration pouches and the Bacchus bottle
+• Removed a floating ring from paper cups and added a light printed band
+Where the real back of a product was unavailable, the back was designed from the front art.

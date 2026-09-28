@@ -1,0 +1,291 @@
+[
+ {
+  "model": "KF_Pantry/models/doenjangblock.p3d",
+  "original": "tools/models/originals/KF_Pantry/models/doenjangblock.p3d",
+  "original_sha256": "1cfb8fd8749b77bd58a0c631b44310163a8ca68a6863e54c534eb0f5b1f40821",
+  "sha256_before": "b2464a04b4c5f6ddb36d83ebdee61f004df1bde397caecbac1740bcdfc7bed4c",
+  "sha256_after": "b2464a04b4c5f6ddb36d83ebdee61f004df1bde397caecbac1740bcdfc7bed4c",
+  "lod1_bounds": [
+   [
+    -0.05,
+    0.05
+   ],
+   [
+    0.0,
+    0.13
+   ],
+   [
+    -0.006,
+    0.006
+   ]
+  ],
+  "memory_points_unchanged": true,
+  "texture": "KF_Pantry\\data\\r049_refs_doenjang_pack_co.paa",
+  "png": "tools/models/textures/refs/r049_refs_doenjang_pack_co.png",
+  "paa": "source/KF_Pantry/data/r049_refs_doenjang_pack_co.paa",
+  "faces": {
+   "lod1": {
+    "front": 576,
+    "back": 576,
+    "x": [
+     -0.05,
+     0.05
+    ],
+    "y": [
+     0.0,
+     0.13
+    ]
+   },
+   "lod3": {
+    "front": 288,
+    "back": 288,
+    "x": [
+     -0.05,
+     0.05
+    ],
+    "y": [
+     0.0,
+     0.13
+    ]
+   },
+   "lod6": {
+    "front": 144,
+    "back": 144,
+    "x": [
+     -0.05,
+     0.05
+    ],
+    "y": [
+     0.0,
+     0.13
+    ]
+   }
+  },
+  "note": "print faces re-pointed from the shared 4-pouch atlas; geometry unchanged"
+ },
+ {
+  "model": "KF_Pantry/models/doenjangblock_open.p3d",
+  "original": "tools/models/originals/KF_Pantry/models/doenjangblock_open.p3d",
+  "original_sha256": "04190fb5902651c41df11dd29955a5908bac49bdad68c025f6610afb3dae6fb0",
+  "sha256_before": "b22565a2808fca00fae6ddc787a7b0b6012cdc6ecca926301b5afa64a76ff79b",
+  "sha256_after": "b22565a2808fca00fae6ddc787a7b0b6012cdc6ecca926301b5afa64a76ff79b",
+  "lod1_bounds": [
+   [
+    -0.045,
+    0.045
+   ],
+   [
+    0.0,
+    0.12
+   ],
+   [
+    -0.009,
+    0.009
+   ]
+  ],
+  "memory_points_unchanged": true,
+  "texture": "KF_Pantry\\data\\r049_refs_doenjang_open_co.paa",
+  "png": "tools/models/textures/refs/r049_refs_doenjang_open_co.png",
+  "paa": "source/KF_Pantry/data/r049_refs_doenjang_open_co.paa",
+  "faces": {
+   "lod1": {
+    "front": 80,
+    "back": 80,
+    "x": [
+     -0.045,
+     0.045
+    ],
+    "y": [
+     0.0,
+     0.12
+    ]
+   },
+   "lod3": {
+    "front": 40,
+    "back": 40,
+    "x": [
+     -0.045,
+     0.045
+    ],
+    "y": [
+     0.0,
+     0.12
+    ]
+   }
+  },
+  "group3": {
+   "print_uv_lod1": [
+    [
+     0.02,
+     0.49
+    ],
+    [
+     0.03,
+     0.47
+    ],
+    "->",
+    [
+     0.1211,
+     0.4336
+    ],
+    [
+     0.0957,
+     0.5117
+    ]
+   ],
+   "print_uv_lod3": [
+    [
+     0.02,
+     0.49
+    ],
+    [
+     0.03,
+     0.47
+    ],
+    "->",
+    [
+     0.1211,
+     0.4336
+    ],
+    [
+     0.0957,
+     0.5117
+    ]
+   ],
+   "lod1": {
+    "removed_box_faces": 84,
+    "added_faces": 16,
+    "block_half": [
+     0.019,
+     0.0064
+    ],
+    "inner_half": [
+     0.041,
+     0.0079
+    ]
+   },
+   "lod3": {
+    "removed_box_faces": 0,
+    "added_faces": 16,
+    "block_half": [
+     0.019,
+     0.0064
+    ],
+    "inner_half": [
+     0.041,
+     0.0079
+    ]
+   }
+  },
+  "note": "fix_opened_contents.fix() (width 0.09 m, freeze-dried block) + new print"
+ },
+ {
+  "model": "KF_Pantry/models/coffeemix_open.p3d",
+  "original": "tools/models/originals/KF_Pantry/models/coffeemix_open.p3d",
+  "original_sha256": "61a64a82380b7696b3a214889d1be9446a146834266c02147286650cde65abd9",
+  "sha256_before": "9f8bcef7c8dcfab1b70ef67e27830dc2c9efe33d6a7e03a3e38d80f7bf347f11",
+  "sha256_after": "9f8bcef7c8dcfab1b70ef67e27830dc2c9efe33d6a7e03a3e38d80f7bf347f11",
+  "lod1_bounds": [
+   [
+    -0.022,
+    0.022
+   ],
+   [
+    0.0,
+    0.12
+   ],
+   [
+    -0.009,
+    0.009
+   ]
+  ],
+  "memory_points_unchanged": true,
+  "texture": "KF_Pantry\\data\\r049_refs_mochagold_stick_co.paa",
+  "png": "tools/models/textures/refs/r049_refs_mochagold_stick_co.png",
+  "paa": "source/KF_Pantry/data/r049_refs_mochagold_stick_co.paa",
+  "faces": {
+   "lod1": {
+    "front": 80,
+    "back": 80,
+    "x": [
+     -0.022,
+     0.022
+    ],
+    "y": [
+     0.0,
+     0.12
+    ]
+   },
+   "lod3": {
+    "front": 40,
+    "back": 40,
+    "x": [
+     -0.022,
+     0.022
+    ],
+    "y": [
+     0.0,
+     0.12
+    ]
+   }
+  },
+  "group3": {
+   "lod1": {
+    "removed_box_faces": 84,
+    "added_faces": 96,
+    "xs": 0.0201,
+    "zs": 0.0079
+   },
+   "lod3": {
+    "removed_box_faces": 0,
+    "added_faces": 96,
+    "xs": 0.0201,
+    "zs": 0.0079
+   }
+  },
+  "note": "fix_opened_contents.fix() (powder contents) + new stick print front|back"
+ },
+ {
+  "model": "KF_Pantry/models/whitegoldcoffee.p3d",
+  "original": "tools/models/originals/KF_Pantry/models/whitegoldcoffee.p3d",
+  "original_sha256": "4cc1fafca2eda503983b0d3233f4e1fe7c1814b129b6e103c4c1a823e14d65ac",
+  "sha256_before": "72aee0164b8b30a4c31b9bd40fe9baa1bace5a776b195e3c697168ea05e0fe6d",
+  "sha256_after": "72aee0164b8b30a4c31b9bd40fe9baa1bace5a776b195e3c697168ea05e0fe6d",
+  "lod1_bounds": [
+   [
+    -0.0775,
+    0.0775
+   ],
+   [
+    0.0,
+    0.093
+   ],
+   [
+    -0.0235,
+    0.0235
+   ]
+  ],
+  "memory_points_unchanged": true,
+  "texture": "KF_Pantry\\data\\r049_refs_whitegold_box_co.paa",
+  "png": "tools/models/textures/refs/r049_refs_whitegold_box_co.png",
+  "paa": "source/KF_Pantry/data/r049_refs_whitegold_box_co.paa",
+  "faces": {
+   "1_back": 20,
+   "1_left": 10,
+   "1_right": 10,
+   "1_top": 90,
+   "1_bottom": 90,
+   "3_back": 12,
+   "3_left": 6,
+   "3_right": 6,
+   "3_top": 42,
+   "3_bottom": 42,
+   "6_back": 8,
+   "6_left": 4,
+   "6_right": 4,
+   "6_top": 18,
+   "6_bottom": 18
+  },
+  "note": "group 4's box atlas + remap_box with a cream/gold White Gold theme; front art unchanged"
+ }
+]
