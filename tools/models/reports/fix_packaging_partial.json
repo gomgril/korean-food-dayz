@@ -1,0 +1,50 @@
+[
+ {
+  "model": "curry",
+  "original_sha256": "5a12ce55fb8205e28be450492bd8d2c6d9367ca14aa8e5e3a6af95516290562a",
+  "kind": "box",
+  "sides": [
+   "bottom",
+   "left",
+   "right",
+   "top"
+  ],
+  "rects": {
+   "left": [
+    12,
+    12,
+    98,
+    774
+   ],
+   "right": [
+    122,
+    12,
+    98,
+    774
+   ],
+   "top": [
+    12,
+    798,
+    559,
+    98
+   ],
+   "bottom": [
+    12,
+    908,
+    559,
+    98
+   ]
+  },
+  "faces": 338,
+  "dims_mm": [
+   125.0,
+   173.0,
+   22.0
+  ],
+  "texture": "KF_Pantry\\data\\r049_pack_curry_co.paa",
+  "png": "tools\\models\\textures\\packaging\\r049_pack_curry_co.png",
+  "paa": "source\\KF_Pantry\\data\\r049_pack_curry_co.paa",
+  "fixed_sha256": "47733c68dedbd6da397cce3f57d4a389521ee74e4b1a63fb9ab02261f0cb43ed",
+  "bounds_unchanged": true
+ }
+]
